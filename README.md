@@ -1,6 +1,6 @@
 # Buskool Data
 
-This repository contains the collected product data from the [Buskool website](http://www.buskool.com/) (باسکول). The data is stored in 50 JSON files, each containing detailed information about products available on the website.
+This repository contains the collected product data from the [Buskool website](http://www.buskool.com/) (باسکول). The data is stored in +50 JSON files, each containing detailed information about products available on the website.
 
 ## Structure
 - Each JSON file represents a subset of the product catalog.
@@ -20,7 +20,6 @@ This repository contains the collected product data from the [Buskool website](h
    ```
 
 2. Load the JSON files in your preferred environment for analysis or integration:
-
   ```python
   import json
   
@@ -41,6 +40,6 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
 
-Copyright © 2024, Max Base
-
 Let me know if you want any modifications or additional details!
+
+Copyright © 2024, Max Base
