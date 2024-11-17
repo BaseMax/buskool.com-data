@@ -23,7 +23,7 @@ This repository contains the collected product data from the [Buskool website](h
   ```python
   import json
   
-  with open('1.json', 'r', encoding='utf-8) as file:
+  with open('data/1.json', 'r', encoding='utf-8) as file:
       data = json.load(file)
       print(data)
   ```
