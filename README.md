@@ -40,6 +40,4 @@ Contributions, issues, and feature requests are welcome! Feel free to open an is
 
 This project is licensed under the GNU General Public License v3.0. See the LICENSE file for details.
 
-Let me know if you want any modifications or additional details!
-
 Copyright © 2024, Max Base
