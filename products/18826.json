@@ -1,1 +1,38 @@
-{"main":{"id":203893,"updated_at":"2024-11-13 23:23:45","product_name":"کشمش پلویی مشکی بوانات","stock":3000,"min_sale_price":112000,"min_sale_amount":1000,"description":"کشمش مشکی پلویی پاک شده ،تمیز شده و مخصوص مصارف خوراکی  \r\nدر کارتن های ده کیلویی \r\nگوشتی و ریز و یک دست ،شیرین و باکیفیت عالی\r\n\r\nجهت مطلع شدن از قیمت روز تماس بگیرید. \r\n\r\nمحصول باغهای بوانات<hr\/>برای اطلاع از قیمت روز کشمش پلویی مشکی بوانات و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : بسته بندی در کارتن<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : محصول کشمش گوشتی مخصوص مصارف خوراکی ،شیرینی پزی <hr\/>مقدار موجودی آماده فروش برای این محصول : 3000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 کیلوگرم<hr\/>","myuser_id":1029785,"sub_category_id":53,"province_name":"فارس","province_id":17,"city_name":" مرودشت","city_id":202,"sub_category_name":"کشمش","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":1029785,"user_name":"l19wf114p","first_name":"رقیه","last_name":"شیروانی","active_pakage_type":1,"created_at":"2024-08-14 20:58:32","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1730199961351-167390414-pBJUGlAYZqRswpdKeWfzSTJkfItHzE8EH64K0TIT.jpeg"}]}
+{
+    "main": {
+        "id": 203893,
+        "updated_at": "2024-11-13 23:23:45",
+        "product_name": "کشمش پلویی مشکی بوانات",
+        "stock": 3000,
+        "min_sale_price": 112000,
+        "min_sale_amount": 1000,
+        "description": "کشمش مشکی پلویی پاک شده ،تمیز شده و مخصوص مصارف خوراکی  \r\nدر کارتن های ده کیلویی \r\nگوشتی و ریز و یک دست ،شیرین و باکیفیت عالی\r\n\r\nجهت مطلع شدن از قیمت روز تماس بگیرید. \r\n\r\nمحصول باغهای بوانات<hr\/>برای اطلاع از قیمت روز کشمش پلویی مشکی بوانات و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : بسته بندی در کارتن<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : محصول کشمش گوشتی مخصوص مصارف خوراکی ،شیرینی پزی <hr\/>مقدار موجودی آماده فروش برای این محصول : 3000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 کیلوگرم<hr\/>",
+        "myuser_id": 1029785,
+        "sub_category_id": 53,
+        "province_name": "فارس",
+        "province_id": 17,
+        "city_name": " مرودشت",
+        "city_id": 202,
+        "sub_category_name": "کشمش",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1029785,
+        "user_name": "l19wf114p",
+        "first_name": "رقیه",
+        "last_name": "شیروانی",
+        "active_pakage_type": 1,
+        "created_at": "2024-08-14 20:58:32",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1730199961351-167390414-pBJUGlAYZqRswpdKeWfzSTJkfItHzE8EH64K0TIT.jpeg"
+        }
+    ]
+}

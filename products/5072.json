@@ -1,1 +1,38 @@
-{"main":{"id":207577,"updated_at":"2024-11-16 10:09:49","product_name":"سیرسیاه","stock":50000,"min_sale_price":380000,"min_sale_amount":100,"description":"ما تولید کننده سیرسیاه همدان هستیم\r\nدرصورت نیاز به همکاری اطلاع رسانی کنید\r\n\r\nتخمیر کامل 60 روزه با ضمانت\r\nسیر تخمیر 30روزه هم داخل محصولاتمون موجود داریم که قیمت 280هستش<hr\/>برای اطلاع از قیمت روز سیرسیاه و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 کیلوگرم<hr\/>","myuser_id":1151137,"sub_category_id":29,"province_name":"همدان","province_id":30,"city_name":" همدان","city_id":427,"sub_category_name":"سیر","unit":"کیلوگرم","is_elevated":0,"category_name":"صیفی","category_id":2,"is_old":false},"user_info":{"id":1151137,"user_name":"p13jhfqz_n","first_name":"مصطفی","last_name":"شاکری","active_pakage_type":0,"created_at":"2024-11-15 18:09:32","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731682904203-480720744-ib0JM2iJxn49MflBZYTccXcC3yRTEpmkUAgOyql8.jpeg"}]}
+{
+    "main": {
+        "id": 207577,
+        "updated_at": "2024-11-16 10:09:49",
+        "product_name": "سیرسیاه",
+        "stock": 50000,
+        "min_sale_price": 380000,
+        "min_sale_amount": 100,
+        "description": "ما تولید کننده سیرسیاه همدان هستیم\r\nدرصورت نیاز به همکاری اطلاع رسانی کنید\r\n\r\nتخمیر کامل 60 روزه با ضمانت\r\nسیر تخمیر 30روزه هم داخل محصولاتمون موجود داریم که قیمت 280هستش<hr\/>برای اطلاع از قیمت روز سیرسیاه و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 کیلوگرم<hr\/>",
+        "myuser_id": 1151137,
+        "sub_category_id": 29,
+        "province_name": "همدان",
+        "province_id": 30,
+        "city_name": " همدان",
+        "city_id": 427,
+        "sub_category_name": "سیر",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "صیفی",
+        "category_id": 2,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1151137,
+        "user_name": "p13jhfqz_n",
+        "first_name": "مصطفی",
+        "last_name": "شاکری",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-15 18:09:32",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731682904203-480720744-ib0JM2iJxn49MflBZYTccXcC3yRTEpmkUAgOyql8.jpeg"
+        }
+    ]
+}

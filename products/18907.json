@@ -1,1 +1,38 @@
-{"main":{"id":207186,"updated_at":"2024-11-13 15:07:48","product_name":"دیمی ، تمیز و یکدست مناسب دام","stock":40000,"min_sale_price":12300,"min_sale_amount":10000,"description":"دیمی \r\nتمیز و یکدست \r\nقاب شده در انبار و راه مناسب برای ماشین سنگین و بارگیری راحت<hr\/>برای اطلاع از قیمت روز دیمی ، تمیز و یکدست مناسب دام و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : قاب شده در گونی و آماده <hr\/>میزان تازه بودن و زمان تولید این محصول : محصول امسال<hr\/>مقدار موجودی آماده فروش برای این محصول : 40000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 10000 کیلوگرم<hr\/>","myuser_id":1148275,"sub_category_id":61,"province_name":"همدان","province_id":30,"city_name":" تویسرکان","city_id":422,"sub_category_name":"جو","unit":"کیلوگرم","is_elevated":0,"category_name":"غلات","category_id":42,"is_old":false},"user_info":{"id":1148275,"user_name":"10si","first_name":"حمیدرضا","last_name":"افریشم","active_pakage_type":0,"created_at":"2024-11-13 14:14:31","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731496334825-245647952-aBsH3DBS0izelLC0HAma3Bz9zDRaRY5DhJC3Dyke.jpeg"}]}
+{
+    "main": {
+        "id": 207186,
+        "updated_at": "2024-11-13 15:07:48",
+        "product_name": "دیمی ، تمیز و یکدست مناسب دام",
+        "stock": 40000,
+        "min_sale_price": 12300,
+        "min_sale_amount": 10000,
+        "description": "دیمی \r\nتمیز و یکدست \r\nقاب شده در انبار و راه مناسب برای ماشین سنگین و بارگیری راحت<hr\/>برای اطلاع از قیمت روز دیمی ، تمیز و یکدست مناسب دام و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : قاب شده در گونی و آماده <hr\/>میزان تازه بودن و زمان تولید این محصول : محصول امسال<hr\/>مقدار موجودی آماده فروش برای این محصول : 40000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 10000 کیلوگرم<hr\/>",
+        "myuser_id": 1148275,
+        "sub_category_id": 61,
+        "province_name": "همدان",
+        "province_id": 30,
+        "city_name": " تویسرکان",
+        "city_id": 422,
+        "sub_category_name": "جو",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "غلات",
+        "category_id": 42,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1148275,
+        "user_name": "10si",
+        "first_name": "حمیدرضا",
+        "last_name": "افریشم",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-13 14:14:31",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731496334825-245647952-aBsH3DBS0izelLC0HAma3Bz9zDRaRY5DhJC3Dyke.jpeg"
+        }
+    ]
+}

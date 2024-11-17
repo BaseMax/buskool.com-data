@@ -1,1 +1,38 @@
-{"main":{"id":207297,"updated_at":"2024-11-14 09:27:41","product_name":"انگور سیاه دیم سردشت کردستان انگور شانی","stock":20000,"min_sale_price":35000,"min_sale_amount":100,"description":"کیفیت عالی ابدار شیرین خون خالی سیاه اورگانیگ انگور دیم وحشی کوهی بدونه دخالت سم کود شیمیایی \r\nبسته بندی یه ردیفه سالم بدونه خرابی وصارداتی \r\nبسته بندی های جعبه چوبی خیلی مرتب سالم بدونه خرابی<hr\/>برای اطلاع از قیمت روز انگور سیاه دیم سردشت کردستان انگور شانی و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 20000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 کیلوگرم<hr\/>","myuser_id":299819,"sub_category_id":7,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"انگور","unit":"کیلوگرم","is_elevated":0,"category_name":"میوه","category_id":1,"is_old":false},"user_info":{"id":299819,"user_name":"mqtjr","first_name":"سید حسین","last_name":"موسوی","active_pakage_type":1,"created_at":"2022-09-10 15:06:33","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731532954305-51107774-VTZssrFclGbPObXfn0KJ1ohZBwPZDDzwcVOLQmV4.jpeg"}]}
+{
+    "main": {
+        "id": 207297,
+        "updated_at": "2024-11-14 09:27:41",
+        "product_name": "انگور سیاه دیم سردشت کردستان انگور شانی",
+        "stock": 20000,
+        "min_sale_price": 35000,
+        "min_sale_amount": 100,
+        "description": "کیفیت عالی ابدار شیرین خون خالی سیاه اورگانیگ انگور دیم وحشی کوهی بدونه دخالت سم کود شیمیایی \r\nبسته بندی یه ردیفه سالم بدونه خرابی وصارداتی \r\nبسته بندی های جعبه چوبی خیلی مرتب سالم بدونه خرابی<hr\/>برای اطلاع از قیمت روز انگور سیاه دیم سردشت کردستان انگور شانی و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 20000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 کیلوگرم<hr\/>",
+        "myuser_id": 299819,
+        "sub_category_id": 7,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "انگور",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "میوه",
+        "category_id": 1,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 299819,
+        "user_name": "mqtjr",
+        "first_name": "سید حسین",
+        "last_name": "موسوی",
+        "active_pakage_type": 1,
+        "created_at": "2022-09-10 15:06:33",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731532954305-51107774-VTZssrFclGbPObXfn0KJ1ohZBwPZDDzwcVOLQmV4.jpeg"
+        }
+    ]
+}

@@ -1,1 +1,38 @@
-{"main":{"id":181908,"updated_at":"2024-11-16 07:57:33","product_name":"از نوع بروکلی","stock":100000,"min_sale_price":450000,"min_sale_amount":10000,"description":"باسلام و درود خدمت دوستان. سورت کلم بروکلی به سورت فومی  وسبدی موجود است هر فومی تقریبا از 6کلیو تا 7کلیو  وبا یخ شده 10تا 11کلیو  و با سورت سبدی هر سبد 10کلیو تقریبا هست با درجه 1و تضمینی و باتید بهداشت وپلمپ تحویل داده میشود <hr\/>برای اطلاع از قیمت روز از نوع بروکلی  و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 10000 کیلوگرم<hr\/>","myuser_id":93788,"sub_category_id":24,"province_name":"البرز","province_id":5,"city_name":" کرج","city_id":66,"sub_category_name":"کلم","unit":"کیلوگرم","is_elevated":0,"category_name":"صیفی","category_id":2,"is_old":false},"user_info":{"id":93788,"user_name":"p29ry","first_name":"محمد","last_name":"سواری","active_pakage_type":2,"created_at":"2022-02-01 11:32:03","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1717345498572-248065918-xyf8BCxze4wuKCpKLaH92OGSPb8WvFywkwmhjVU6.jpeg"}]}
+{
+    "main": {
+        "id": 181908,
+        "updated_at": "2024-11-16 07:57:33",
+        "product_name": "از نوع بروکلی",
+        "stock": 100000,
+        "min_sale_price": 450000,
+        "min_sale_amount": 10000,
+        "description": "باسلام و درود خدمت دوستان. سورت کلم بروکلی به سورت فومی  وسبدی موجود است هر فومی تقریبا از 6کلیو تا 7کلیو  وبا یخ شده 10تا 11کلیو  و با سورت سبدی هر سبد 10کلیو تقریبا هست با درجه 1و تضمینی و باتید بهداشت وپلمپ تحویل داده میشود <hr\/>برای اطلاع از قیمت روز از نوع بروکلی  و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 10000 کیلوگرم<hr\/>",
+        "myuser_id": 93788,
+        "sub_category_id": 24,
+        "province_name": "البرز",
+        "province_id": 5,
+        "city_name": " کرج",
+        "city_id": 66,
+        "sub_category_name": "کلم",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "صیفی",
+        "category_id": 2,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 93788,
+        "user_name": "p29ry",
+        "first_name": "محمد",
+        "last_name": "سواری",
+        "active_pakage_type": 2,
+        "created_at": "2022-02-01 11:32:03",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1717345498572-248065918-xyf8BCxze4wuKCpKLaH92OGSPb8WvFywkwmhjVU6.jpeg"
+        }
+    ]
+}

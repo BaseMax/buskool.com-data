@@ -1,1 +1,38 @@
-{"main":{"id":207710,"updated_at":"2024-11-16 12:03:59","product_name":"موزائیک در انواع سایز ها","stock":1000,"min_sale_price":180000000,"min_sale_amount":1000,"description":"سلام\r\n کیفیت محصول بسیار عالی\r\nانواع سایز های مختلف  در انواع طرح ها<hr\/>برای اطلاع از قیمت روز موزائیک در انواع سایز ها و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 1000 متر مربع<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 متر مربع<hr\/>","myuser_id":1152091,"sub_category_id":764,"province_name":"آذربایجان غربی","province_id":2,"city_name":" ارومیه","city_id":20,"sub_category_name":"کاشی و سرامیک","unit":"متر مربع","is_elevated":0,"category_name":"مصالح ساختمانی","category_id":737,"is_old":false},"user_info":{"id":1152091,"user_name":"fsuezeha3g","first_name":"مهیار","last_name":"فتاحی","active_pakage_type":0,"created_at":"2024-11-16 11:06:19","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731743625615-820620634-ni1oJHf32bwHuKY6clYUhdJE1L1FhSYGZoskenD3.jpeg"}]}
+{
+    "main": {
+        "id": 207710,
+        "updated_at": "2024-11-16 12:03:59",
+        "product_name": "موزائیک در انواع سایز ها",
+        "stock": 1000,
+        "min_sale_price": 180000000,
+        "min_sale_amount": 1000,
+        "description": "سلام\r\n کیفیت محصول بسیار عالی\r\nانواع سایز های مختلف  در انواع طرح ها<hr\/>برای اطلاع از قیمت روز موزائیک در انواع سایز ها و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 1000 متر مربع<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 متر مربع<hr\/>",
+        "myuser_id": 1152091,
+        "sub_category_id": 764,
+        "province_name": "آذربایجان غربی",
+        "province_id": 2,
+        "city_name": " ارومیه",
+        "city_id": 20,
+        "sub_category_name": "کاشی و سرامیک",
+        "unit": "متر مربع",
+        "is_elevated": 0,
+        "category_name": "مصالح ساختمانی",
+        "category_id": 737,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1152091,
+        "user_name": "fsuezeha3g",
+        "first_name": "مهیار",
+        "last_name": "فتاحی",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-16 11:06:19",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731743625615-820620634-ni1oJHf32bwHuKY6clYUhdJE1L1FhSYGZoskenD3.jpeg"
+        }
+    ]
+}

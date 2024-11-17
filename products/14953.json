@@ -1,1 +1,38 @@
-{"main":{"id":207391,"updated_at":"2024-11-14 15:07:14","product_name":"ایرانی","stock":400,"min_sale_price":3000000,"min_sale_amount":400,"description":"گردو ایرانی تازه امسالی هم سفید داره هم خرمایی به نسبت کم<hr\/>برای اطلاع از قیمت روز ایرانی  و خرید مستقیم پیام ارسال کنید.<hr\/>میزان تازه بودن و زمان تولید این محصول : چون گردو ایرانی هم مزه وهم پرچرب وکیفیت داره \r\nگردو ایرانی بعض گردو خارجی ک هم مونده هستن وهم مزه خوبی ندارن ولی قیمتشون از ایرانی بیشتر ولی گردو ایرانی دوتا خرابم داشته باشه بعض  گردو خارجی هست<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : داخل گونی هستن آماده تحویل<hr\/>مقدار موجودی آماده فروش برای این محصول : 400 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 400 کیلوگرم<hr\/>","myuser_id":1146234,"sub_category_id":54,"province_name":"اصفهان","province_id":4,"city_name":" اصفهان","city_id":45,"sub_category_name":"گردو","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":1146234,"user_name":"g15_pc4jfh8t","first_name":"سیروس","last_name":"عبدالوند","active_pakage_type":0,"created_at":"2024-11-12 02:03:45","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731577338233-955227300-i2CDMZkCnzk4iqYQAAh1kXDN8YhLuu3UlsCWsEML.jpeg"}]}
+{
+    "main": {
+        "id": 207391,
+        "updated_at": "2024-11-14 15:07:14",
+        "product_name": "ایرانی",
+        "stock": 400,
+        "min_sale_price": 3000000,
+        "min_sale_amount": 400,
+        "description": "گردو ایرانی تازه امسالی هم سفید داره هم خرمایی به نسبت کم<hr\/>برای اطلاع از قیمت روز ایرانی  و خرید مستقیم پیام ارسال کنید.<hr\/>میزان تازه بودن و زمان تولید این محصول : چون گردو ایرانی هم مزه وهم پرچرب وکیفیت داره \r\nگردو ایرانی بعض گردو خارجی ک هم مونده هستن وهم مزه خوبی ندارن ولی قیمتشون از ایرانی بیشتر ولی گردو ایرانی دوتا خرابم داشته باشه بعض  گردو خارجی هست<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : داخل گونی هستن آماده تحویل<hr\/>مقدار موجودی آماده فروش برای این محصول : 400 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 400 کیلوگرم<hr\/>",
+        "myuser_id": 1146234,
+        "sub_category_id": 54,
+        "province_name": "اصفهان",
+        "province_id": 4,
+        "city_name": " اصفهان",
+        "city_id": 45,
+        "sub_category_name": "گردو",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1146234,
+        "user_name": "g15_pc4jfh8t",
+        "first_name": "سیروس",
+        "last_name": "عبدالوند",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-12 02:03:45",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731577338233-955227300-i2CDMZkCnzk4iqYQAAh1kXDN8YhLuu3UlsCWsEML.jpeg"
+        }
+    ]
+}

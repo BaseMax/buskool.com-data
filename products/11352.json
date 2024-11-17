@@ -1,1 +1,38 @@
-{"main":{"id":207548,"updated_at":"2024-11-15 17:18:11","product_name":"شکر قهوه ای برند شهدانه","stock":25000,"min_sale_price":46000,"min_sale_amount":50,"description":"پخش شکر قهوه ای برند شهدانه \r\nتناژ بالا دارای تخفیف \r\nبهترین برند شکر قهوه ای\r\nبهترین قیمت \r\nارسال شکر به تمام استان های ایران \r\nاز کیسه 50 کیلویی تا تناژ بالای 25 تن<hr\/>برای اطلاع از قیمت روز شکر قهوه ای برند شهدانه و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : کیسه های 50 کیلویی <hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : بهترین کیفیت در شکر قهوه ای<hr\/>مقدار موجودی آماده فروش برای این محصول : 25000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 50 کیلوگرم<hr\/>","myuser_id":1147534,"sub_category_id":96,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"شکر","unit":"کیلوگرم","is_elevated":0,"category_name":"چاشنی و افزودنی","category_id":82,"is_old":false},"user_info":{"id":1147534,"user_name":"veqoj5_v716","first_name":"سید حسن","last_name":"جهرمی","active_pakage_type":0,"created_at":"2024-11-12 22:32:09","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731672711959-191107279-4xZW5vIPWabhdn2TpwCXt0JkexzUbA2SQuijlpV5.jpeg"}]}
+{
+    "main": {
+        "id": 207548,
+        "updated_at": "2024-11-15 17:18:11",
+        "product_name": "شکر قهوه ای برند شهدانه",
+        "stock": 25000,
+        "min_sale_price": 46000,
+        "min_sale_amount": 50,
+        "description": "پخش شکر قهوه ای برند شهدانه \r\nتناژ بالا دارای تخفیف \r\nبهترین برند شکر قهوه ای\r\nبهترین قیمت \r\nارسال شکر به تمام استان های ایران \r\nاز کیسه 50 کیلویی تا تناژ بالای 25 تن<hr\/>برای اطلاع از قیمت روز شکر قهوه ای برند شهدانه و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : کیسه های 50 کیلویی <hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : بهترین کیفیت در شکر قهوه ای<hr\/>مقدار موجودی آماده فروش برای این محصول : 25000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 50 کیلوگرم<hr\/>",
+        "myuser_id": 1147534,
+        "sub_category_id": 96,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "شکر",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "چاشنی و افزودنی",
+        "category_id": 82,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1147534,
+        "user_name": "veqoj5_v716",
+        "first_name": "سید حسن",
+        "last_name": "جهرمی",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-12 22:32:09",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731672711959-191107279-4xZW5vIPWabhdn2TpwCXt0JkexzUbA2SQuijlpV5.jpeg"
+        }
+    ]
+}

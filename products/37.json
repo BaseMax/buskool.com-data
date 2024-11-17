@@ -1,1 +1,38 @@
-{"main":{"id":207912,"updated_at":"2024-11-17 09:02:56","product_name":"چوب فینگر","stock":50000,"min_sale_price":4600000,"min_sale_amount":1,"description":"فینگر \r\nابعاد\r\n122*244*18میل \r\nگردو 8.800.000تومان \r\nراش7.600.000تومان \r\nروس4.800.000تومان \r\nفروش هم به صورت تک و هم پالت<hr\/>برای اطلاع از قیمت روز فینگر و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : باکیفیت<hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 متر مکعب<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1 متر مکعب<hr\/>","myuser_id":1132912,"sub_category_id":758,"province_name":"تهران","province_id":8,"city_name":"چهاردانگه","city_id":448,"sub_category_name":"چوب","unit":"متر مکعب","is_elevated":0,"category_name":"مصالح ساختمانی","category_id":737,"is_old":false},"user_info":{"id":1132912,"user_name":"fh8nuv","first_name":"سید سعید","last_name":"سیدنژاد","active_pakage_type":0,"created_at":"2024-11-03 08:30:16","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731821653807-236241557-bnn9cVSc3uspu2GKf2kpYEP6sXkoyaD7i9KHmYOT.jpeg"}]}
+{
+    "main": {
+        "id": 207912,
+        "updated_at": "2024-11-17 09:02:56",
+        "product_name": "چوب فینگر",
+        "stock": 50000,
+        "min_sale_price": 4600000,
+        "min_sale_amount": 1,
+        "description": "فینگر \r\nابعاد\r\n122*244*18میل \r\nگردو 8.800.000تومان \r\nراش7.600.000تومان \r\nروس4.800.000تومان \r\nفروش هم به صورت تک و هم پالت<hr\/>برای اطلاع از قیمت روز فینگر و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : باکیفیت<hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 متر مکعب<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1 متر مکعب<hr\/>",
+        "myuser_id": 1132912,
+        "sub_category_id": 758,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": "چهاردانگه",
+        "city_id": 448,
+        "sub_category_name": "چوب",
+        "unit": "متر مکعب",
+        "is_elevated": 0,
+        "category_name": "مصالح ساختمانی",
+        "category_id": 737,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1132912,
+        "user_name": "fh8nuv",
+        "first_name": "سید سعید",
+        "last_name": "سیدنژاد",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-03 08:30:16",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731821653807-236241557-bnn9cVSc3uspu2GKf2kpYEP6sXkoyaD7i9KHmYOT.jpeg"
+        }
+    ]
+}

@@ -1,1 +1,38 @@
-{"main":{"id":207388,"updated_at":"2024-11-14 15:07:36","product_name":"روغن سویا حلب","stock":10000000,"min_sale_price":55000,"min_sale_amount":16,"description":"روغن سویا حلب 16کیلویی موجود درانبار<hr\/>برای اطلاع از قیمت روز روغن سویا حلب و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 10000000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 16 کیلوگرم<hr\/>","myuser_id":1126939,"sub_category_id":98,"province_name":"البرز","province_id":5,"city_name":" کرج","city_id":66,"sub_category_name":"روغن خوراکی","unit":"کیلوگرم","is_elevated":0,"category_name":"چاشنی و افزودنی","category_id":82,"is_old":false},"user_info":{"id":1126939,"user_name":"4h3sz5w","first_name":"علیرضا","last_name":"بافندچی","active_pakage_type":2,"created_at":"2024-10-30 02:06:51","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731576331726-306371228-QlSRf4s6weOWQBXNgxmSv1fYgUxSn1OFvve4yKBM.jpeg"}]}
+{
+    "main": {
+        "id": 207388,
+        "updated_at": "2024-11-14 15:07:36",
+        "product_name": "روغن سویا حلب",
+        "stock": 10000000,
+        "min_sale_price": 55000,
+        "min_sale_amount": 16,
+        "description": "روغن سویا حلب 16کیلویی موجود درانبار<hr\/>برای اطلاع از قیمت روز روغن سویا حلب و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 10000000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 16 کیلوگرم<hr\/>",
+        "myuser_id": 1126939,
+        "sub_category_id": 98,
+        "province_name": "البرز",
+        "province_id": 5,
+        "city_name": " کرج",
+        "city_id": 66,
+        "sub_category_name": "روغن خوراکی",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "چاشنی و افزودنی",
+        "category_id": 82,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1126939,
+        "user_name": "4h3sz5w",
+        "first_name": "علیرضا",
+        "last_name": "بافندچی",
+        "active_pakage_type": 2,
+        "created_at": "2024-10-30 02:06:51",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731576331726-306371228-QlSRf4s6weOWQBXNgxmSv1fYgUxSn1OFvve4yKBM.jpeg"
+        }
+    ]
+}

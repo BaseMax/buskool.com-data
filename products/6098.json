@@ -1,1 +1,38 @@
-{"main":{"id":207560,"updated_at":"2024-11-15 17:16:36","product_name":"تخمه قرمز","stock":10000,"min_sale_price":160000,"min_sale_amount":500,"description":"سلام تخمه قرمز درجه 1 بار مشهد قیمت 160 هزارتومن فروش کمتر از 500 کیلو نداریم تناژ موجود میباشد ادرس مشهد<hr\/>برای اطلاع از قیمت روز تخمه قرمز  و خرید مستقیم پیام ارسال کنید.<hr\/>مزیت این محصول نسبت به محصولات مشابه : حذف واسطهها <hr\/>مقدار موجودی آماده فروش برای این محصول : 10000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 500 کیلوگرم<hr\/>","myuser_id":1151052,"sub_category_id":57,"province_name":"خراسان رضوی","province_id":11,"city_name":" مشهد","city_id":130,"sub_category_name":"میوه خشک","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":1151052,"user_name":"gi181","first_name":"علی","last_name":"خاکپور یگانه","active_pakage_type":0,"created_at":"2024-11-15 16:45:11","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731676918030-875767073-F2yvm4M00Zkv7lfqEmDBeTPfiOo303ZzxzZeftz9.jpeg"}]}
+{
+    "main": {
+        "id": 207560,
+        "updated_at": "2024-11-15 17:16:36",
+        "product_name": "تخمه قرمز",
+        "stock": 10000,
+        "min_sale_price": 160000,
+        "min_sale_amount": 500,
+        "description": "سلام تخمه قرمز درجه 1 بار مشهد قیمت 160 هزارتومن فروش کمتر از 500 کیلو نداریم تناژ موجود میباشد ادرس مشهد<hr\/>برای اطلاع از قیمت روز تخمه قرمز  و خرید مستقیم پیام ارسال کنید.<hr\/>مزیت این محصول نسبت به محصولات مشابه : حذف واسطهها <hr\/>مقدار موجودی آماده فروش برای این محصول : 10000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 500 کیلوگرم<hr\/>",
+        "myuser_id": 1151052,
+        "sub_category_id": 57,
+        "province_name": "خراسان رضوی",
+        "province_id": 11,
+        "city_name": " مشهد",
+        "city_id": 130,
+        "sub_category_name": "میوه خشک",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1151052,
+        "user_name": "gi181",
+        "first_name": "علی",
+        "last_name": "خاکپور یگانه",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-15 16:45:11",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731676918030-875767073-F2yvm4M00Zkv7lfqEmDBeTPfiOo303ZzxzZeftz9.jpeg"
+        }
+    ]
+}

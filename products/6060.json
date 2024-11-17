@@ -1,1 +1,38 @@
-{"main":{"id":182645,"updated_at":"2024-11-15 22:14:29","product_name":"زاهدی","stock":100000,"min_sale_price":60000,"min_sale_amount":5000,"description":"کیفیت سوپر لوکس در بسته بندی 5 کیلوگرمی<hr\/>برای اطلاع از قیمت روز زاهدی  و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : کیفیت این بار سوپر لوکسه در بازار نمونه این بار وجود نداره <hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 5000 کیلوگرم<hr\/>","myuser_id":718888,"sub_category_id":6,"province_name":"هرمزگان","province_id":29,"city_name":" بندر لنگه","city_id":411,"sub_category_name":"خرما","unit":"کیلوگرم","is_elevated":0,"category_name":"میوه","category_id":1,"is_old":false},"user_info":{"id":718888,"user_name":"b8m3","first_name":"محبوبه","last_name":"ثمره","active_pakage_type":2,"created_at":"2023-11-10 14:22:55","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1717854335669-424642149-pzsX0X0OWcIjZo0eJHNbSle1bnzoPTiKYtFDhVXU.jpeg"}]}
+{
+    "main": {
+        "id": 182645,
+        "updated_at": "2024-11-15 22:14:29",
+        "product_name": "زاهدی",
+        "stock": 100000,
+        "min_sale_price": 60000,
+        "min_sale_amount": 5000,
+        "description": "کیفیت سوپر لوکس در بسته بندی 5 کیلوگرمی<hr\/>برای اطلاع از قیمت روز زاهدی  و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : کیفیت این بار سوپر لوکسه در بازار نمونه این بار وجود نداره <hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 5000 کیلوگرم<hr\/>",
+        "myuser_id": 718888,
+        "sub_category_id": 6,
+        "province_name": "هرمزگان",
+        "province_id": 29,
+        "city_name": " بندر لنگه",
+        "city_id": 411,
+        "sub_category_name": "خرما",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "میوه",
+        "category_id": 1,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 718888,
+        "user_name": "b8m3",
+        "first_name": "محبوبه",
+        "last_name": "ثمره",
+        "active_pakage_type": 2,
+        "created_at": "2023-11-10 14:22:55",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1717854335669-424642149-pzsX0X0OWcIjZo0eJHNbSle1bnzoPTiKYtFDhVXU.jpeg"
+        }
+    ]
+}

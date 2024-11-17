@@ -1,1 +1,38 @@
-{"main":{"id":164250,"updated_at":"2024-11-17 09:06:32","product_name":"گردو چندلر پیوندی","stock":20000,"min_sale_price":99000,"min_sale_amount":5,"description":"گردو چندلر پیوندی اصلاح شده و تضمینی بسیار پربار و زودبارده باردهی از سال اول \r\nپربار تر نوع گردو از خانواده ارقام نهال گردو \r\nمختص مناطق سردسیر ونیمه سردسیر \r\nباکاشت این نهال به دارمد میلیاردی برسید چون این نهال نیاز آبی کمی داره وهزینه باغ داریش بسیار کمه<hr\/>برای اطلاع از قیمت روز گردو چندلر پیوندی  و خرید مستقیم پیام ارسال کنید.<hr\/>میزان تازه بودن و زمان تولید این محصول : یکی از ارقام های بسیار پرسود وکمیاب <hr\/>مقدار موجودی آماده فروش برای این محصول : 20000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 5 عدد<hr\/>","myuser_id":788663,"sub_category_id":112,"province_name":"آذربایجان غربی","province_id":2,"city_name":" میاندوآب","city_id":32,"sub_category_name":"نهال","unit":"عدد","is_elevated":0,"category_name":"بذر و نهال","category_id":111,"is_old":false},"user_info":{"id":788663,"user_name":"_ok19173mv","first_name":"سهیل","last_name":"نعمتی","active_pakage_type":1,"created_at":"2024-01-09 20:05:11","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1706173765807-728767518-qqkewhb4bxw6cochCQq8fNjBxsxJbuU1qRZRva3g.jpeg"}]}
+{
+    "main": {
+        "id": 164250,
+        "updated_at": "2024-11-17 09:06:32",
+        "product_name": "گردو چندلر پیوندی",
+        "stock": 20000,
+        "min_sale_price": 99000,
+        "min_sale_amount": 5,
+        "description": "گردو چندلر پیوندی اصلاح شده و تضمینی بسیار پربار و زودبارده باردهی از سال اول \r\nپربار تر نوع گردو از خانواده ارقام نهال گردو \r\nمختص مناطق سردسیر ونیمه سردسیر \r\nباکاشت این نهال به دارمد میلیاردی برسید چون این نهال نیاز آبی کمی داره وهزینه باغ داریش بسیار کمه<hr\/>برای اطلاع از قیمت روز گردو چندلر پیوندی  و خرید مستقیم پیام ارسال کنید.<hr\/>میزان تازه بودن و زمان تولید این محصول : یکی از ارقام های بسیار پرسود وکمیاب <hr\/>مقدار موجودی آماده فروش برای این محصول : 20000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 5 عدد<hr\/>",
+        "myuser_id": 788663,
+        "sub_category_id": 112,
+        "province_name": "آذربایجان غربی",
+        "province_id": 2,
+        "city_name": " میاندوآب",
+        "city_id": 32,
+        "sub_category_name": "نهال",
+        "unit": "عدد",
+        "is_elevated": 0,
+        "category_name": "بذر و نهال",
+        "category_id": 111,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 788663,
+        "user_name": "_ok19173mv",
+        "first_name": "سهیل",
+        "last_name": "نعمتی",
+        "active_pakage_type": 1,
+        "created_at": "2024-01-09 20:05:11",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1706173765807-728767518-qqkewhb4bxw6cochCQq8fNjBxsxJbuU1qRZRva3g.jpeg"
+        }
+    ]
+}

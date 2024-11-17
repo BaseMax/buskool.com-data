@@ -1,1 +1,38 @@
-{"main":{"id":207855,"updated_at":"2024-11-17 09:23:14","product_name":"به چهارقاش","stock":9000,"min_sale_price":30000,"min_sale_amount":9000,"description":"به درجه یک جهت سفارش امده است<hr\/>برای اطلاع از قیمت روز به چهارقاش موجود توناج 9تن و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : عالی<hr\/>مقدار موجودی آماده فروش برای این محصول : 9000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 9000 کیلوگرم<hr\/>","myuser_id":749182,"sub_category_id":12,"province_name":"كردستان","province_id":20,"city_name":" سنندج","city_id":217,"sub_category_name":"به","unit":"کیلوگرم","is_elevated":0,"category_name":"میوه","category_id":1,"is_old":false},"user_info":{"id":749182,"user_name":"0bredp","first_name":"حجت الله","last_name":"کاکایی","active_pakage_type":1,"created_at":"2023-12-06 19:21:15","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731780427038-389971561-Swf7IgLoYybOjVedT1a6hlzXDdPCpajzHAykdr7j.jpeg"}]}
+{
+    "main": {
+        "id": 207855,
+        "updated_at": "2024-11-17 09:23:14",
+        "product_name": "به چهارقاش",
+        "stock": 9000,
+        "min_sale_price": 30000,
+        "min_sale_amount": 9000,
+        "description": "به درجه یک جهت سفارش امده است<hr\/>برای اطلاع از قیمت روز به چهارقاش موجود توناج 9تن و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : عالی<hr\/>مقدار موجودی آماده فروش برای این محصول : 9000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 9000 کیلوگرم<hr\/>",
+        "myuser_id": 749182,
+        "sub_category_id": 12,
+        "province_name": "كردستان",
+        "province_id": 20,
+        "city_name": " سنندج",
+        "city_id": 217,
+        "sub_category_name": "به",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "میوه",
+        "category_id": 1,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 749182,
+        "user_name": "0bredp",
+        "first_name": "حجت الله",
+        "last_name": "کاکایی",
+        "active_pakage_type": 1,
+        "created_at": "2023-12-06 19:21:15",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731780427038-389971561-Swf7IgLoYybOjVedT1a6hlzXDdPCpajzHAykdr7j.jpeg"
+        }
+    ]
+}

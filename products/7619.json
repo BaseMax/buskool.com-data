@@ -1,1 +1,38 @@
-{"main":{"id":207518,"updated_at":"2024-11-15 12:53:12","product_name":"عنبربو شیروان ایلام","stock":20000,"min_sale_price":125000,"min_sale_amount":350,"description":"داری عطر و بوی بسیار معطر و اشتها برانگیز ، کاملا ارگانیک بدون استفاده از مواد شیمایی، قابل خوردن بدون نیاز به خورشت<hr\/>برای اطلاع از قیمت روز عنبربو شیروان ایلام و خرید مستقیم پیام ارسال کنید.<hr\/>مزیت این محصول نسبت به محصولات مشابه : رشد در مزرعه با آب چشمه، عطر و بوی بسیار اشتهابرانگیز<hr\/>میزان تازه بودن و زمان تولید این محصول : برنج نو و برداشت در مهرماه سال 1403<hr\/>مقدار موجودی آماده فروش برای این محصول : 20000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 350 کیلوگرم<hr\/>","myuser_id":1148272,"sub_category_id":43,"province_name":"ایلام","province_id":6,"city_name":" شیران و چرداول","city_id":74,"sub_category_name":"برنج","unit":"کیلوگرم","is_elevated":0,"category_name":"غلات","category_id":42,"is_old":false},"user_info":{"id":1148272,"user_name":"ljwlg1","first_name":"مهناز","last_name":"محمدی","active_pakage_type":0,"created_at":"2024-11-13 14:13:47","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731662239537-608424716-fbiC2BibRdSYXTNGNhMGvFCJLaBVNhbH2UPLTcsz.jpeg"}]}
+{
+    "main": {
+        "id": 207518,
+        "updated_at": "2024-11-15 12:53:12",
+        "product_name": "عنبربو شیروان ایلام",
+        "stock": 20000,
+        "min_sale_price": 125000,
+        "min_sale_amount": 350,
+        "description": "داری عطر و بوی بسیار معطر و اشتها برانگیز ، کاملا ارگانیک بدون استفاده از مواد شیمایی، قابل خوردن بدون نیاز به خورشت<hr\/>برای اطلاع از قیمت روز عنبربو شیروان ایلام و خرید مستقیم پیام ارسال کنید.<hr\/>مزیت این محصول نسبت به محصولات مشابه : رشد در مزرعه با آب چشمه، عطر و بوی بسیار اشتهابرانگیز<hr\/>میزان تازه بودن و زمان تولید این محصول : برنج نو و برداشت در مهرماه سال 1403<hr\/>مقدار موجودی آماده فروش برای این محصول : 20000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 350 کیلوگرم<hr\/>",
+        "myuser_id": 1148272,
+        "sub_category_id": 43,
+        "province_name": "ایلام",
+        "province_id": 6,
+        "city_name": " شیران و چرداول",
+        "city_id": 74,
+        "sub_category_name": "برنج",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "غلات",
+        "category_id": 42,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1148272,
+        "user_name": "ljwlg1",
+        "first_name": "مهناز",
+        "last_name": "محمدی",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-13 14:13:47",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731662239537-608424716-fbiC2BibRdSYXTNGNhMGvFCJLaBVNhbH2UPLTcsz.jpeg"
+        }
+    ]
+}

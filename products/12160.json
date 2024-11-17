@@ -1,1 +1,38 @@
-{"main":{"id":207473,"updated_at":"2024-11-15 08:31:46","product_name":"عسل با موم وبدون موم","stock":50000,"min_sale_price":70000,"min_sale_amount":1000,"description":"<hr\/>برای اطلاع از قیمت روز عسل با موم وبدون موم و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 کیلوگرم<hr\/>","myuser_id":1147795,"sub_category_id":60,"province_name":"گیلان","province_id":25,"city_name":" آستارا","city_id":267,"sub_category_name":"عسل","unit":"کیلوگرم","is_elevated":0,"category_name":"دامپروری","category_id":47,"is_old":false},"user_info":{"id":1147795,"user_name":"bw143sfqea","first_name":"حامد","last_name":"سرخی پور","active_pakage_type":0,"created_at":"2024-11-13 05:07:53","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731615415574-314595137-D92LpQCTs7YuS0uAhgM1Th6RLRCe2YnCdVjXZcc1.jpeg"}]}
+{
+    "main": {
+        "id": 207473,
+        "updated_at": "2024-11-15 08:31:46",
+        "product_name": "عسل با موم وبدون موم",
+        "stock": 50000,
+        "min_sale_price": 70000,
+        "min_sale_amount": 1000,
+        "description": "<hr\/>برای اطلاع از قیمت روز عسل با موم وبدون موم و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 کیلوگرم<hr\/>",
+        "myuser_id": 1147795,
+        "sub_category_id": 60,
+        "province_name": "گیلان",
+        "province_id": 25,
+        "city_name": " آستارا",
+        "city_id": 267,
+        "sub_category_name": "عسل",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "دامپروری",
+        "category_id": 47,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1147795,
+        "user_name": "bw143sfqea",
+        "first_name": "حامد",
+        "last_name": "سرخی پور",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-13 05:07:53",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731615415574-314595137-D92LpQCTs7YuS0uAhgM1Th6RLRCe2YnCdVjXZcc1.jpeg"
+        }
+    ]
+}

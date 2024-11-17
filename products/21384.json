@@ -1,1 +1,38 @@
-{"main":{"id":207166,"updated_at":"2024-11-13 14:06:30","product_name":"زعفران سوپر نگین رویال","stock":50000,"min_sale_price":100000000,"min_sale_amount":1,"description":"زعفران سوپر نگین و سوپر نگین رویال خراسان با ضمانت و رنگدهی بالا<hr\/>برای اطلاع از قیمت روز زعفران سوپر نگین رویال و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : عالی<hr\/>رنگ ظاهری این محصول : ضمانت رنگدهی بالا<hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1 کیلوگرم<hr\/>","myuser_id":1115612,"sub_category_id":59,"province_name":"خراسان رضوی","province_id":11,"city_name":" مشهد","city_id":130,"sub_category_name":"زعفران","unit":"کیلوگرم","is_elevated":0,"category_name":"ادویه","category_id":46,"is_old":false},"user_info":{"id":1115612,"user_name":"8oae6mp20ou","first_name":"سیده سمانه","last_name":"قرآنی","active_pakage_type":1,"created_at":"2024-10-22 00:24:11","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731491385100-607035833-hhAFH8TNA7b6TpssA2KSbTXw5qmj7BItRccgt3wT.jpeg"}]}
+{
+    "main": {
+        "id": 207166,
+        "updated_at": "2024-11-13 14:06:30",
+        "product_name": "زعفران سوپر نگین رویال",
+        "stock": 50000,
+        "min_sale_price": 100000000,
+        "min_sale_amount": 1,
+        "description": "زعفران سوپر نگین و سوپر نگین رویال خراسان با ضمانت و رنگدهی بالا<hr\/>برای اطلاع از قیمت روز زعفران سوپر نگین رویال و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : عالی<hr\/>رنگ ظاهری این محصول : ضمانت رنگدهی بالا<hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1 کیلوگرم<hr\/>",
+        "myuser_id": 1115612,
+        "sub_category_id": 59,
+        "province_name": "خراسان رضوی",
+        "province_id": 11,
+        "city_name": " مشهد",
+        "city_id": 130,
+        "sub_category_name": "زعفران",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "ادویه",
+        "category_id": 46,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1115612,
+        "user_name": "8oae6mp20ou",
+        "first_name": "سیده سمانه",
+        "last_name": "قرآنی",
+        "active_pakage_type": 1,
+        "created_at": "2024-10-22 00:24:11",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731491385100-607035833-hhAFH8TNA7b6TpssA2KSbTXw5qmj7BItRccgt3wT.jpeg"
+        }
+    ]
+}

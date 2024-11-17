@@ -1,1 +1,38 @@
-{"main":{"id":131268,"updated_at":"2024-11-16 17:41:37","product_name":"غذای ماهی","stock":50000,"min_sale_price":39000,"min_sale_amount":2000,"description":"فروش غذای ماهی\r\nفروش خوراک ماهی\r\nفروش غذای ماهی با قیمت و کیفیت مناسب و ارسال به سراسر کشور در اسرع وقت\r\nخرید و قیمت ماهی خوراک و غذای ماهی کپور و قزل آلا عمده\r\nترکیبی کامل شاما ویتامینها ،مواد معدنی،اسیدهای آمینه و افزودنی های غذایی لازم برای رشد ماهی<hr\/>برای اطلاع از قیمت روز غذای ماهی و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 کیلوگرم<hr\/>","myuser_id":554902,"sub_category_id":110,"province_name":"آذربایجان غربی","province_id":2,"city_name":" ارومیه","city_id":20,"sub_category_name":"خوراک دام","unit":"کیلوگرم","is_elevated":0,"category_name":"دامپروری","category_id":47,"is_old":false},"user_info":{"id":554902,"user_name":"cfdns12uxrz8","first_name":"شرکت مهندسی کشاورزی","last_name":"پارس برزگر آذربایجان","active_pakage_type":1,"created_at":"2023-05-29 17:28:04","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1687599653777-704300583-EOooBkB2ENMXuxaJ11LcU6dtQseKwUTYsIXzgvAB.jpeg"}]}
+{
+    "main": {
+        "id": 131268,
+        "updated_at": "2024-11-16 17:41:37",
+        "product_name": "غذای ماهی",
+        "stock": 50000,
+        "min_sale_price": 39000,
+        "min_sale_amount": 2000,
+        "description": "فروش غذای ماهی\r\nفروش خوراک ماهی\r\nفروش غذای ماهی با قیمت و کیفیت مناسب و ارسال به سراسر کشور در اسرع وقت\r\nخرید و قیمت ماهی خوراک و غذای ماهی کپور و قزل آلا عمده\r\nترکیبی کامل شاما ویتامینها ،مواد معدنی،اسیدهای آمینه و افزودنی های غذایی لازم برای رشد ماهی<hr\/>برای اطلاع از قیمت روز غذای ماهی و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 کیلوگرم<hr\/>",
+        "myuser_id": 554902,
+        "sub_category_id": 110,
+        "province_name": "آذربایجان غربی",
+        "province_id": 2,
+        "city_name": " ارومیه",
+        "city_id": 20,
+        "sub_category_name": "خوراک دام",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "دامپروری",
+        "category_id": 47,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 554902,
+        "user_name": "cfdns12uxrz8",
+        "first_name": "شرکت مهندسی کشاورزی",
+        "last_name": "پارس برزگر آذربایجان",
+        "active_pakage_type": 1,
+        "created_at": "2023-05-29 17:28:04",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1687599653777-704300583-EOooBkB2ENMXuxaJ11LcU6dtQseKwUTYsIXzgvAB.jpeg"
+        }
+    ]
+}

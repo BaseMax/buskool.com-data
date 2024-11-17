@@ -1,1 +1,38 @@
-{"main":{"id":207007,"updated_at":"2024-11-16 17:35:09","product_name":"گلدن صادراتی یا طلایی","stock":100000,"min_sale_price":118000,"min_sale_amount":1000,"description":"کشمش گلدن صادراتی یا طلایی ملایری با بهترین کیفیت. سورت شده و لیزر شده \r\nقابل ارائه در کارتن های 10و8\/5و5<hr\/>برای اطلاع از قیمت روز  گلدن صادراتی یا طلایی و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 1000000000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 کیلوگرم<hr\/>","myuser_id":1087338,"sub_category_id":53,"province_name":"همدان","province_id":30,"city_name":" ملایر","city_id":425,"sub_category_name":"کشمش","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":1087338,"user_name":"_6py","first_name":"محمدرضا","last_name":"چهاردولی","active_pakage_type":1,"created_at":"2024-10-03 18:48:38","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731419422704-689060056-JPIKq0PWTroHNthnDLPAR8O3r06b6pKgyHDyEs3Z.jpeg"}]}
+{
+    "main": {
+        "id": 207007,
+        "updated_at": "2024-11-16 17:35:09",
+        "product_name": "گلدن صادراتی یا طلایی",
+        "stock": 100000,
+        "min_sale_price": 118000,
+        "min_sale_amount": 1000,
+        "description": "کشمش گلدن صادراتی یا طلایی ملایری با بهترین کیفیت. سورت شده و لیزر شده \r\nقابل ارائه در کارتن های 10و8\/5و5<hr\/>برای اطلاع از قیمت روز  گلدن صادراتی یا طلایی و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 1000000000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 کیلوگرم<hr\/>",
+        "myuser_id": 1087338,
+        "sub_category_id": 53,
+        "province_name": "همدان",
+        "province_id": 30,
+        "city_name": " ملایر",
+        "city_id": 425,
+        "sub_category_name": "کشمش",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1087338,
+        "user_name": "_6py",
+        "first_name": "محمدرضا",
+        "last_name": "چهاردولی",
+        "active_pakage_type": 1,
+        "created_at": "2024-10-03 18:48:38",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731419422704-689060056-JPIKq0PWTroHNthnDLPAR8O3r06b6pKgyHDyEs3Z.jpeg"
+        }
+    ]
+}

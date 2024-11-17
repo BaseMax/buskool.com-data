@@ -1,1 +1,38 @@
-{"main":{"id":207648,"updated_at":"2024-11-16 09:41:01","product_name":"شیرینی برنجی","stock":2000,"min_sale_price":90000,"min_sale_amount":2000,"description":"شیرینی سنتی قندی\r\nمحصولی با کیفیت و سنتی<hr\/>برای اطلاع از قیمت روز شیرینی برنجی و خرید مستقیم پیام ارسال کنید.<hr\/>تاییدیه های کیفی، بهداشتی و سلامت کالا موجود برای این محصول : دارای سیب سلامت<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : در کارتن های ده عددی\r\nوزن هر جعبه 900 گرم<hr\/>مقدار موجودی آماده فروش برای این محصول : 2000 کارتن<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 2000 کارتن<hr\/>","myuser_id":1151813,"sub_category_id":123,"province_name":"خراسان رضوی","province_id":11,"city_name":" مشهد","city_id":130,"sub_category_name":"کیک و کلوچه","unit":"کارتن","is_elevated":0,"category_name":"تنقلات و شیرینی","category_id":80,"is_old":false},"user_info":{"id":1151813,"user_name":"h8oe11tl1","first_name":"محمد","last_name":"قربان زاده","active_pakage_type":0,"created_at":"2024-11-16 02:45:54","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731713274777-293804656-L5yTyCUMFtaVTpsWQPedlcDXZwUPu4Z4xQT40VeF.jpeg"}]}
+{
+    "main": {
+        "id": 207648,
+        "updated_at": "2024-11-16 09:41:01",
+        "product_name": "شیرینی برنجی",
+        "stock": 2000,
+        "min_sale_price": 90000,
+        "min_sale_amount": 2000,
+        "description": "شیرینی سنتی قندی\r\nمحصولی با کیفیت و سنتی<hr\/>برای اطلاع از قیمت روز شیرینی برنجی و خرید مستقیم پیام ارسال کنید.<hr\/>تاییدیه های کیفی، بهداشتی و سلامت کالا موجود برای این محصول : دارای سیب سلامت<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : در کارتن های ده عددی\r\nوزن هر جعبه 900 گرم<hr\/>مقدار موجودی آماده فروش برای این محصول : 2000 کارتن<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 2000 کارتن<hr\/>",
+        "myuser_id": 1151813,
+        "sub_category_id": 123,
+        "province_name": "خراسان رضوی",
+        "province_id": 11,
+        "city_name": " مشهد",
+        "city_id": 130,
+        "sub_category_name": "کیک و کلوچه",
+        "unit": "کارتن",
+        "is_elevated": 0,
+        "category_name": "تنقلات و شیرینی",
+        "category_id": 80,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1151813,
+        "user_name": "h8oe11tl1",
+        "first_name": "محمد",
+        "last_name": "قربان زاده",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-16 02:45:54",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731713274777-293804656-L5yTyCUMFtaVTpsWQPedlcDXZwUPu4Z4xQT40VeF.jpeg"
+        }
+    ]
+}

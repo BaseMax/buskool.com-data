@@ -1,1 +1,38 @@
-{"main":{"id":194791,"updated_at":"2024-11-14 11:50:43","product_name":"گوجه خشک","stock":1000,"min_sale_price":260000,"min_sale_amount":50,"description":"بسته یندی 250 گرمی دارای زیپ کیف\r\nبسته بندی 10 کیلو گرمی<hr\/>برای اطلاع از قیمت روز گوجه خشک و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 1000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 50 کیلوگرم<hr\/>","myuser_id":478832,"sub_category_id":57,"province_name":"اصفهان","province_id":4,"city_name":" اصفهان","city_id":45,"sub_category_name":"میوه خشک","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":478832,"user_name":"q1fste12yh","first_name":"محسن","last_name":"کریمیان","active_pakage_type":2,"created_at":"2023-03-13 12:38:38","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1725713078307-736938142-3a85XbxfM3bKV9Ddj9xdjsC7kas7sOgcRgly3dsc.jpeg"}]}
+{
+    "main": {
+        "id": 194791,
+        "updated_at": "2024-11-14 11:50:43",
+        "product_name": "گوجه خشک",
+        "stock": 1000,
+        "min_sale_price": 260000,
+        "min_sale_amount": 50,
+        "description": "بسته یندی 250 گرمی دارای زیپ کیف\r\nبسته بندی 10 کیلو گرمی<hr\/>برای اطلاع از قیمت روز گوجه خشک و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 1000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 50 کیلوگرم<hr\/>",
+        "myuser_id": 478832,
+        "sub_category_id": 57,
+        "province_name": "اصفهان",
+        "province_id": 4,
+        "city_name": " اصفهان",
+        "city_id": 45,
+        "sub_category_name": "میوه خشک",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 478832,
+        "user_name": "q1fste12yh",
+        "first_name": "محسن",
+        "last_name": "کریمیان",
+        "active_pakage_type": 2,
+        "created_at": "2023-03-13 12:38:38",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1725713078307-736938142-3a85XbxfM3bKV9Ddj9xdjsC7kas7sOgcRgly3dsc.jpeg"
+        }
+    ]
+}

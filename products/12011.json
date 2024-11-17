@@ -1,1 +1,38 @@
-{"main":{"id":199487,"updated_at":"2024-11-15 13:05:14","product_name":"سفید وزرد وقرمز","stock":1000000,"min_sale_price":16000,"min_sale_amount":1000000,"description":"بسته بندی به سلیقه مشتری ،،قیمت هم روزانه متغیر هست<hr\/>برای اطلاع از قیمت روز سفید وزرد وقرمز و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : ادرس انبار اصفهان <hr\/>مقدار موجودی آماده فروش برای این محصول : 1000000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000000کیلوگرم<hr\/>","myuser_id":104789,"sub_category_id":25,"province_name":"اصفهان","province_id":4,"city_name":" فلاورجان","city_id":57,"sub_category_name":"پیاز","unit":"کیلوگرم","is_elevated":1,"category_name":"صیفی","category_id":2,"is_old":false},"user_info":{"id":104789,"user_name":"l20gr","first_name":"مرتضی","last_name":"براهیمی","active_pakage_type":2,"created_at":"2022-03-11 20:42:13","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1728411552887-539066330-Yqhx1xBmFgnOFdrBXxt3MAvMQbKDqZVCNOyIU6bh.jpeg"}]}
+{
+    "main": {
+        "id": 199487,
+        "updated_at": "2024-11-15 13:05:14",
+        "product_name": "سفید وزرد وقرمز",
+        "stock": 1000000,
+        "min_sale_price": 16000,
+        "min_sale_amount": 1000000,
+        "description": "بسته بندی به سلیقه مشتری ،،قیمت هم روزانه متغیر هست<hr\/>برای اطلاع از قیمت روز سفید وزرد وقرمز و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : ادرس انبار اصفهان <hr\/>مقدار موجودی آماده فروش برای این محصول : 1000000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000000کیلوگرم<hr\/>",
+        "myuser_id": 104789,
+        "sub_category_id": 25,
+        "province_name": "اصفهان",
+        "province_id": 4,
+        "city_name": " فلاورجان",
+        "city_id": 57,
+        "sub_category_name": "پیاز",
+        "unit": "کیلوگرم",
+        "is_elevated": 1,
+        "category_name": "صیفی",
+        "category_id": 2,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 104789,
+        "user_name": "l20gr",
+        "first_name": "مرتضی",
+        "last_name": "براهیمی",
+        "active_pakage_type": 2,
+        "created_at": "2022-03-11 20:42:13",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1728411552887-539066330-Yqhx1xBmFgnOFdrBXxt3MAvMQbKDqZVCNOyIU6bh.jpeg"
+        }
+    ]
+}

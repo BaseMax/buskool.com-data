@@ -1,1 +1,38 @@
-{"main":{"id":193322,"updated_at":"2024-11-16 08:40:18","product_name":"روغن مایع مخلوط پخت وپز 2\/7","stock":100000,"min_sale_price":124000,"min_sale_amount":500,"description":"کارخانه روغن باران طلایی عرضه کننده انواع روغن های خوراکی در احجام مختلف با بهترین کیفیت تولید و کمترین قیمت<hr\/>برای اطلاع از قیمت روز روغن مایع مخلوط پخت وپز 2\/7 و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : عالی <hr\/>تاییدیه های کیفی، بهداشتی و سلامت کالا موجود برای این محصول : دارد<hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 500 کیلوگرم<hr\/>","myuser_id":121254,"sub_category_id":98,"province_name":"گلستان","province_id":24,"city_name":" گرگان","city_id":264,"sub_category_name":"روغن خوراکی","unit":"کیلوگرم","is_elevated":0,"category_name":"چاشنی و افزودنی","category_id":82,"is_old":false},"user_info":{"id":121254,"user_name":"vp1wh","first_name":"فاطمه","last_name":"قربانی","active_pakage_type":2,"created_at":"2022-04-30 10:17:40","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1724736644512-940110117-u9jfL8HzOD41SLz4XHuH9xr698pvHODOpRg6xRVf.jpeg"}]}
+{
+    "main": {
+        "id": 193322,
+        "updated_at": "2024-11-16 08:40:18",
+        "product_name": "روغن مایع مخلوط پخت وپز 2\/7",
+        "stock": 100000,
+        "min_sale_price": 124000,
+        "min_sale_amount": 500,
+        "description": "کارخانه روغن باران طلایی عرضه کننده انواع روغن های خوراکی در احجام مختلف با بهترین کیفیت تولید و کمترین قیمت<hr\/>برای اطلاع از قیمت روز روغن مایع مخلوط پخت وپز 2\/7 و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : عالی <hr\/>تاییدیه های کیفی، بهداشتی و سلامت کالا موجود برای این محصول : دارد<hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 500 کیلوگرم<hr\/>",
+        "myuser_id": 121254,
+        "sub_category_id": 98,
+        "province_name": "گلستان",
+        "province_id": 24,
+        "city_name": " گرگان",
+        "city_id": 264,
+        "sub_category_name": "روغن خوراکی",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "چاشنی و افزودنی",
+        "category_id": 82,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 121254,
+        "user_name": "vp1wh",
+        "first_name": "فاطمه",
+        "last_name": "قربانی",
+        "active_pakage_type": 2,
+        "created_at": "2022-04-30 10:17:40",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1724736644512-940110117-u9jfL8HzOD41SLz4XHuH9xr698pvHODOpRg6xRVf.jpeg"
+        }
+    ]
+}

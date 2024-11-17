@@ -1,1 +1,38 @@
-{"main":{"id":192090,"updated_at":"2024-11-16 08:40:42","product_name":"2\/7 کیلوگرم مایع مخلوط پخت و پز","stock":100000,"min_sale_price":124000,"min_sale_amount":500,"description":"کارخانه روغن باران طلایی عرضه کننده انواع روغن های خوراکی در احجام مختلف با بهترین کیفیت تولید و کمترین قیمت\r\nبارگیری بروز و مستقیم از کارخانه<hr\/>برای اطلاع از قیمت روز 2\/7 کیلوگرم مایع مخلوط پخت و پز  و خرید مستقیم پیام ارسال کنید.<hr\/>میزان تازه بودن و زمان تولید این محصول : تازه و تولید روز <hr\/>تاییدیه های کیفی، بهداشتی و سلامت کالا موجود برای این محصول : دارد<hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 500 کیلوگرم<hr\/>","myuser_id":121254,"sub_category_id":98,"province_name":"گلستان","province_id":24,"city_name":" گرگان","city_id":264,"sub_category_name":"روغن خوراکی","unit":"کیلوگرم","is_elevated":0,"category_name":"چاشنی و افزودنی","category_id":82,"is_old":false},"user_info":{"id":121254,"user_name":"vp1wh","first_name":"فاطمه","last_name":"قربانی","active_pakage_type":2,"created_at":"2022-04-30 10:17:40","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1723916245618-843366347-JDn43InnXaIJqmsy0bFW01DiuZZcbLnUz3eJjtaZ.jpeg"}]}
+{
+    "main": {
+        "id": 192090,
+        "updated_at": "2024-11-16 08:40:42",
+        "product_name": "2\/7 کیلوگرم مایع مخلوط پخت و پز",
+        "stock": 100000,
+        "min_sale_price": 124000,
+        "min_sale_amount": 500,
+        "description": "کارخانه روغن باران طلایی عرضه کننده انواع روغن های خوراکی در احجام مختلف با بهترین کیفیت تولید و کمترین قیمت\r\nبارگیری بروز و مستقیم از کارخانه<hr\/>برای اطلاع از قیمت روز 2\/7 کیلوگرم مایع مخلوط پخت و پز  و خرید مستقیم پیام ارسال کنید.<hr\/>میزان تازه بودن و زمان تولید این محصول : تازه و تولید روز <hr\/>تاییدیه های کیفی، بهداشتی و سلامت کالا موجود برای این محصول : دارد<hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 500 کیلوگرم<hr\/>",
+        "myuser_id": 121254,
+        "sub_category_id": 98,
+        "province_name": "گلستان",
+        "province_id": 24,
+        "city_name": " گرگان",
+        "city_id": 264,
+        "sub_category_name": "روغن خوراکی",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "چاشنی و افزودنی",
+        "category_id": 82,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 121254,
+        "user_name": "vp1wh",
+        "first_name": "فاطمه",
+        "last_name": "قربانی",
+        "active_pakage_type": 2,
+        "created_at": "2022-04-30 10:17:40",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1723916245618-843366347-JDn43InnXaIJqmsy0bFW01DiuZZcbLnUz3eJjtaZ.jpeg"
+        }
+    ]
+}

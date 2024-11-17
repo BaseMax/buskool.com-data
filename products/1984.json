@@ -1,1 +1,38 @@
-{"main":{"id":207794,"updated_at":"2024-11-16 15:54:19","product_name":"گلوتن گندم برند اس بی","stock":25000,"min_sale_price":90000,"min_sale_amount":2500,"description":"گلوتن گندم خوراکی\r\nبرند اس بی بروجرد\r\nجهت پخت نان \r\nسوسیس کالباس\r\nنودل\r\nپاستا\r\nو..<hr\/>برای اطلاع از قیمت روز گلوتن گندم برند اس بی و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : گونی 25 کیلویی<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : نقد<hr\/>مقدار موجودی آماده فروش برای این محصول : 25000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 2500 کیلوگرم<hr\/>","myuser_id":1152534,"sub_category_id":62,"province_name":"البرز","province_id":5,"city_name":" کرج","city_id":66,"sub_category_name":"گندم","unit":"کیلوگرم","is_elevated":0,"category_name":"غلات","category_id":42,"is_old":false},"user_info":{"id":1152534,"user_name":"zj11tnxvgk91","first_name":"فرشته","last_name":"عبداللهی","active_pakage_type":0,"created_at":"2024-11-16 15:47:24","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731759957133-549623605-BZhIgoZLFbwTP1oryaxP5ewMJ2gGrBw8LDN6uv9a.jpeg"}]}
+{
+    "main": {
+        "id": 207794,
+        "updated_at": "2024-11-16 15:54:19",
+        "product_name": "گلوتن گندم برند اس بی",
+        "stock": 25000,
+        "min_sale_price": 90000,
+        "min_sale_amount": 2500,
+        "description": "گلوتن گندم خوراکی\r\nبرند اس بی بروجرد\r\nجهت پخت نان \r\nسوسیس کالباس\r\nنودل\r\nپاستا\r\nو..<hr\/>برای اطلاع از قیمت روز گلوتن گندم برند اس بی و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : گونی 25 کیلویی<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : نقد<hr\/>مقدار موجودی آماده فروش برای این محصول : 25000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 2500 کیلوگرم<hr\/>",
+        "myuser_id": 1152534,
+        "sub_category_id": 62,
+        "province_name": "البرز",
+        "province_id": 5,
+        "city_name": " کرج",
+        "city_id": 66,
+        "sub_category_name": "گندم",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "غلات",
+        "category_id": 42,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1152534,
+        "user_name": "zj11tnxvgk91",
+        "first_name": "فرشته",
+        "last_name": "عبداللهی",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-16 15:47:24",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731759957133-549623605-BZhIgoZLFbwTP1oryaxP5ewMJ2gGrBw8LDN6uv9a.jpeg"
+        }
+    ]
+}

@@ -1,1 +1,38 @@
-{"main":{"id":207452,"updated_at":"2024-11-15 08:36:40","product_name":"ست کلاه و شال بافتنی نوزادی","stock":200,"min_sale_price":155000,"min_sale_amount":12,"description":"- صد در صد اکرلیک\r\n- داخل کلاه و شال لایه داخلی خز دارد\r\n- تا 18 ماه<hr\/>برای اطلاع از قیمت روز ست کلاه و شال بافتنی نوزادی و خرید مستقیم پیام ارسال کنید.<hr\/>رنگ ظاهری این محصول : 6 رنگ<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : صد در صد اکرلیک درجه یک<hr\/>اندازه یا ابعاد محصول : نوزادی تا 18 ماه<hr\/>مقدار موجودی آماده فروش برای این محصول : 200 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 12 عدد<hr\/>","myuser_id":1124641,"sub_category_id":946,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"کلاه","unit":"عدد","is_elevated":0,"category_name":"اکسسوری و مد","category_id":929,"is_old":false},"user_info":{"id":1124641,"user_name":"h3lzoekn_9g1","first_name":"مصطفی","last_name":"هاشمی","active_pakage_type":0,"created_at":"2024-10-28 17:41:19","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731605453490-489394452-3jiP59ujkn0vUotNVIEYJcnGGItwUzegs5kOOhWR.jpeg"}]}
+{
+    "main": {
+        "id": 207452,
+        "updated_at": "2024-11-15 08:36:40",
+        "product_name": "ست کلاه و شال بافتنی نوزادی",
+        "stock": 200,
+        "min_sale_price": 155000,
+        "min_sale_amount": 12,
+        "description": "- صد در صد اکرلیک\r\n- داخل کلاه و شال لایه داخلی خز دارد\r\n- تا 18 ماه<hr\/>برای اطلاع از قیمت روز ست کلاه و شال بافتنی نوزادی و خرید مستقیم پیام ارسال کنید.<hr\/>رنگ ظاهری این محصول : 6 رنگ<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : صد در صد اکرلیک درجه یک<hr\/>اندازه یا ابعاد محصول : نوزادی تا 18 ماه<hr\/>مقدار موجودی آماده فروش برای این محصول : 200 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 12 عدد<hr\/>",
+        "myuser_id": 1124641,
+        "sub_category_id": 946,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "کلاه",
+        "unit": "عدد",
+        "is_elevated": 0,
+        "category_name": "اکسسوری و مد",
+        "category_id": 929,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1124641,
+        "user_name": "h3lzoekn_9g1",
+        "first_name": "مصطفی",
+        "last_name": "هاشمی",
+        "active_pakage_type": 0,
+        "created_at": "2024-10-28 17:41:19",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731605453490-489394452-3jiP59ujkn0vUotNVIEYJcnGGItwUzegs5kOOhWR.jpeg"
+        }
+    ]
+}

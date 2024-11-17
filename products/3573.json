@@ -1,1 +1,38 @@
-{"main":{"id":207581,"updated_at":"2024-11-16 10:08:30","product_name":"نگین","stock":100,"min_sale_price":85000000,"min_sale_amount":1,"description":"<hr\/>برای اطلاع از قیمت روز نگین و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 100 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1 کیلوگرم<hr\/>","myuser_id":903159,"sub_category_id":59,"province_name":"خراسان رضوی","province_id":11,"city_name":" مشهد","city_id":130,"sub_category_name":"زعفران","unit":"کیلوگرم","is_elevated":0,"category_name":"ادویه","category_id":46,"is_old":false},"user_info":{"id":903159,"user_name":"v11xaj14qm","first_name":"عبدالقادر","last_name":"مقری","active_pakage_type":2,"created_at":"2024-04-25 13:54:55","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731685877587-32704004-2mXGe59rqxmhmWMSrx3YQvGNYdOqmG98ZmioQz4N.jpeg"}]}
+{
+    "main": {
+        "id": 207581,
+        "updated_at": "2024-11-16 10:08:30",
+        "product_name": "نگین",
+        "stock": 100,
+        "min_sale_price": 85000000,
+        "min_sale_amount": 1,
+        "description": "<hr\/>برای اطلاع از قیمت روز نگین و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 100 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1 کیلوگرم<hr\/>",
+        "myuser_id": 903159,
+        "sub_category_id": 59,
+        "province_name": "خراسان رضوی",
+        "province_id": 11,
+        "city_name": " مشهد",
+        "city_id": 130,
+        "sub_category_name": "زعفران",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "ادویه",
+        "category_id": 46,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 903159,
+        "user_name": "v11xaj14qm",
+        "first_name": "عبدالقادر",
+        "last_name": "مقری",
+        "active_pakage_type": 2,
+        "created_at": "2024-04-25 13:54:55",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731685877587-32704004-2mXGe59rqxmhmWMSrx3YQvGNYdOqmG98ZmioQz4N.jpeg"
+        }
+    ]
+}

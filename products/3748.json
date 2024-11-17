@@ -1,1 +1,38 @@
-{"main":{"id":182036,"updated_at":"2024-11-16 13:43:58","product_name":"پنیر پیتزا موزارلا دلیشس","stock":500,"min_sale_price":225000,"min_sale_amount":100,"description":"پنیر موزارلا و ناپولیتن برند دلیشس ، صادراتی ، کیفیت درجه یک بسته بندی ، بهترین کیفیت ایران \r\nهر کارتن 10 کیلو و کیلویی 200هزار تومان<hr\/>برای اطلاع از قیمت روز پنیر پیتزا دلیشس و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : عالی و شیک صادراتی با نوشته های انگلیسی و عربی<hr\/>مزیت این محصول نسبت به محصولات مشابه : بالاترین کیفیت با بهترین قیمت<hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 کارتن<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 کارتن<hr\/>","myuser_id":720294,"sub_category_id":131,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"پنیر","unit":"کارتن","is_elevated":0,"category_name":"لبنیات","category_id":129,"is_old":false},"user_info":{"id":720294,"user_name":"2u16o1","first_name":"دانیال","last_name":"سروندانی","active_pakage_type":2,"created_at":"2023-11-11 18:25:08","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1717427636314-5812564-1WDCzrbgRxu7Q6aBAvFCG9e5jKlJek0rjQgcnwUu.jpeg"}]}
+{
+    "main": {
+        "id": 182036,
+        "updated_at": "2024-11-16 13:43:58",
+        "product_name": "پنیر پیتزا موزارلا دلیشس",
+        "stock": 500,
+        "min_sale_price": 225000,
+        "min_sale_amount": 100,
+        "description": "پنیر موزارلا و ناپولیتن برند دلیشس ، صادراتی ، کیفیت درجه یک بسته بندی ، بهترین کیفیت ایران \r\nهر کارتن 10 کیلو و کیلویی 200هزار تومان<hr\/>برای اطلاع از قیمت روز پنیر پیتزا دلیشس و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : عالی و شیک صادراتی با نوشته های انگلیسی و عربی<hr\/>مزیت این محصول نسبت به محصولات مشابه : بالاترین کیفیت با بهترین قیمت<hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 کارتن<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 کارتن<hr\/>",
+        "myuser_id": 720294,
+        "sub_category_id": 131,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "پنیر",
+        "unit": "کارتن",
+        "is_elevated": 0,
+        "category_name": "لبنیات",
+        "category_id": 129,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 720294,
+        "user_name": "2u16o1",
+        "first_name": "دانیال",
+        "last_name": "سروندانی",
+        "active_pakage_type": 2,
+        "created_at": "2023-11-11 18:25:08",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1717427636314-5812564-1WDCzrbgRxu7Q6aBAvFCG9e5jKlJek0rjQgcnwUu.jpeg"
+        }
+    ]
+}

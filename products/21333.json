@@ -1,1 +1,38 @@
-{"main":{"id":206361,"updated_at":"2024-11-13 16:06:11","product_name":"تخمه ی شاهرودی","stock":5000,"min_sale_price":66000,"min_sale_amount":300,"description":"محصول تازه \r\nبدون پوکی \r\nبرداشت آبان 1403\r\nخریدی بی واسطه از کشاورز\r\nارسال از خراسان جنوبی شهرستان قائنات با باربری و اتوبوس<hr\/>برای اطلاع از قیمت روز تخمه ی شاهرودی و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : تازه بودن محصول<hr\/>میزان تازه بودن و زمان تولید این محصول : برداشت آبان 1403<hr\/>مقدار موجودی آماده فروش برای این محصول : 5000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 300 کیلوگرم<hr\/>","myuser_id":332336,"sub_category_id":56,"province_name":"خراسان جنوبی","province_id":10,"city_name":" قائن","city_id":106,"sub_category_name":"تخمه آفتابگردان","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":332336,"user_name":"vhta","first_name":"رضا","last_name":"تیغابی","active_pakage_type":1,"created_at":"2022-09-29 09:47:10","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731229110668-389499920-9dqdxLP30BxktAvMwSyJItyfYBAedISdWnrWWdz4.jpeg"}]}
+{
+    "main": {
+        "id": 206361,
+        "updated_at": "2024-11-13 16:06:11",
+        "product_name": "تخمه ی شاهرودی",
+        "stock": 5000,
+        "min_sale_price": 66000,
+        "min_sale_amount": 300,
+        "description": "محصول تازه \r\nبدون پوکی \r\nبرداشت آبان 1403\r\nخریدی بی واسطه از کشاورز\r\nارسال از خراسان جنوبی شهرستان قائنات با باربری و اتوبوس<hr\/>برای اطلاع از قیمت روز تخمه ی شاهرودی و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : تازه بودن محصول<hr\/>میزان تازه بودن و زمان تولید این محصول : برداشت آبان 1403<hr\/>مقدار موجودی آماده فروش برای این محصول : 5000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 300 کیلوگرم<hr\/>",
+        "myuser_id": 332336,
+        "sub_category_id": 56,
+        "province_name": "خراسان جنوبی",
+        "province_id": 10,
+        "city_name": " قائن",
+        "city_id": 106,
+        "sub_category_name": "تخمه آفتابگردان",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 332336,
+        "user_name": "vhta",
+        "first_name": "رضا",
+        "last_name": "تیغابی",
+        "active_pakage_type": 1,
+        "created_at": "2022-09-29 09:47:10",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731229110668-389499920-9dqdxLP30BxktAvMwSyJItyfYBAedISdWnrWWdz4.jpeg"
+        }
+    ]
+}

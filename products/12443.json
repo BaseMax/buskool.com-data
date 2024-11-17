@@ -1,1 +1,38 @@
-{"main":{"id":207885,"updated_at":"2024-11-17 09:14:09","product_name":"کارتن انار","stock":1400,"min_sale_price":12000,"min_sale_amount":1400,"description":"از نوع بهترین جنس استفاده شده است از جنس چند لایه و کارتن روغنی و رنگ سفید و قرمز می‌باشد که 700 عدد کارتن زیری می‌باشد و700 عدد هم دری<hr\/>برای اطلاع از قیمت روز کارتن انار و خرید مستقیم پیام ارسال کنید.<hr\/>رنگ ظاهری این محصول : رنگش سفید و قرمز می‌باشد و کارتن کفی هم از رنگ قهوه ای<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : بهترین کیفیت برای صادرات <hr\/>مقدار موجودی آماده فروش برای این محصول : 1400 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1400 کیلوگرم<hr\/>","myuser_id":1152897,"sub_category_id":4,"province_name":"البرز","province_id":5,"city_name":" کرج","city_id":66,"sub_category_name":"انار","unit":"کیلوگرم","is_elevated":0,"category_name":"میوه","category_id":1,"is_old":false},"user_info":{"id":1152897,"user_name":"xn4rvq2","first_name":"هدایت","last_name":"همتی","active_pakage_type":0,"created_at":"2024-11-16 20:00:20","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731792259883-294419597-AopxBKF7b3rWR4UusTZfd1zNVDWKGRJZ0IyV2lIo.jpeg"}]}
+{
+    "main": {
+        "id": 207885,
+        "updated_at": "2024-11-17 09:14:09",
+        "product_name": "کارتن انار",
+        "stock": 1400,
+        "min_sale_price": 12000,
+        "min_sale_amount": 1400,
+        "description": "از نوع بهترین جنس استفاده شده است از جنس چند لایه و کارتن روغنی و رنگ سفید و قرمز می‌باشد که 700 عدد کارتن زیری می‌باشد و700 عدد هم دری<hr\/>برای اطلاع از قیمت روز کارتن انار و خرید مستقیم پیام ارسال کنید.<hr\/>رنگ ظاهری این محصول : رنگش سفید و قرمز می‌باشد و کارتن کفی هم از رنگ قهوه ای<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : بهترین کیفیت برای صادرات <hr\/>مقدار موجودی آماده فروش برای این محصول : 1400 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1400 کیلوگرم<hr\/>",
+        "myuser_id": 1152897,
+        "sub_category_id": 4,
+        "province_name": "البرز",
+        "province_id": 5,
+        "city_name": " کرج",
+        "city_id": 66,
+        "sub_category_name": "انار",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "میوه",
+        "category_id": 1,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1152897,
+        "user_name": "xn4rvq2",
+        "first_name": "هدایت",
+        "last_name": "همتی",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-16 20:00:20",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731792259883-294419597-AopxBKF7b3rWR4UusTZfd1zNVDWKGRJZ0IyV2lIo.jpeg"
+        }
+    ]
+}

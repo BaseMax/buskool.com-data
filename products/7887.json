@@ -1,1 +1,38 @@
-{"main":{"id":207589,"updated_at":"2024-11-16 10:04:13","product_name":"کوله پشتی","stock":10,"min_sale_price":420000,"min_sale_amount":6,"description":"کوله پشتی آل اسپرت با کیفیت و درجه یک<hr\/>برای اطلاع از قیمت روز کوله پشتی و خرید مستقیم پیام ارسال کنید.<hr\/>رنگ ظاهری این محصول : در رنگ های متنوع<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : به صورت عمده و جزئی<hr\/>مقدار موجودی آماده فروش برای این محصول : 10 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 6 عدد<hr\/>","myuser_id":1151297,"sub_category_id":1008,"province_name":"اصفهان","province_id":4,"city_name":" اصفهان","city_id":45,"sub_category_name":"کوله پشتی","unit":"عدد","is_elevated":0,"category_name":"کیف و چمدان","category_id":999,"is_old":false},"user_info":{"id":1151297,"user_name":"5tdos","first_name":"سعید","last_name":"کوهکن","active_pakage_type":0,"created_at":"2024-11-15 19:57:54","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731689257989-319099503-fCl2mhMRSBRoPqYkTJET80kBvvPKcgT5J1ZgxKBL.jpeg"}]}
+{
+    "main": {
+        "id": 207589,
+        "updated_at": "2024-11-16 10:04:13",
+        "product_name": "کوله پشتی",
+        "stock": 10,
+        "min_sale_price": 420000,
+        "min_sale_amount": 6,
+        "description": "کوله پشتی آل اسپرت با کیفیت و درجه یک<hr\/>برای اطلاع از قیمت روز کوله پشتی و خرید مستقیم پیام ارسال کنید.<hr\/>رنگ ظاهری این محصول : در رنگ های متنوع<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : به صورت عمده و جزئی<hr\/>مقدار موجودی آماده فروش برای این محصول : 10 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 6 عدد<hr\/>",
+        "myuser_id": 1151297,
+        "sub_category_id": 1008,
+        "province_name": "اصفهان",
+        "province_id": 4,
+        "city_name": " اصفهان",
+        "city_id": 45,
+        "sub_category_name": "کوله پشتی",
+        "unit": "عدد",
+        "is_elevated": 0,
+        "category_name": "کیف و چمدان",
+        "category_id": 999,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1151297,
+        "user_name": "5tdos",
+        "first_name": "سعید",
+        "last_name": "کوهکن",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-15 19:57:54",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731689257989-319099503-fCl2mhMRSBRoPqYkTJET80kBvvPKcgT5J1ZgxKBL.jpeg"
+        }
+    ]
+}

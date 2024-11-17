@@ -1,1 +1,38 @@
-{"main":{"id":207195,"updated_at":"2024-11-13 15:01:46","product_name":"لیمو خشک","stock":7000,"min_sale_price":140000,"min_sale_amount":50,"description":"لیمو سیاه جهرم \r\nمناسب صادرات \r\nبسته بندی مطابق سلیقه مشتری \r\nعطر و بو عالی \r\nکاملا طبیعی \r\nبدون افزودنی<hr\/>برای اطلاع از قیمت روز لیمو خشک  و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : کیسه نایلونی شفاف <hr\/>رنگ ظاهری این محصول : مشکی طبیعی <hr\/>مقدار موجودی آماده فروش برای این محصول : 7000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 50 کیلوگرم<hr\/>","myuser_id":809200,"sub_category_id":57,"province_name":"فارس","province_id":17,"city_name":" جهرم","city_id":188,"sub_category_name":"میوه خشک","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":809200,"user_name":"qhec8","first_name":"شرکت","last_name":"زرين طعم سلامت","active_pakage_type":2,"created_at":"2024-01-28 11:26:06","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731497472672-944486033-Mw98jSUmP5Eu52YtcyLRqdVIgG0HqQNF0eJlzOtO.jpeg"}]}
+{
+    "main": {
+        "id": 207195,
+        "updated_at": "2024-11-13 15:01:46",
+        "product_name": "لیمو خشک",
+        "stock": 7000,
+        "min_sale_price": 140000,
+        "min_sale_amount": 50,
+        "description": "لیمو سیاه جهرم \r\nمناسب صادرات \r\nبسته بندی مطابق سلیقه مشتری \r\nعطر و بو عالی \r\nکاملا طبیعی \r\nبدون افزودنی<hr\/>برای اطلاع از قیمت روز لیمو خشک  و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : کیسه نایلونی شفاف <hr\/>رنگ ظاهری این محصول : مشکی طبیعی <hr\/>مقدار موجودی آماده فروش برای این محصول : 7000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 50 کیلوگرم<hr\/>",
+        "myuser_id": 809200,
+        "sub_category_id": 57,
+        "province_name": "فارس",
+        "province_id": 17,
+        "city_name": " جهرم",
+        "city_id": 188,
+        "sub_category_name": "میوه خشک",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 809200,
+        "user_name": "qhec8",
+        "first_name": "شرکت",
+        "last_name": "زرين طعم سلامت",
+        "active_pakage_type": 2,
+        "created_at": "2024-01-28 11:26:06",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731497472672-944486033-Mw98jSUmP5Eu52YtcyLRqdVIgG0HqQNF0eJlzOtO.jpeg"
+        }
+    ]
+}

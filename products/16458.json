@@ -1,1 +1,38 @@
-{"main":{"id":122263,"updated_at":"2024-11-14 11:45:40","product_name":"دان سبز قهوه ویتنام","stock":45000,"min_sale_price":360000,"min_sale_amount":60,"description":"دان سبز قهوه ویتنام روبوستا\r\n در بسته بندی 60 کیلویی\r\nوت پولیش اسکرین 18\r\nبه دلیل نوسانات بازار قهوه قیمت ها حدودی می باشند\r\nلطفا برای استعلام قیمت دقیق و بروز حتما تماس بگیرید<hr\/>برای اطلاع از قیمت روز دان سبز قهوه ویتنام و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : دان سبز قهوه فقط در گونی های 60 کیلویی به فروش میرسد<hr\/>اندازه یا ابعاد محصول : اسکرین 18 می باشد<hr\/>مقدار موجودی آماده فروش برای این محصول : 1000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 60 کیلوگرم<hr\/>","myuser_id":147317,"sub_category_id":84,"province_name":"البرز","province_id":5,"city_name":" کرج","city_id":66,"sub_category_name":"قهوه","unit":"کیلوگرم","is_elevated":0,"category_name":"نوشیدنی","category_id":78,"is_old":false},"user_info":{"id":147317,"user_name":"s1zbxf5t","first_name":"صادق","last_name":"جدی","active_pakage_type":2,"created_at":"2022-06-20 00:06:07","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1682763777474-878702463-quSeFYSIiUe5FtaL4jHrz93Agn6qY2WwOQQFplj6.jpeg"}]}
+{
+    "main": {
+        "id": 122263,
+        "updated_at": "2024-11-14 11:45:40",
+        "product_name": "دان سبز قهوه ویتنام",
+        "stock": 45000,
+        "min_sale_price": 360000,
+        "min_sale_amount": 60,
+        "description": "دان سبز قهوه ویتنام روبوستا\r\n در بسته بندی 60 کیلویی\r\nوت پولیش اسکرین 18\r\nبه دلیل نوسانات بازار قهوه قیمت ها حدودی می باشند\r\nلطفا برای استعلام قیمت دقیق و بروز حتما تماس بگیرید<hr\/>برای اطلاع از قیمت روز دان سبز قهوه ویتنام و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : دان سبز قهوه فقط در گونی های 60 کیلویی به فروش میرسد<hr\/>اندازه یا ابعاد محصول : اسکرین 18 می باشد<hr\/>مقدار موجودی آماده فروش برای این محصول : 1000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 60 کیلوگرم<hr\/>",
+        "myuser_id": 147317,
+        "sub_category_id": 84,
+        "province_name": "البرز",
+        "province_id": 5,
+        "city_name": " کرج",
+        "city_id": 66,
+        "sub_category_name": "قهوه",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "نوشیدنی",
+        "category_id": 78,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 147317,
+        "user_name": "s1zbxf5t",
+        "first_name": "صادق",
+        "last_name": "جدی",
+        "active_pakage_type": 2,
+        "created_at": "2022-06-20 00:06:07",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1682763777474-878702463-quSeFYSIiUe5FtaL4jHrz93Agn6qY2WwOQQFplj6.jpeg"
+        }
+    ]
+}

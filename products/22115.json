@@ -1,1 +1,38 @@
-{"main":{"id":207221,"updated_at":"2024-11-13 19:15:02","product_name":"کوزه و آباژور های پتینه شده و دکوری های پلی استری","stock":1000,"min_sale_price":350000,"min_sale_amount":1,"description":"انواع لوازم دکوری منزل با رنگ بندی و مدل مدنظر شما قابل اجرا میباشد<hr\/>برای اطلاع از قیمت روز کوزه و آباژور های پتینه شده و دکوری های پلی استری و خرید مستقیم پیام ارسال کنید.<hr\/>اندازه یا ابعاد محصول : قابل اجرا در ابعاد مختلف<hr\/>مقدار موجودی آماده فروش برای این محصول : 1000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1 عدد<hr\/>","myuser_id":1148512,"sub_category_id":958,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"سایر لوازم خانگی","unit":"عدد","is_elevated":0,"category_name":"لوازم خانگی","category_id":925,"is_old":false},"user_info":{"id":1148512,"user_name":"2v19nis_v4","first_name":"سارا","last_name":"فرخی","active_pakage_type":0,"created_at":"2024-11-13 17:36:12","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731507712872-355082932-1eDPJIRlr5xSbTgzicwvRS3AQ9EFH16umTJouLaQ.jpeg"}]}
+{
+    "main": {
+        "id": 207221,
+        "updated_at": "2024-11-13 19:15:02",
+        "product_name": "کوزه و آباژور های پتینه شده و دکوری های پلی استری",
+        "stock": 1000,
+        "min_sale_price": 350000,
+        "min_sale_amount": 1,
+        "description": "انواع لوازم دکوری منزل با رنگ بندی و مدل مدنظر شما قابل اجرا میباشد<hr\/>برای اطلاع از قیمت روز کوزه و آباژور های پتینه شده و دکوری های پلی استری و خرید مستقیم پیام ارسال کنید.<hr\/>اندازه یا ابعاد محصول : قابل اجرا در ابعاد مختلف<hr\/>مقدار موجودی آماده فروش برای این محصول : 1000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1 عدد<hr\/>",
+        "myuser_id": 1148512,
+        "sub_category_id": 958,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "سایر لوازم خانگی",
+        "unit": "عدد",
+        "is_elevated": 0,
+        "category_name": "لوازم خانگی",
+        "category_id": 925,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1148512,
+        "user_name": "2v19nis_v4",
+        "first_name": "سارا",
+        "last_name": "فرخی",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-13 17:36:12",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731507712872-355082932-1eDPJIRlr5xSbTgzicwvRS3AQ9EFH16umTJouLaQ.jpeg"
+        }
+    ]
+}

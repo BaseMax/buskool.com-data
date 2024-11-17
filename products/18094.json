@@ -1,1 +1,38 @@
-{"main":{"id":207215,"updated_at":"2024-11-13 19:15:56","product_name":"دیواری رومی","stock":10000,"min_sale_price":80000,"min_sale_amount":100,"description":"جنس بدنه:شیشه،PP مواد نوع باکیفیت\r\nسرپیچ:سرامیکی درجه یکE27\r\nدررنگهای:سفید،مشکی ومسی\r\nتعداد در هر کارتن:10عدد<hr\/>برای اطلاع از قیمت روز دیواری رومی و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : از مواد نو درجه یک PP  با رنگ ماندگار<hr\/>مقدار موجودی آماده فروش برای این محصول : 10000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 عدد<hr\/>","myuser_id":661813,"sub_category_id":818,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"چراغ","unit":"عدد","is_elevated":0,"category_name":"تجهیزات روشنایی","category_id":815,"is_old":false},"user_info":{"id":661813,"user_name":"ktcp6esplqw2","first_name":"حسن","last_name":"فصیحی","active_pakage_type":2,"created_at":"2023-09-15 20:09:37","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731505186616-539076961-PJV68dM4wnr0hpu1DXtoOlgR6WS2P1qKUxdz3rcw.jpeg"}]}
+{
+    "main": {
+        "id": 207215,
+        "updated_at": "2024-11-13 19:15:56",
+        "product_name": "دیواری رومی",
+        "stock": 10000,
+        "min_sale_price": 80000,
+        "min_sale_amount": 100,
+        "description": "جنس بدنه:شیشه،PP مواد نوع باکیفیت\r\nسرپیچ:سرامیکی درجه یکE27\r\nدررنگهای:سفید،مشکی ومسی\r\nتعداد در هر کارتن:10عدد<hr\/>برای اطلاع از قیمت روز دیواری رومی و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : از مواد نو درجه یک PP  با رنگ ماندگار<hr\/>مقدار موجودی آماده فروش برای این محصول : 10000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 عدد<hr\/>",
+        "myuser_id": 661813,
+        "sub_category_id": 818,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "چراغ",
+        "unit": "عدد",
+        "is_elevated": 0,
+        "category_name": "تجهیزات روشنایی",
+        "category_id": 815,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 661813,
+        "user_name": "ktcp6esplqw2",
+        "first_name": "حسن",
+        "last_name": "فصیحی",
+        "active_pakage_type": 2,
+        "created_at": "2023-09-15 20:09:37",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731505186616-539076961-PJV68dM4wnr0hpu1DXtoOlgR6WS2P1qKUxdz3rcw.jpeg"
+        }
+    ]
+}

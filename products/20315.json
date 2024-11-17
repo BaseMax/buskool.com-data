@@ -1,1 +1,38 @@
-{"main":{"id":201201,"updated_at":"2024-11-14 11:45:29","product_name":"فندقی احمداقایی اکبری","stock":5000,"min_sale_price":420000,"min_sale_amount":50,"description":"<hr\/>برای اطلاع از قیمت روز فندقی احمداقایی و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : تضمینی<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : نقدی<hr\/>مقدار موجودی آماده فروش برای این محصول : 2000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 کیلوگرم<hr\/>","myuser_id":1080347,"sub_category_id":44,"province_name":"كرمان","province_id":21,"city_name":" رفسنجان","city_id":226,"sub_category_name":"پسته","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":1080347,"user_name":"0gh32m","first_name":"مسلم","last_name":"امیری زاده","active_pakage_type":1,"created_at":"2024-09-27 19:29:36","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1729162670548-173534536-BAykYmr5fQx4EHYIOimQUsfKbnL3rLTRVoAvbmrA.jpeg"}]}
+{
+    "main": {
+        "id": 201201,
+        "updated_at": "2024-11-14 11:45:29",
+        "product_name": "فندقی احمداقایی اکبری",
+        "stock": 5000,
+        "min_sale_price": 420000,
+        "min_sale_amount": 50,
+        "description": "<hr\/>برای اطلاع از قیمت روز فندقی احمداقایی و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : تضمینی<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : نقدی<hr\/>مقدار موجودی آماده فروش برای این محصول : 2000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 کیلوگرم<hr\/>",
+        "myuser_id": 1080347,
+        "sub_category_id": 44,
+        "province_name": "كرمان",
+        "province_id": 21,
+        "city_name": " رفسنجان",
+        "city_id": 226,
+        "sub_category_name": "پسته",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1080347,
+        "user_name": "0gh32m",
+        "first_name": "مسلم",
+        "last_name": "امیری زاده",
+        "active_pakage_type": 1,
+        "created_at": "2024-09-27 19:29:36",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1729162670548-173534536-BAykYmr5fQx4EHYIOimQUsfKbnL3rLTRVoAvbmrA.jpeg"
+        }
+    ]
+}

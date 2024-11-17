@@ -1,1 +1,38 @@
-{"main":{"id":162141,"updated_at":"2024-11-17 09:14:27","product_name":"بیل بکهو","stock":800,"min_sale_price":280000000,"min_sale_amount":1,"description":"انواع بیل بکهو عقب تراکتور\r\nبه بهترین کیفیت و پشتیبانی و خدمات<hr\/>برای اطلاع از قیمت روز بیل بکهو و خرید مستقیم پیام ارسال کنید.<hr\/>مزیت این محصول نسبت به محصولات مشابه : بدون رقیب و محصول مشابه. کسی بیل بکهو عقب تراکتور نمیزنه<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : کیفست تضمینی و عالی<hr\/>مقدار موجودی آماده فروش برای این محصول : 800000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1 عدد<hr\/>","myuser_id":792727,"sub_category_id":365,"province_name":"قم","province_id":19,"city_name":" قم","city_id":211,"sub_category_name":"ادوات کشاورزی","unit":"عدد","is_elevated":0,"category_name":"تجهیزات کشاورزی","category_id":332,"is_old":false},"user_info":{"id":792727,"user_name":"wl19j20o","first_name":"سارا","last_name":"حجتی","active_pakage_type":2,"created_at":"2024-01-13 12:15:53","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1705147033434-111329990-gsO95V7CW09NyXs2p2YTlINyg91GNkRNqdE5sn3e.jpeg"}]}
+{
+    "main": {
+        "id": 162141,
+        "updated_at": "2024-11-17 09:14:27",
+        "product_name": "بیل بکهو",
+        "stock": 800,
+        "min_sale_price": 280000000,
+        "min_sale_amount": 1,
+        "description": "انواع بیل بکهو عقب تراکتور\r\nبه بهترین کیفیت و پشتیبانی و خدمات<hr\/>برای اطلاع از قیمت روز بیل بکهو و خرید مستقیم پیام ارسال کنید.<hr\/>مزیت این محصول نسبت به محصولات مشابه : بدون رقیب و محصول مشابه. کسی بیل بکهو عقب تراکتور نمیزنه<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : کیفست تضمینی و عالی<hr\/>مقدار موجودی آماده فروش برای این محصول : 800000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1 عدد<hr\/>",
+        "myuser_id": 792727,
+        "sub_category_id": 365,
+        "province_name": "قم",
+        "province_id": 19,
+        "city_name": " قم",
+        "city_id": 211,
+        "sub_category_name": "ادوات کشاورزی",
+        "unit": "عدد",
+        "is_elevated": 0,
+        "category_name": "تجهیزات کشاورزی",
+        "category_id": 332,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 792727,
+        "user_name": "wl19j20o",
+        "first_name": "سارا",
+        "last_name": "حجتی",
+        "active_pakage_type": 2,
+        "created_at": "2024-01-13 12:15:53",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1705147033434-111329990-gsO95V7CW09NyXs2p2YTlINyg91GNkRNqdE5sn3e.jpeg"
+        }
+    ]
+}

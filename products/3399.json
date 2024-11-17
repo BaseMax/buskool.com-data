@@ -1,1 +1,38 @@
-{"main":{"id":181151,"updated_at":"2024-11-16 13:43:38","product_name":"پنیر پیتزا","stock":500,"min_sale_price":185000,"min_sale_amount":100,"description":"بهترین کیفیت و صادراتی ، کارتن 5لایه کرافت با نایلون پلی استر پلی اتیلن 85 میکرون ، کارتن ها 10 کیلویی ، دارای انواع کم چرب ، پر چرب و موزارلا \r\nبسته بندی های دو کیلویی ، یک کیلویی، 500گرمی و 180 گرمی<hr\/>برای اطلاع از قیمت روز پنیر پیتزا و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : کش ، عطر و طعم بینظیر<hr\/>تاییدیه های کیفی، بهداشتی و سلامت کالا موجود برای این محصول : دارای نشان استاندارد و حلال<hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 کارتن<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 کارتن<hr\/>","myuser_id":720294,"sub_category_id":131,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"پنیر","unit":"کارتن","is_elevated":0,"category_name":"لبنیات","category_id":129,"is_old":false},"user_info":{"id":720294,"user_name":"2u16o1","first_name":"دانیال","last_name":"سروندانی","active_pakage_type":2,"created_at":"2023-11-11 18:25:08","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1716815400222-633336300-q9RMH7vVh4xVPjLB2D8SLMWPLJ0qQd39Lhb8JWOr.jpeg"}]}
+{
+    "main": {
+        "id": 181151,
+        "updated_at": "2024-11-16 13:43:38",
+        "product_name": "پنیر پیتزا",
+        "stock": 500,
+        "min_sale_price": 185000,
+        "min_sale_amount": 100,
+        "description": "بهترین کیفیت و صادراتی ، کارتن 5لایه کرافت با نایلون پلی استر پلی اتیلن 85 میکرون ، کارتن ها 10 کیلویی ، دارای انواع کم چرب ، پر چرب و موزارلا \r\nبسته بندی های دو کیلویی ، یک کیلویی، 500گرمی و 180 گرمی<hr\/>برای اطلاع از قیمت روز پنیر پیتزا و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : کش ، عطر و طعم بینظیر<hr\/>تاییدیه های کیفی، بهداشتی و سلامت کالا موجود برای این محصول : دارای نشان استاندارد و حلال<hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 کارتن<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 کارتن<hr\/>",
+        "myuser_id": 720294,
+        "sub_category_id": 131,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "پنیر",
+        "unit": "کارتن",
+        "is_elevated": 0,
+        "category_name": "لبنیات",
+        "category_id": 129,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 720294,
+        "user_name": "2u16o1",
+        "first_name": "دانیال",
+        "last_name": "سروندانی",
+        "active_pakage_type": 2,
+        "created_at": "2023-11-11 18:25:08",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1716815400222-633336300-q9RMH7vVh4xVPjLB2D8SLMWPLJ0qQd39Lhb8JWOr.jpeg"
+        }
+    ]
+}

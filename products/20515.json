@@ -1,1 +1,38 @@
-{"main":{"id":207239,"updated_at":"2024-11-13 19:10:56","product_name":"بادام زمینی","stock":150000,"min_sale_price":80000,"min_sale_amount":100000,"description":"محصول درجه یک رقم گلی بسته بندی های 30 کیلویی<hr\/>برای اطلاع از قیمت روز بادام زمینی  و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : محصول درجه ای یک رقم گلی<hr\/>مقدار موجودی آماده فروش برای این محصول : 150000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100000 کیلوگرم<hr\/>","myuser_id":1148598,"sub_category_id":55,"province_name":"اردبیل","province_id":3,"city_name":" پارس آباد","city_id":36,"sub_category_name":"بادام","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":1148598,"user_name":"2hi2xu","first_name":"محمد","last_name":"جمالی","active_pakage_type":0,"created_at":"2024-11-13 18:43:31","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731512282211-515748745-XdRZ3VqaeuMYlAUdzCvrP9IohN5Cq3AYHCTLiTTQ.jpeg"}]}
+{
+    "main": {
+        "id": 207239,
+        "updated_at": "2024-11-13 19:10:56",
+        "product_name": "بادام زمینی",
+        "stock": 150000,
+        "min_sale_price": 80000,
+        "min_sale_amount": 100000,
+        "description": "محصول درجه یک رقم گلی بسته بندی های 30 کیلویی<hr\/>برای اطلاع از قیمت روز بادام زمینی  و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : محصول درجه ای یک رقم گلی<hr\/>مقدار موجودی آماده فروش برای این محصول : 150000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100000 کیلوگرم<hr\/>",
+        "myuser_id": 1148598,
+        "sub_category_id": 55,
+        "province_name": "اردبیل",
+        "province_id": 3,
+        "city_name": " پارس آباد",
+        "city_id": 36,
+        "sub_category_name": "بادام",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1148598,
+        "user_name": "2hi2xu",
+        "first_name": "محمد",
+        "last_name": "جمالی",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-13 18:43:31",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731512282211-515748745-XdRZ3VqaeuMYlAUdzCvrP9IohN5Cq3AYHCTLiTTQ.jpeg"
+        }
+    ]
+}

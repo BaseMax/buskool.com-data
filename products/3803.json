@@ -1,1 +1,38 @@
-{"main":{"id":207712,"updated_at":"2024-11-16 12:03:41","product_name":"الو شابلون","stock":350,"min_sale_price":390000,"min_sale_amount":10,"description":"آلوشابلون اسلایس\r\nلوکس باکیفت عالی\r\nرطوبت استاندارد\r\nطعم ملس\r\nبدونی متابی وطبیعی خشک شده\r\nبسته بندی یک کیلویی نایلون پشت صدفی\r\nداخل کارتن موزی\r\nارسال به سراسر کشور با اوتوبوس باباربری یاپست\r\nخودمان تولیدکننده هستیم<hr\/>برای اطلاع از قیمت روز الو شابلون و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : بسته بندی یک کیلویی<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : بدون مواد وطببیعی<hr\/>مقدار موجودی آماده فروش برای این محصول : 350 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 10 کیلوگرم<hr\/>","myuser_id":1150665,"sub_category_id":57,"province_name":"آذربایجان شرقی","province_id":1,"city_name":" تبریز","city_id":6,"sub_category_name":"میوه خشک","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":1150665,"user_name":"knf20e71","first_name":"هاجر","last_name":"آفرین سار","active_pakage_type":0,"created_at":"2024-11-15 10:58:05","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731743761591-836070957-1KD6QflUIvMSwpOunlKb31NHsAlEUcnDp4P5Vekm.jpeg"}]}
+{
+    "main": {
+        "id": 207712,
+        "updated_at": "2024-11-16 12:03:41",
+        "product_name": "الو شابلون",
+        "stock": 350,
+        "min_sale_price": 390000,
+        "min_sale_amount": 10,
+        "description": "آلوشابلون اسلایس\r\nلوکس باکیفت عالی\r\nرطوبت استاندارد\r\nطعم ملس\r\nبدونی متابی وطبیعی خشک شده\r\nبسته بندی یک کیلویی نایلون پشت صدفی\r\nداخل کارتن موزی\r\nارسال به سراسر کشور با اوتوبوس باباربری یاپست\r\nخودمان تولیدکننده هستیم<hr\/>برای اطلاع از قیمت روز الو شابلون و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : بسته بندی یک کیلویی<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : بدون مواد وطببیعی<hr\/>مقدار موجودی آماده فروش برای این محصول : 350 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 10 کیلوگرم<hr\/>",
+        "myuser_id": 1150665,
+        "sub_category_id": 57,
+        "province_name": "آذربایجان شرقی",
+        "province_id": 1,
+        "city_name": " تبریز",
+        "city_id": 6,
+        "sub_category_name": "میوه خشک",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1150665,
+        "user_name": "knf20e71",
+        "first_name": "هاجر",
+        "last_name": "آفرین سار",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-15 10:58:05",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731743761591-836070957-1KD6QflUIvMSwpOunlKb31NHsAlEUcnDp4P5Vekm.jpeg"
+        }
+    ]
+}

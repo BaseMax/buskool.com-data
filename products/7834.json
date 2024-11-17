@@ -1,1 +1,38 @@
-{"main":{"id":184652,"updated_at":"2024-11-16 10:35:34","product_name":"ماکارانی رشته و فرمی اطلس  500گرمی","stock":3000,"min_sale_price":16200,"min_sale_amount":50,"description":"ماکارانی رشته ای 500 گرمی اطلس 20 عددی \r\nقیمت تناژ ۱۶۲۰۰ تومان \r\n\r\n\r\n\r\nماکارانی فرمی 400 گرمی 20 عددی \r\nقیمت تناژ  ۱۴۹۰۰تومان \r\n\r\nما عمده فروش بیش از 200 قلم جنس هستیم.ممنون<hr\/>برای اطلاع از قیمت روز ماکارانی رشته و فرمی اطلس  500گرمی و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 3000 کارتن<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 50 کارتن<hr\/>","myuser_id":91824,"sub_category_id":325,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"ماکارونی","unit":"کارتن","is_elevated":0,"category_name":"کنسانتره و کنسرو","category_id":81,"is_old":false},"user_info":{"id":91824,"user_name":"zb2ys1","first_name":"معصومه","last_name":"ایدیانفر","active_pakage_type":3,"created_at":"2022-01-26 08:52:08","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1719230652622-778051887-3j2u6n29bT9fb3iowk8HN8050swlG5XbWHMWBMLV.jpeg"}]}
+{
+    "main": {
+        "id": 184652,
+        "updated_at": "2024-11-16 10:35:34",
+        "product_name": "ماکارانی رشته و فرمی اطلس  500گرمی",
+        "stock": 3000,
+        "min_sale_price": 16200,
+        "min_sale_amount": 50,
+        "description": "ماکارانی رشته ای 500 گرمی اطلس 20 عددی \r\nقیمت تناژ ۱۶۲۰۰ تومان \r\n\r\n\r\n\r\nماکارانی فرمی 400 گرمی 20 عددی \r\nقیمت تناژ  ۱۴۹۰۰تومان \r\n\r\nما عمده فروش بیش از 200 قلم جنس هستیم.ممنون<hr\/>برای اطلاع از قیمت روز ماکارانی رشته و فرمی اطلس  500گرمی و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 3000 کارتن<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 50 کارتن<hr\/>",
+        "myuser_id": 91824,
+        "sub_category_id": 325,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "ماکارونی",
+        "unit": "کارتن",
+        "is_elevated": 0,
+        "category_name": "کنسانتره و کنسرو",
+        "category_id": 81,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 91824,
+        "user_name": "zb2ys1",
+        "first_name": "معصومه",
+        "last_name": "ایدیانفر",
+        "active_pakage_type": 3,
+        "created_at": "2022-01-26 08:52:08",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1719230652622-778051887-3j2u6n29bT9fb3iowk8HN8050swlG5XbWHMWBMLV.jpeg"
+        }
+    ]
+}

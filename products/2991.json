@@ -1,1 +1,38 @@
-{"main":{"id":207756,"updated_at":"2024-11-16 14:47:32","product_name":"زغال سنگ","stock":20000000,"min_sale_price":4900,"min_sale_amount":100000,"description":"در انبار ذخیره شده است.\r\nجهت بارگیری باید هماهنگی و بازدید به عمل آید<hr\/>برای اطلاع از قیمت روز زغال سنگ و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : کلاسیک<hr\/>مقدار موجودی آماده فروش برای این محصول : 20000000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100000 کیلوگرم<hr\/>","myuser_id":1152307,"sub_category_id":269,"province_name":"خراسان رضوی","province_id":11,"city_name":" درگز","city_id":119,"sub_category_name":"سایر مواد معدنی","unit":"کیلوگرم","is_elevated":0,"category_name":"مواد معدنی","category_id":144,"is_old":false},"user_info":{"id":1152307,"user_name":"d10e5xtwf","first_name":"امید","last_name":"قوچانیان","active_pakage_type":0,"created_at":"2024-11-16 13:20:24","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731751864761-351235600-HD7eJgSEdAIBierAwEHWpfU3MGwpsApjfHks7aAj.jpeg"}]}
+{
+    "main": {
+        "id": 207756,
+        "updated_at": "2024-11-16 14:47:32",
+        "product_name": "زغال سنگ",
+        "stock": 20000000,
+        "min_sale_price": 4900,
+        "min_sale_amount": 100000,
+        "description": "در انبار ذخیره شده است.\r\nجهت بارگیری باید هماهنگی و بازدید به عمل آید<hr\/>برای اطلاع از قیمت روز زغال سنگ و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : کلاسیک<hr\/>مقدار موجودی آماده فروش برای این محصول : 20000000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100000 کیلوگرم<hr\/>",
+        "myuser_id": 1152307,
+        "sub_category_id": 269,
+        "province_name": "خراسان رضوی",
+        "province_id": 11,
+        "city_name": " درگز",
+        "city_id": 119,
+        "sub_category_name": "سایر مواد معدنی",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "مواد معدنی",
+        "category_id": 144,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1152307,
+        "user_name": "d10e5xtwf",
+        "first_name": "امید",
+        "last_name": "قوچانیان",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-16 13:20:24",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731751864761-351235600-HD7eJgSEdAIBierAwEHWpfU3MGwpsApjfHks7aAj.jpeg"
+        }
+    ]
+}

@@ -1,1 +1,38 @@
-{"main":{"id":127314,"updated_at":"2024-11-16 17:42:51","product_name":"بچه ماهی آمور","stock":70000,"min_sale_price":4800,"min_sale_amount":1500,"description":"بچه ماهی آمور\r\nفروش بچه ماهی آمور \r\nویژه پرورش در استخرهای کشاورزی و خاکی و استخرهای ذخیره آب\r\nدر اندازه ها و وزن های مختلف\r\nبا قیمت و کیفیت مناسب\r\nبدون واسطه \r\nارسال به سراسر کشور در اسرع وقت<hr\/>برای اطلاع از قیمت روز بچه ماهی آمور و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : اصلاح نژاد شده\r\n<hr\/>تاییدیه های کیفی، بهداشتی و سلامت کالا موجود برای این محصول : در صحت و سلامت کامل<hr\/>مقدار موجودی آماده فروش برای این محصول : 7000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 کیلوگرم<hr\/>","myuser_id":554902,"sub_category_id":88,"province_name":"آذربایجان غربی","province_id":2,"city_name":" ارومیه","city_id":20,"sub_category_name":"ماهی","unit":"کیلوگرم","is_elevated":0,"category_name":"مواد پروتئینی","category_id":79,"is_old":false},"user_info":{"id":554902,"user_name":"cfdns12uxrz8","first_name":"شرکت مهندسی کشاورزی","last_name":"پارس برزگر آذربایجان","active_pakage_type":1,"created_at":"2023-05-29 17:28:04","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1685435008423-840015912-fseT07QFxfit2Yzbfqzp5XcafAUknJcWdHbzHBHl.jpeg"}]}
+{
+    "main": {
+        "id": 127314,
+        "updated_at": "2024-11-16 17:42:51",
+        "product_name": "بچه ماهی آمور",
+        "stock": 70000,
+        "min_sale_price": 4800,
+        "min_sale_amount": 1500,
+        "description": "بچه ماهی آمور\r\nفروش بچه ماهی آمور \r\nویژه پرورش در استخرهای کشاورزی و خاکی و استخرهای ذخیره آب\r\nدر اندازه ها و وزن های مختلف\r\nبا قیمت و کیفیت مناسب\r\nبدون واسطه \r\nارسال به سراسر کشور در اسرع وقت<hr\/>برای اطلاع از قیمت روز بچه ماهی آمور و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : اصلاح نژاد شده\r\n<hr\/>تاییدیه های کیفی، بهداشتی و سلامت کالا موجود برای این محصول : در صحت و سلامت کامل<hr\/>مقدار موجودی آماده فروش برای این محصول : 7000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 کیلوگرم<hr\/>",
+        "myuser_id": 554902,
+        "sub_category_id": 88,
+        "province_name": "آذربایجان غربی",
+        "province_id": 2,
+        "city_name": " ارومیه",
+        "city_id": 20,
+        "sub_category_name": "ماهی",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "مواد پروتئینی",
+        "category_id": 79,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 554902,
+        "user_name": "cfdns12uxrz8",
+        "first_name": "شرکت مهندسی کشاورزی",
+        "last_name": "پارس برزگر آذربایجان",
+        "active_pakage_type": 1,
+        "created_at": "2023-05-29 17:28:04",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1685435008423-840015912-fseT07QFxfit2Yzbfqzp5XcafAUknJcWdHbzHBHl.jpeg"
+        }
+    ]
+}

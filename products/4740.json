@@ -1,1 +1,38 @@
-{"main":{"id":207644,"updated_at":"2024-11-16 09:41:39","product_name":"مضافتی","stock":25000,"min_sale_price":87000,"min_sale_amount":1000,"description":"خرما مضافتی کیفیت بالا قیمت زیر قیمت بازار است استعلام کنید<hr\/>برای اطلاع از قیمت روز مضافتی و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : کیفیت قیمت خرما بم<hr\/>مقدار موجودی آماده فروش برای این محصول : 25000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 کیلوگرم<hr\/>","myuser_id":1139961,"sub_category_id":6,"province_name":"كرمان","province_id":21,"city_name":" بم","city_id":223,"sub_category_name":"خرما","unit":"کیلوگرم","is_elevated":0,"category_name":"میوه","category_id":1,"is_old":false},"user_info":{"id":1139961,"user_name":"1820tu614yb","first_name":"ارمین","last_name":"ارجمندی","active_pakage_type":0,"created_at":"2024-11-07 20:05:41","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731703559972-754140629-4E1vTkp2CBlAqRAvdZKenAMKoeME6OR9l9jQSvMw.jpeg"}]}
+{
+    "main": {
+        "id": 207644,
+        "updated_at": "2024-11-16 09:41:39",
+        "product_name": "مضافتی",
+        "stock": 25000,
+        "min_sale_price": 87000,
+        "min_sale_amount": 1000,
+        "description": "خرما مضافتی کیفیت بالا قیمت زیر قیمت بازار است استعلام کنید<hr\/>برای اطلاع از قیمت روز مضافتی و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : کیفیت قیمت خرما بم<hr\/>مقدار موجودی آماده فروش برای این محصول : 25000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 کیلوگرم<hr\/>",
+        "myuser_id": 1139961,
+        "sub_category_id": 6,
+        "province_name": "كرمان",
+        "province_id": 21,
+        "city_name": " بم",
+        "city_id": 223,
+        "sub_category_name": "خرما",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "میوه",
+        "category_id": 1,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1139961,
+        "user_name": "1820tu614yb",
+        "first_name": "ارمین",
+        "last_name": "ارجمندی",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-07 20:05:41",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731703559972-754140629-4E1vTkp2CBlAqRAvdZKenAMKoeME6OR9l9jQSvMw.jpeg"
+        }
+    ]
+}

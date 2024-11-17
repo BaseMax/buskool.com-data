@@ -1,1 +1,38 @@
-{"main":{"id":171578,"updated_at":"2024-11-15 09:05:52","product_name":"آلو خرمایی","stock":51000,"min_sale_price":25000,"min_sale_amount":10,"description":"آلو خرمایی از ارقام پیوندی است و پایه آن آلوچه وحشی (بذری) است. محصول این نهال آلو صادراتی بوده و بسیار خوش طعم، خوش رنگ و جذاب است. این نهال به دلیل کیفیت بالای محصول، میزان باردهی عالی، محصولات بازار پسند و ماندگاری بسیار خوب آن در انبار بسیار مورد توجه باغداران است.<hr\/>برای اطلاع از قیمت روز آلو خرمایی و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 54000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 5 عدد<hr\/>","myuser_id":738693,"sub_category_id":112,"province_name":"آذربایجان غربی","province_id":2,"city_name":" میاندوآب","city_id":32,"sub_category_name":"نهال","unit":"عدد","is_elevated":0,"category_name":"بذر و نهال","category_id":111,"is_old":false},"user_info":{"id":738693,"user_name":"4e13_fn36bj7","first_name":"مجتبی","last_name":"علیزاده","active_pakage_type":2,"created_at":"2023-11-27 21:37:52","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1710019512880-484603494-ZrVZmUy4nIWQPfHxiqzCG2fk0EnUdfAwDq3nlgrV.jpeg"}]}
+{
+    "main": {
+        "id": 171578,
+        "updated_at": "2024-11-15 09:05:52",
+        "product_name": "آلو خرمایی",
+        "stock": 51000,
+        "min_sale_price": 25000,
+        "min_sale_amount": 10,
+        "description": "آلو خرمایی از ارقام پیوندی است و پایه آن آلوچه وحشی (بذری) است. محصول این نهال آلو صادراتی بوده و بسیار خوش طعم، خوش رنگ و جذاب است. این نهال به دلیل کیفیت بالای محصول، میزان باردهی عالی، محصولات بازار پسند و ماندگاری بسیار خوب آن در انبار بسیار مورد توجه باغداران است.<hr\/>برای اطلاع از قیمت روز آلو خرمایی و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 54000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 5 عدد<hr\/>",
+        "myuser_id": 738693,
+        "sub_category_id": 112,
+        "province_name": "آذربایجان غربی",
+        "province_id": 2,
+        "city_name": " میاندوآب",
+        "city_id": 32,
+        "sub_category_name": "نهال",
+        "unit": "عدد",
+        "is_elevated": 0,
+        "category_name": "بذر و نهال",
+        "category_id": 111,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 738693,
+        "user_name": "4e13_fn36bj7",
+        "first_name": "مجتبی",
+        "last_name": "علیزاده",
+        "active_pakage_type": 2,
+        "created_at": "2023-11-27 21:37:52",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1710019512880-484603494-ZrVZmUy4nIWQPfHxiqzCG2fk0EnUdfAwDq3nlgrV.jpeg"
+        }
+    ]
+}

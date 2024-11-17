@@ -1,1 +1,38 @@
-{"main":{"id":195679,"updated_at":"2024-11-13 13:52:13","product_name":"پیاز قرمزبناب","stock":999999,"min_sale_price":13000,"min_sale_amount":1000000,"description":"فروش پیاز درجه 1.2.3 برای صادرات و پخش کلی از بناب قیمت محصول روزانه تعغیر میکنه فروش محصول در باسکول یا میدان پیاز وفروش در زمین کشاورزی برای صادرات پیاز مورد های خاصیم هس نیاز بود برای توضیحات و همکاری در خدمتیم<hr\/>برای اطلاع از قیمت روز قرمز و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 1000000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000000 کیلوگرم<hr\/>","myuser_id":1064148,"sub_category_id":25,"province_name":"آذربایجان شرقی","province_id":1,"city_name":" بناب","city_id":5,"sub_category_name":"پیاز","unit":"کیلوگرم","is_elevated":0,"category_name":"صیفی","category_id":2,"is_old":false},"user_info":{"id":1064148,"user_name":"pmoqe6x1","first_name":"امیر","last_name":"باقری","active_pakage_type":1,"created_at":"2024-09-13 23:05:03","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1726257046010-301050718-hnQqN0y4Jgq4NKP1lVjhJQLieKRgE9RSCalb16fB.jpeg"}]}
+{
+    "main": {
+        "id": 195679,
+        "updated_at": "2024-11-13 13:52:13",
+        "product_name": "پیاز قرمزبناب",
+        "stock": 999999,
+        "min_sale_price": 13000,
+        "min_sale_amount": 1000000,
+        "description": "فروش پیاز درجه 1.2.3 برای صادرات و پخش کلی از بناب قیمت محصول روزانه تعغیر میکنه فروش محصول در باسکول یا میدان پیاز وفروش در زمین کشاورزی برای صادرات پیاز مورد های خاصیم هس نیاز بود برای توضیحات و همکاری در خدمتیم<hr\/>برای اطلاع از قیمت روز قرمز و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 1000000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000000 کیلوگرم<hr\/>",
+        "myuser_id": 1064148,
+        "sub_category_id": 25,
+        "province_name": "آذربایجان شرقی",
+        "province_id": 1,
+        "city_name": " بناب",
+        "city_id": 5,
+        "sub_category_name": "پیاز",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "صیفی",
+        "category_id": 2,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1064148,
+        "user_name": "pmoqe6x1",
+        "first_name": "امیر",
+        "last_name": "باقری",
+        "active_pakage_type": 1,
+        "created_at": "2024-09-13 23:05:03",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1726257046010-301050718-hnQqN0y4Jgq4NKP1lVjhJQLieKRgE9RSCalb16fB.jpeg"
+        }
+    ]
+}

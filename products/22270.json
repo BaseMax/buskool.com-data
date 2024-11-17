@@ -1,1 +1,38 @@
-{"main":{"id":190478,"updated_at":"2024-11-13 11:28:48","product_name":"گوشت منجمد برزیلی جی جی","stock":30000,"min_sale_price":292000,"min_sale_amount":10000,"description":"بسته بندی و کیفیت بسیار خوب ، با قیمت خیلی مناسب ، \r\nبرند جی جی موجود داریم \r\n\r\nجهت خرید با این شماره تماس بگیرید<hr\/>برای اطلاع از قیمت روز گوشت منجمد برزیلی مینروا و خرید مستقیم پیام ارسال کنید.<hr\/>تاییدیه های کیفی، بهداشتی و سلامت کالا موجود برای این محصول : دارای گواهی کیفیت و سلامت<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : فروش نقدی روی باسکول<hr\/>مقدار موجودی آماده فروش برای این محصول : 30000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 10000 کیلوگرم<hr\/>","myuser_id":295442,"sub_category_id":87,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"گوشت","unit":"کیلوگرم","is_elevated":0,"category_name":"مواد پروتئینی","category_id":79,"is_old":false},"user_info":{"id":295442,"user_name":"rx218sur","first_name":"بابک","last_name":"عبدالهی","active_pakage_type":2,"created_at":"2022-09-08 13:54:55","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1722930328125-961715877-3eydZ0fKFhxpBKl7rZI9T6PgWKXrXRtX40C6aXfO.jpeg"}]}
+{
+    "main": {
+        "id": 190478,
+        "updated_at": "2024-11-13 11:28:48",
+        "product_name": "گوشت منجمد برزیلی جی جی",
+        "stock": 30000,
+        "min_sale_price": 292000,
+        "min_sale_amount": 10000,
+        "description": "بسته بندی و کیفیت بسیار خوب ، با قیمت خیلی مناسب ، \r\nبرند جی جی موجود داریم \r\n\r\nجهت خرید با این شماره تماس بگیرید<hr\/>برای اطلاع از قیمت روز گوشت منجمد برزیلی مینروا و خرید مستقیم پیام ارسال کنید.<hr\/>تاییدیه های کیفی، بهداشتی و سلامت کالا موجود برای این محصول : دارای گواهی کیفیت و سلامت<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : فروش نقدی روی باسکول<hr\/>مقدار موجودی آماده فروش برای این محصول : 30000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 10000 کیلوگرم<hr\/>",
+        "myuser_id": 295442,
+        "sub_category_id": 87,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "گوشت",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "مواد پروتئینی",
+        "category_id": 79,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 295442,
+        "user_name": "rx218sur",
+        "first_name": "بابک",
+        "last_name": "عبدالهی",
+        "active_pakage_type": 2,
+        "created_at": "2022-09-08 13:54:55",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1722930328125-961715877-3eydZ0fKFhxpBKl7rZI9T6PgWKXrXRtX40C6aXfO.jpeg"
+        }
+    ]
+}

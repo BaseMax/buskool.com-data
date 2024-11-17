@@ -1,1 +1,38 @@
-{"main":{"id":199723,"updated_at":"2024-11-14 11:08:39","product_name":"نورسرام","stock":100000,"min_sale_price":200000,"min_sale_amount":1000,"description":"فروش عمده انواع کاشی سرامیک در نورسرام \r\nانواع طرح ها و در ابعاد مختف و کیفیت های متفاوت همه و همه در نورسرام موجود است. \r\nمجموعه ی نورسرام اماده همکاری با تمام پروژه ها و در بحش داخلی و صادراتی است.<hr\/>برای اطلاع از قیمت روز نورسرام و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 متر مربع<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 متر مربع<hr\/>","myuser_id":318077,"sub_category_id":764,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"کاشی و سرامیک","unit":"متر مربع","is_elevated":0,"category_name":"مصالح ساختمانی","category_id":737,"is_old":false},"user_info":{"id":318077,"user_name":"d614","first_name":"آتوسا","last_name":"غبرائی","active_pakage_type":2,"created_at":"2022-09-19 10:58:17","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1728546397717-829835115-HLf2sIjCKZnB7VglpJzUGTwHd6QBcFJOOcxd0eDI.jpeg"}]}
+{
+    "main": {
+        "id": 199723,
+        "updated_at": "2024-11-14 11:08:39",
+        "product_name": "نورسرام",
+        "stock": 100000,
+        "min_sale_price": 200000,
+        "min_sale_amount": 1000,
+        "description": "فروش عمده انواع کاشی سرامیک در نورسرام \r\nانواع طرح ها و در ابعاد مختف و کیفیت های متفاوت همه و همه در نورسرام موجود است. \r\nمجموعه ی نورسرام اماده همکاری با تمام پروژه ها و در بحش داخلی و صادراتی است.<hr\/>برای اطلاع از قیمت روز نورسرام و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 متر مربع<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 متر مربع<hr\/>",
+        "myuser_id": 318077,
+        "sub_category_id": 764,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "کاشی و سرامیک",
+        "unit": "متر مربع",
+        "is_elevated": 0,
+        "category_name": "مصالح ساختمانی",
+        "category_id": 737,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 318077,
+        "user_name": "d614",
+        "first_name": "آتوسا",
+        "last_name": "غبرائی",
+        "active_pakage_type": 2,
+        "created_at": "2022-09-19 10:58:17",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1728546397717-829835115-HLf2sIjCKZnB7VglpJzUGTwHd6QBcFJOOcxd0eDI.jpeg"
+        }
+    ]
+}

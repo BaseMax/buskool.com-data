@@ -1,1 +1,38 @@
-{"main":{"id":174454,"updated_at":"2024-11-13 22:17:33","product_name":"کشمش پلویی درجه لوکس ملایر","stock":500000,"min_sale_price":110000,"min_sale_amount":2000,"description":"بسته بندی در کارتن های 7 الی 10 کیلو و به سفارش مشتری \r\nدرجه محصول لوکس میباشد.\r\nاعتبار قیمت از تاریخ انتشار به مدت 3 روز میباشد.<hr\/>برای اطلاع از قیمت روز کشمش پلویی درجه لوکس ملایر و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : به سفارش مشتری<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : درجه لوکس<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : نقدی <hr\/>مزیت این محصول نسبت به محصولات مشابه : قیمت پاین و و گرید AAA+<hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 2000 کیلوگرم<hr\/>","myuser_id":169976,"sub_category_id":53,"province_name":"همدان","province_id":30,"city_name":" ملایر","city_id":425,"sub_category_name":"کشمش","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":169976,"user_name":"1tlh61","first_name":"مهدی","last_name":"باقری","active_pakage_type":3,"created_at":"2022-07-06 11:52:23","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1712739248180-933021133-WbfXSSgjKDA7RBUyqa3T62dHVFXpHgNT2YzcGh9V.jpeg"}]}
+{
+    "main": {
+        "id": 174454,
+        "updated_at": "2024-11-13 22:17:33",
+        "product_name": "کشمش پلویی درجه لوکس ملایر",
+        "stock": 500000,
+        "min_sale_price": 110000,
+        "min_sale_amount": 2000,
+        "description": "بسته بندی در کارتن های 7 الی 10 کیلو و به سفارش مشتری \r\nدرجه محصول لوکس میباشد.\r\nاعتبار قیمت از تاریخ انتشار به مدت 3 روز میباشد.<hr\/>برای اطلاع از قیمت روز کشمش پلویی درجه لوکس ملایر و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : به سفارش مشتری<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : درجه لوکس<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : نقدی <hr\/>مزیت این محصول نسبت به محصولات مشابه : قیمت پاین و و گرید AAA+<hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 2000 کیلوگرم<hr\/>",
+        "myuser_id": 169976,
+        "sub_category_id": 53,
+        "province_name": "همدان",
+        "province_id": 30,
+        "city_name": " ملایر",
+        "city_id": 425,
+        "sub_category_name": "کشمش",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 169976,
+        "user_name": "1tlh61",
+        "first_name": "مهدی",
+        "last_name": "باقری",
+        "active_pakage_type": 3,
+        "created_at": "2022-07-06 11:52:23",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1712739248180-933021133-WbfXSSgjKDA7RBUyqa3T62dHVFXpHgNT2YzcGh9V.jpeg"
+        }
+    ]
+}

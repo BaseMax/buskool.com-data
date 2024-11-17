@@ -1,1 +1,38 @@
-{"main":{"id":207256,"updated_at":"2024-11-14 09:34:14","product_name":"انواع مبلمان کلاسیک، استیل، راحتی","stock":1000,"min_sale_price":20000000,"min_sale_amount":1000,"description":"برای سفارش انواع مبلمان کلاسیک، استیل، سلطنتی و راحتی با کیفیت عالی تماس بگیرید.<hr\/>برای اطلاع از قیمت روز انواع مبلمان کلاسیک، استیل، راحتی و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 1000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 عدد<hr\/>","myuser_id":1147136,"sub_category_id":845,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"مبل","unit":"عدد","is_elevated":0,"category_name":"مبلمان و دکوراسیون","category_id":842,"is_old":false},"user_info":{"id":1147136,"user_name":"5v15ucp","first_name":"عباس","last_name":"فراهانی","active_pakage_type":0,"created_at":"2024-11-12 18:13:19","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731518899529-316175876-mRsOXbgp44iICAQ6afrdfuMRYjC931kXiO8aHSdQ.jpeg"}]}
+{
+    "main": {
+        "id": 207256,
+        "updated_at": "2024-11-14 09:34:14",
+        "product_name": "انواع مبلمان کلاسیک، استیل، راحتی",
+        "stock": 1000,
+        "min_sale_price": 20000000,
+        "min_sale_amount": 1000,
+        "description": "برای سفارش انواع مبلمان کلاسیک، استیل، سلطنتی و راحتی با کیفیت عالی تماس بگیرید.<hr\/>برای اطلاع از قیمت روز انواع مبلمان کلاسیک، استیل، راحتی و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 1000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 عدد<hr\/>",
+        "myuser_id": 1147136,
+        "sub_category_id": 845,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "مبل",
+        "unit": "عدد",
+        "is_elevated": 0,
+        "category_name": "مبلمان و دکوراسیون",
+        "category_id": 842,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1147136,
+        "user_name": "5v15ucp",
+        "first_name": "عباس",
+        "last_name": "فراهانی",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-12 18:13:19",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731518899529-316175876-mRsOXbgp44iICAQ6afrdfuMRYjC931kXiO8aHSdQ.jpeg"
+        }
+    ]
+}

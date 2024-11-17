@@ -1,1 +1,38 @@
-{"main":{"id":185346,"updated_at":"2024-11-14 09:14:45","product_name":"سفید هندی","stock":5000,"min_sale_price":135000,"min_sale_amount":250,"description":"شرکت کیان تجارت دکاموند، شرکت بازرگانی جام سحر \r\nفروشنده کنجد، نارگیل ، کاکائو \r\nبهترین و مطمئن ترین محل خرید محصول از جهت کیفیت و تضمین بار\r\nتمام بارها مجوزهای رسمی دارند\r\nتنوع محصول برای لوازم قنادی ها، تولیدکنندگان و کارگاه های تولیدی\r\nبازرگانی جام سحر<hr\/>برای اطلاع از قیمت روز سفید هندی و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 2000 کیلوگرم<hr\/>","myuser_id":398044,"sub_category_id":70,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"کنجد","unit":"کیلوگرم","is_elevated":0,"category_name":"غلات","category_id":42,"is_old":false},"user_info":{"id":398044,"user_name":"n46185y","first_name":"شرکت","last_name":"كيان تجارت دكاموند","active_pakage_type":2,"created_at":"2022-12-11 11:29:45","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1719751596350-820516072-YytdB93adqTHMjCiFDMDEeXHDcNauEX5jru17GYp.jpeg"}]}
+{
+    "main": {
+        "id": 185346,
+        "updated_at": "2024-11-14 09:14:45",
+        "product_name": "سفید هندی",
+        "stock": 5000,
+        "min_sale_price": 135000,
+        "min_sale_amount": 250,
+        "description": "شرکت کیان تجارت دکاموند، شرکت بازرگانی جام سحر \r\nفروشنده کنجد، نارگیل ، کاکائو \r\nبهترین و مطمئن ترین محل خرید محصول از جهت کیفیت و تضمین بار\r\nتمام بارها مجوزهای رسمی دارند\r\nتنوع محصول برای لوازم قنادی ها، تولیدکنندگان و کارگاه های تولیدی\r\nبازرگانی جام سحر<hr\/>برای اطلاع از قیمت روز سفید هندی و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 2000 کیلوگرم<hr\/>",
+        "myuser_id": 398044,
+        "sub_category_id": 70,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "کنجد",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "غلات",
+        "category_id": 42,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 398044,
+        "user_name": "n46185y",
+        "first_name": "شرکت",
+        "last_name": "كيان تجارت دكاموند",
+        "active_pakage_type": 2,
+        "created_at": "2022-12-11 11:29:45",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1719751596350-820516072-YytdB93adqTHMjCiFDMDEeXHDcNauEX5jru17GYp.jpeg"
+        }
+    ]
+}

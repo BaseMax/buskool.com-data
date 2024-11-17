@@ -1,1 +1,38 @@
-{"main":{"id":205622,"updated_at":"2024-11-17 02:13:47","product_name":"چوب صنوبر","stock":1000,"min_sale_price":9000000,"min_sale_amount":15,"description":"<hr\/>برای اطلاع از قیمت روز چوب صنوبر و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 1000 متر مکعب<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 15 متر مکعب<hr\/>","myuser_id":1080016,"sub_category_id":758,"province_name":"گیلان","province_id":25,"city_name":" صومعه سرا","city_id":277,"sub_category_name":"چوب","unit":"متر مکعب","is_elevated":1,"category_name":"مصالح ساختمانی","category_id":737,"is_old":false},"user_info":{"id":1080016,"user_name":"016t","first_name":"محمد","last_name":"عین الهی","active_pakage_type":2,"created_at":"2024-09-27 14:24:28","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1730896967393-40681009-mIADdlgOrgTZOPtnkFV33NGA9c9BbD1mcENWz9L6.jpeg"}]}
+{
+    "main": {
+        "id": 205622,
+        "updated_at": "2024-11-17 02:13:47",
+        "product_name": "چوب صنوبر",
+        "stock": 1000,
+        "min_sale_price": 9000000,
+        "min_sale_amount": 15,
+        "description": "<hr\/>برای اطلاع از قیمت روز چوب صنوبر و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 1000 متر مکعب<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 15 متر مکعب<hr\/>",
+        "myuser_id": 1080016,
+        "sub_category_id": 758,
+        "province_name": "گیلان",
+        "province_id": 25,
+        "city_name": " صومعه سرا",
+        "city_id": 277,
+        "sub_category_name": "چوب",
+        "unit": "متر مکعب",
+        "is_elevated": 1,
+        "category_name": "مصالح ساختمانی",
+        "category_id": 737,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1080016,
+        "user_name": "016t",
+        "first_name": "محمد",
+        "last_name": "عین الهی",
+        "active_pakage_type": 2,
+        "created_at": "2024-09-27 14:24:28",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1730896967393-40681009-mIADdlgOrgTZOPtnkFV33NGA9c9BbD1mcENWz9L6.jpeg"
+        }
+    ]
+}

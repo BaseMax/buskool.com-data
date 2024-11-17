@@ -1,1 +1,38 @@
-{"main":{"id":193923,"updated_at":"2024-11-17 08:36:54","product_name":"قیر شصت هفتاد","stock":20000000,"min_sale_price":14500,"min_sale_amount":2000000,"description":"بسته به خواست مشتری و توافق صورت گرفته<hr\/>برای اطلاع از قیمت روز قیر شصت هفتاد و خرید مستقیم پیام ارسال کنید.<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : روش پرداخت هم LC یا DLC یا SBLC یا BG یا صرافی \r\nیکی را انتخاب کنند<hr\/>مزیت این محصول نسبت به محصولات مشابه : سعی می کنیم بسته به منطقه مورد نیاز مشتری از نزدیکترین محل تامین کنیم<hr\/>مقدار موجودی آماده فروش برای این محصول : 20000000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 2000000 کیلوگرم<hr\/>","myuser_id":1045851,"sub_category_id":293,"province_name":"خوزستان","province_id":13,"city_name":" اهواز","city_id":142,"sub_category_name":"قیر","unit":"کیلوگرم","is_elevated":1,"category_name":"سوخت و انرژی","category_id":149,"is_old":false},"user_info":{"id":1045851,"user_name":"3dhol","first_name":"علیرضا","last_name":"شفیعی","active_pakage_type":2,"created_at":"2024-08-29 10:55:40","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1725129019004-575384523-VQrgPRI6hPI3V6HyuH1UbI6HAnCaf7s0uLsxlmka.jpeg"}]}
+{
+    "main": {
+        "id": 193923,
+        "updated_at": "2024-11-17 08:36:54",
+        "product_name": "قیر شصت هفتاد",
+        "stock": 20000000,
+        "min_sale_price": 14500,
+        "min_sale_amount": 2000000,
+        "description": "بسته به خواست مشتری و توافق صورت گرفته<hr\/>برای اطلاع از قیمت روز قیر شصت هفتاد و خرید مستقیم پیام ارسال کنید.<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : روش پرداخت هم LC یا DLC یا SBLC یا BG یا صرافی \r\nیکی را انتخاب کنند<hr\/>مزیت این محصول نسبت به محصولات مشابه : سعی می کنیم بسته به منطقه مورد نیاز مشتری از نزدیکترین محل تامین کنیم<hr\/>مقدار موجودی آماده فروش برای این محصول : 20000000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 2000000 کیلوگرم<hr\/>",
+        "myuser_id": 1045851,
+        "sub_category_id": 293,
+        "province_name": "خوزستان",
+        "province_id": 13,
+        "city_name": " اهواز",
+        "city_id": 142,
+        "sub_category_name": "قیر",
+        "unit": "کیلوگرم",
+        "is_elevated": 1,
+        "category_name": "سوخت و انرژی",
+        "category_id": 149,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1045851,
+        "user_name": "3dhol",
+        "first_name": "علیرضا",
+        "last_name": "شفیعی",
+        "active_pakage_type": 2,
+        "created_at": "2024-08-29 10:55:40",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1725129019004-575384523-VQrgPRI6hPI3V6HyuH1UbI6HAnCaf7s0uLsxlmka.jpeg"
+        }
+    ]
+}

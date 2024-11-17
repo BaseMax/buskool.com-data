@@ -1,1 +1,38 @@
-{"main":{"id":204201,"updated_at":"2024-11-16 18:36:09","product_name":"برنج شمیم خوش عطر و پخت","stock":1000,"min_sale_price":64000,"min_sale_amount":100,"description":"خوش عطر و طعم با قیمت استثنایی<hr\/>برای اطلاع از قیمت روز برنج شمیم خوش عطر و پخت  و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : برنج ایرانی با عطر و پخت <hr\/>میزان تازه بودن و زمان تولید این محصول : محصول امسال <hr\/>مقدار موجودی آماده فروش برای این محصول : 1000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 کیلوگرم<hr\/>","myuser_id":278330,"sub_category_id":43,"province_name":"فارس","province_id":17,"city_name":" شیراز","city_id":194,"sub_category_name":"برنج","unit":"کیلوگرم","is_elevated":0,"category_name":"غلات","category_id":42,"is_old":false},"user_info":{"id":278330,"user_name":"17eu","first_name":"رقیه","last_name":"گودرزی","active_pakage_type":1,"created_at":"2022-08-31 21:52:58","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1730329192064-523171245-taGW76RrIt5BIbG2XZTBlB24XAsJv7oyCDNz9P9V.jpeg"}]}
+{
+    "main": {
+        "id": 204201,
+        "updated_at": "2024-11-16 18:36:09",
+        "product_name": "برنج شمیم خوش عطر و پخت",
+        "stock": 1000,
+        "min_sale_price": 64000,
+        "min_sale_amount": 100,
+        "description": "خوش عطر و طعم با قیمت استثنایی<hr\/>برای اطلاع از قیمت روز برنج شمیم خوش عطر و پخت  و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : برنج ایرانی با عطر و پخت <hr\/>میزان تازه بودن و زمان تولید این محصول : محصول امسال <hr\/>مقدار موجودی آماده فروش برای این محصول : 1000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 کیلوگرم<hr\/>",
+        "myuser_id": 278330,
+        "sub_category_id": 43,
+        "province_name": "فارس",
+        "province_id": 17,
+        "city_name": " شیراز",
+        "city_id": 194,
+        "sub_category_name": "برنج",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "غلات",
+        "category_id": 42,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 278330,
+        "user_name": "17eu",
+        "first_name": "رقیه",
+        "last_name": "گودرزی",
+        "active_pakage_type": 1,
+        "created_at": "2022-08-31 21:52:58",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1730329192064-523171245-taGW76RrIt5BIbG2XZTBlB24XAsJv7oyCDNz9P9V.jpeg"
+        }
+    ]
+}

@@ -1,1 +1,38 @@
-{"main":{"id":207896,"updated_at":"2024-11-17 09:03:05","product_name":"تامسون","stock":100000,"min_sale_price":15000,"min_sale_amount":5000,"description":"پرتقال تامسون صادراتی به میزان تقریبی یکصد تن موجود است. تازه چین به دو صورت برگ چین و بدون برگ.به صورت فله و بدون بسته بندی کیلویی 15 هزاررتومان. لیکن در سبد های 15 کیلویی قیمت 17 و به صورت واکس و موم خورده به کیلویی 20 هزار تومان افزایش می یابد<hr\/>برای اطلاع از قیمت روز تامسون و خرید مستقیم پیام ارسال کنید.<hr\/>مزیت این محصول نسبت به محصولات مشابه : یکدست بودن محصول و با سایز مناسب<hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 5000 کیلوگرم<hr\/>","myuser_id":1153377,"sub_category_id":11,"province_name":"گلستان","province_id":24,"city_name":" بندر گز","city_id":258,"sub_category_name":"پرتقال","unit":"کیلوگرم","is_elevated":0,"category_name":"میوه","category_id":1,"is_old":false},"user_info":{"id":1153377,"user_name":"j118xgbu6d","first_name":"غلامعلی","last_name":"لشکربلوکی","active_pakage_type":0,"created_at":"2024-11-17 03:46:56","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731804649201-34923417-wCY7VAZKqRmbC8iba0gorkxGfm1UywA43O78qNfB.jpeg"}]}
+{
+    "main": {
+        "id": 207896,
+        "updated_at": "2024-11-17 09:03:05",
+        "product_name": "تامسون",
+        "stock": 100000,
+        "min_sale_price": 15000,
+        "min_sale_amount": 5000,
+        "description": "پرتقال تامسون صادراتی به میزان تقریبی یکصد تن موجود است. تازه چین به دو صورت برگ چین و بدون برگ.به صورت فله و بدون بسته بندی کیلویی 15 هزاررتومان. لیکن در سبد های 15 کیلویی قیمت 17 و به صورت واکس و موم خورده به کیلویی 20 هزار تومان افزایش می یابد<hr\/>برای اطلاع از قیمت روز تامسون و خرید مستقیم پیام ارسال کنید.<hr\/>مزیت این محصول نسبت به محصولات مشابه : یکدست بودن محصول و با سایز مناسب<hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 5000 کیلوگرم<hr\/>",
+        "myuser_id": 1153377,
+        "sub_category_id": 11,
+        "province_name": "گلستان",
+        "province_id": 24,
+        "city_name": " بندر گز",
+        "city_id": 258,
+        "sub_category_name": "پرتقال",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "میوه",
+        "category_id": 1,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1153377,
+        "user_name": "j118xgbu6d",
+        "first_name": "غلامعلی",
+        "last_name": "لشکربلوکی",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-17 03:46:56",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731804649201-34923417-wCY7VAZKqRmbC8iba0gorkxGfm1UywA43O78qNfB.jpeg"
+        }
+    ]
+}

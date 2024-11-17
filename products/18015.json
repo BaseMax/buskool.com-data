@@ -1,1 +1,38 @@
-{"main":{"id":207273,"updated_at":"2024-11-14 09:32:07","product_name":"مربا هویج","stock":200,"min_sale_price":336000,"min_sale_amount":10,"description":"مربای 280 گرم آسانا کیفیت عالی \r\nبسته 12 عددی \r\nحداکثر تخفیف 5 درصد \r\nتاریخ تا 1404\/12\/29<hr\/>برای اطلاع از قیمت روز مربا هویج و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 200 کارتن<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 10 کارتن<hr\/>","myuser_id":1148940,"sub_category_id":116,"province_name":"ایلام","province_id":6,"city_name":" ایلام","city_id":70,"sub_category_name":"مربا","unit":"کارتن","is_elevated":0,"category_name":"کنسانتره و کنسرو","category_id":81,"is_old":false},"user_info":{"id":1148940,"user_name":"hlm2q515","first_name":"عرفان","last_name":"میرزائی","active_pakage_type":0,"created_at":"2024-11-13 22:15:11","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731524023316-554383043-xjO5rVpCc7fqt082Q92fvS6wNunQ3aEKUwcSstUa.jpeg"}]}
+{
+    "main": {
+        "id": 207273,
+        "updated_at": "2024-11-14 09:32:07",
+        "product_name": "مربا هویج",
+        "stock": 200,
+        "min_sale_price": 336000,
+        "min_sale_amount": 10,
+        "description": "مربای 280 گرم آسانا کیفیت عالی \r\nبسته 12 عددی \r\nحداکثر تخفیف 5 درصد \r\nتاریخ تا 1404\/12\/29<hr\/>برای اطلاع از قیمت روز مربا هویج و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 200 کارتن<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 10 کارتن<hr\/>",
+        "myuser_id": 1148940,
+        "sub_category_id": 116,
+        "province_name": "ایلام",
+        "province_id": 6,
+        "city_name": " ایلام",
+        "city_id": 70,
+        "sub_category_name": "مربا",
+        "unit": "کارتن",
+        "is_elevated": 0,
+        "category_name": "کنسانتره و کنسرو",
+        "category_id": 81,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1148940,
+        "user_name": "hlm2q515",
+        "first_name": "عرفان",
+        "last_name": "میرزائی",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-13 22:15:11",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731524023316-554383043-xjO5rVpCc7fqt082Q92fvS6wNunQ3aEKUwcSstUa.jpeg"
+        }
+    ]
+}

@@ -1,1 +1,38 @@
-{"main":{"id":118863,"updated_at":"2024-11-13 10:36:06","product_name":"آلو بخارا . آلو حاج حسنی . برگه زردآلو","stock":50000,"min_sale_price":130000,"min_sale_amount":100,"description":"فروش انواع آلو​ بخارا شامل \r\nآلو طرقبه\r\nآلو حاج حسنی\r\nآلو شوقان\r\nآلو کبرایی\r\nآلو رسمی\r\nو فروش برگه زردآلو و قیسی \r\nقابلیت تامین تناژ بالا با کیفیت های لوکس و مناسب بازار صادراتی با بسته بندی کارتنی و شیرینگ شده \r\nارسال به تمام استان ها<hr\/>برای اطلاع از قیمت روز آلو بخارا . آلو حاج حسنی . برگه زردآلو  و خرید مستقیم پیام ارسال کنید.<hr\/>میزان تازه بودن و زمان تولید این محصول : محصولات تازه و امسالی <hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : فروش نقدی <hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 کیلوگرم<hr\/>","myuser_id":48548,"sub_category_id":57,"province_name":"قزوین","province_id":18,"city_name":" قزوین","city_id":210,"sub_category_name":"میوه خشک","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":48548,"user_name":"j4erv_","first_name":"شرکت","last_name":"راش آيين اطلس غرب","active_pakage_type":2,"created_at":"2021-06-24 10:53:09","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1680959432519-420664849-IkHOYaan6uSsoZ39Mvm3rhhxQyZEj7TQnMU4BvsT.jpeg"}]}
+{
+    "main": {
+        "id": 118863,
+        "updated_at": "2024-11-13 10:36:06",
+        "product_name": "آلو بخارا . آلو حاج حسنی . برگه زردآلو",
+        "stock": 50000,
+        "min_sale_price": 130000,
+        "min_sale_amount": 100,
+        "description": "فروش انواع آلو​ بخارا شامل \r\nآلو طرقبه\r\nآلو حاج حسنی\r\nآلو شوقان\r\nآلو کبرایی\r\nآلو رسمی\r\nو فروش برگه زردآلو و قیسی \r\nقابلیت تامین تناژ بالا با کیفیت های لوکس و مناسب بازار صادراتی با بسته بندی کارتنی و شیرینگ شده \r\nارسال به تمام استان ها<hr\/>برای اطلاع از قیمت روز آلو بخارا . آلو حاج حسنی . برگه زردآلو  و خرید مستقیم پیام ارسال کنید.<hr\/>میزان تازه بودن و زمان تولید این محصول : محصولات تازه و امسالی <hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : فروش نقدی <hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 کیلوگرم<hr\/>",
+        "myuser_id": 48548,
+        "sub_category_id": 57,
+        "province_name": "قزوین",
+        "province_id": 18,
+        "city_name": " قزوین",
+        "city_id": 210,
+        "sub_category_name": "میوه خشک",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 48548,
+        "user_name": "j4erv_",
+        "first_name": "شرکت",
+        "last_name": "راش آيين اطلس غرب",
+        "active_pakage_type": 2,
+        "created_at": "2021-06-24 10:53:09",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1680959432519-420664849-IkHOYaan6uSsoZ39Mvm3rhhxQyZEj7TQnMU4BvsT.jpeg"
+        }
+    ]
+}

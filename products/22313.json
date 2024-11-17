@@ -1,1 +1,38 @@
-{"main":{"id":207113,"updated_at":"2024-11-13 10:26:44","product_name":"پاکستانی وهندی","stock":5000,"min_sale_price":78000,"min_sale_amount":1000,"description":"انواع برنج پاکستانی و هندی\r\nبا نازلترین قیمت\r\nواردات مستقیم ازکشورمبدا\r\nنوع ومقدارروپیام بدیدتابیشترراهنمایی تون کنیم<hr\/>برای اطلاع از قیمت روز پاکستانی وهندی و خرید مستقیم پیام ارسال کنید.<hr\/>مزیت این محصول نسبت به محصولات مشابه : قیمت عالی کیفیت مناسب<hr\/>مقدار موجودی آماده فروش برای این محصول : 5000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 کیلوگرم<hr\/>","myuser_id":1145601,"sub_category_id":43,"province_name":"سیستان و بلوچستان","province_id":16,"city_name":" زاهدان","city_id":176,"sub_category_name":"برنج","unit":"کیلوگرم","is_elevated":0,"category_name":"غلات","category_id":42,"is_old":false},"user_info":{"id":1145601,"user_name":"2019kqzix","first_name":"سارا","last_name":"نارویی","active_pakage_type":0,"created_at":"2024-11-11 17:26:27","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731480728280-371767394-jLcladCmnlPCOGuCedoEVDoM9aTSWThfFwUzBTbz.jpeg"}]}
+{
+    "main": {
+        "id": 207113,
+        "updated_at": "2024-11-13 10:26:44",
+        "product_name": "پاکستانی وهندی",
+        "stock": 5000,
+        "min_sale_price": 78000,
+        "min_sale_amount": 1000,
+        "description": "انواع برنج پاکستانی و هندی\r\nبا نازلترین قیمت\r\nواردات مستقیم ازکشورمبدا\r\nنوع ومقدارروپیام بدیدتابیشترراهنمایی تون کنیم<hr\/>برای اطلاع از قیمت روز پاکستانی وهندی و خرید مستقیم پیام ارسال کنید.<hr\/>مزیت این محصول نسبت به محصولات مشابه : قیمت عالی کیفیت مناسب<hr\/>مقدار موجودی آماده فروش برای این محصول : 5000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 کیلوگرم<hr\/>",
+        "myuser_id": 1145601,
+        "sub_category_id": 43,
+        "province_name": "سیستان و بلوچستان",
+        "province_id": 16,
+        "city_name": " زاهدان",
+        "city_id": 176,
+        "sub_category_name": "برنج",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "غلات",
+        "category_id": 42,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1145601,
+        "user_name": "2019kqzix",
+        "first_name": "سارا",
+        "last_name": "نارویی",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-11 17:26:27",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731480728280-371767394-jLcladCmnlPCOGuCedoEVDoM9aTSWThfFwUzBTbz.jpeg"
+        }
+    ]
+}

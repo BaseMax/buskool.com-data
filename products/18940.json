@@ -1,1 +1,38 @@
-{"main":{"id":207171,"updated_at":"2024-11-13 13:59:40","product_name":"مویز درجه یک","stock":200,"min_sale_price":120000,"min_sale_amount":50,"description":"باکیفیت بالا بسته ده کیلویی<hr\/>برای اطلاع از قیمت روز مویز دجه یک و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : بسته بنده کیسه 10 کیلویی<hr\/>مقدار موجودی آماده فروش برای این محصول : 200 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 50 کیلوگرم<hr\/>","myuser_id":1146690,"sub_category_id":53,"province_name":"فارس","province_id":17,"city_name":" داراب","city_id":191,"sub_category_name":"کشمش","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":1146690,"user_name":"17wb","first_name":"فاطمه","last_name":"عابدی","active_pakage_type":0,"created_at":"2024-11-12 12:46:55","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731492863193-720060887-vq5UkyhJeMi6cvwAFD6jda0dwFfqJKGpTR0UYvfg.jpeg"}]}
+{
+    "main": {
+        "id": 207171,
+        "updated_at": "2024-11-13 13:59:40",
+        "product_name": "مویز درجه یک",
+        "stock": 200,
+        "min_sale_price": 120000,
+        "min_sale_amount": 50,
+        "description": "باکیفیت بالا بسته ده کیلویی<hr\/>برای اطلاع از قیمت روز مویز دجه یک و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : بسته بنده کیسه 10 کیلویی<hr\/>مقدار موجودی آماده فروش برای این محصول : 200 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 50 کیلوگرم<hr\/>",
+        "myuser_id": 1146690,
+        "sub_category_id": 53,
+        "province_name": "فارس",
+        "province_id": 17,
+        "city_name": " داراب",
+        "city_id": 191,
+        "sub_category_name": "کشمش",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1146690,
+        "user_name": "17wb",
+        "first_name": "فاطمه",
+        "last_name": "عابدی",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-12 12:46:55",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731492863193-720060887-vq5UkyhJeMi6cvwAFD6jda0dwFfqJKGpTR0UYvfg.jpeg"
+        }
+    ]
+}

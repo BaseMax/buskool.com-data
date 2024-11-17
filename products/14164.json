@@ -1,1 +1,38 @@
-{"main":{"id":207480,"updated_at":"2024-11-15 08:29:45","product_name":"مرغ زنده مرغ تخمگذار و دان مرغ و خوراک","stock":50000,"min_sale_price":1000,"min_sale_amount":50000,"description":"خرید و فروش \r\nانواع مرغ تخمگذار اقتصادی\r\nمرغ سفید موجود\r\nمرغ صنعتی تخمگذار<hr\/>برای اطلاع از قیمت روز پخش مرغ زنده مرغ تخمگذار و دان مرغ و خوراک و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : مرغ زنده موجود<hr\/>رنگ ظاهری این محصول : انواع مرغ و خروس<hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 50000 کیلوگرم<hr\/>","myuser_id":1150434,"sub_category_id":90,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"تخم مرغ","unit":"کیلوگرم","is_elevated":0,"category_name":"مواد پروتئینی","category_id":79,"is_old":false},"user_info":{"id":1150434,"user_name":"2c1018r","first_name":"حاجی","last_name":"حاج داود","active_pakage_type":0,"created_at":"2024-11-15 01:34:41","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731622625202-70078995-FjZNLyqdhc5QvrDhixwpMCmVh5qZ3JVQrMYXi4Z2.jpeg"}]}
+{
+    "main": {
+        "id": 207480,
+        "updated_at": "2024-11-15 08:29:45",
+        "product_name": "مرغ زنده مرغ تخمگذار و دان مرغ و خوراک",
+        "stock": 50000,
+        "min_sale_price": 1000,
+        "min_sale_amount": 50000,
+        "description": "خرید و فروش \r\nانواع مرغ تخمگذار اقتصادی\r\nمرغ سفید موجود\r\nمرغ صنعتی تخمگذار<hr\/>برای اطلاع از قیمت روز پخش مرغ زنده مرغ تخمگذار و دان مرغ و خوراک و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : مرغ زنده موجود<hr\/>رنگ ظاهری این محصول : انواع مرغ و خروس<hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 50000 کیلوگرم<hr\/>",
+        "myuser_id": 1150434,
+        "sub_category_id": 90,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "تخم مرغ",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "مواد پروتئینی",
+        "category_id": 79,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1150434,
+        "user_name": "2c1018r",
+        "first_name": "حاجی",
+        "last_name": "حاج داود",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-15 01:34:41",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731622625202-70078995-FjZNLyqdhc5QvrDhixwpMCmVh5qZ3JVQrMYXi4Z2.jpeg"
+        }
+    ]
+}

@@ -1,1 +1,38 @@
-{"main":{"id":206983,"updated_at":"2024-11-15 15:35:10","product_name":"سینی دفرمه گرد","stock":200,"min_sale_price":35000,"min_sale_amount":200,"description":"تولید شه با سنگ مصنوعی با کیفیت \r\nرویه کار با مواد نانو پوشیده شده و قابل شستشو \r\nسفارش از حداقل 100 تا بالای هزار \r\nبیس سفارش سفید \r\nدرصورت درخواست رنگ خاص قیمت متفاوت خواهد بود<hr\/>برای اطلاع از قیمت روز سینی دفرمه گرد و خرید مستقیم پیام ارسال کنید.<hr\/>اندازه یا ابعاد محصول : 15*15<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : نقد پیش از تولید کامل پرداخت شود مگر سفارشات بالای دو هزارعدد که در دوپرداخت خواهد بود <hr\/>مقدار موجودی آماده فروش برای این محصول : 100 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 عدد<hr\/>","myuser_id":1063020,"sub_category_id":893,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"ظروف سرو و پذیرایی","unit":"عدد","is_elevated":0,"category_name":"تجهیزات خانه و آشپزخانه","category_id":887,"is_old":false},"user_info":{"id":1063020,"user_name":"ez4x","first_name":"ازاده","last_name":"ریاضی","active_pakage_type":1,"created_at":"2024-09-13 03:39:30","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731414492025-785166774-CTAs748mvQ7Y6i54ibkcYbwHQd0ov4o81tqjcUTq.jpeg"}]}
+{
+    "main": {
+        "id": 206983,
+        "updated_at": "2024-11-15 15:35:10",
+        "product_name": "سینی دفرمه گرد",
+        "stock": 200,
+        "min_sale_price": 35000,
+        "min_sale_amount": 200,
+        "description": "تولید شه با سنگ مصنوعی با کیفیت \r\nرویه کار با مواد نانو پوشیده شده و قابل شستشو \r\nسفارش از حداقل 100 تا بالای هزار \r\nبیس سفارش سفید \r\nدرصورت درخواست رنگ خاص قیمت متفاوت خواهد بود<hr\/>برای اطلاع از قیمت روز سینی دفرمه گرد و خرید مستقیم پیام ارسال کنید.<hr\/>اندازه یا ابعاد محصول : 15*15<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : نقد پیش از تولید کامل پرداخت شود مگر سفارشات بالای دو هزارعدد که در دوپرداخت خواهد بود <hr\/>مقدار موجودی آماده فروش برای این محصول : 100 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 عدد<hr\/>",
+        "myuser_id": 1063020,
+        "sub_category_id": 893,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "ظروف سرو و پذیرایی",
+        "unit": "عدد",
+        "is_elevated": 0,
+        "category_name": "تجهیزات خانه و آشپزخانه",
+        "category_id": 887,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1063020,
+        "user_name": "ez4x",
+        "first_name": "ازاده",
+        "last_name": "ریاضی",
+        "active_pakage_type": 1,
+        "created_at": "2024-09-13 03:39:30",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731414492025-785166774-CTAs748mvQ7Y6i54ibkcYbwHQd0ov4o81tqjcUTq.jpeg"
+        }
+    ]
+}

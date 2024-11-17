@@ -1,1 +1,38 @@
-{"main":{"id":207559,"updated_at":"2024-11-15 17:16:58","product_name":"سفره یک بار مصرف کیسه زباله کیسه فریزر","stock":1000,"min_sale_price":15000,"min_sale_amount":1000,"description":"سفره یک بار مصرف 400گرمی بدون کربن با جنس خوب وبسته بندی کوروش<hr\/>برای اطلاع از قیمت روز سفره یک بار مصرف کیسه زباله کیسه فریزر  و خرید مستقیم پیام ارسال کنید.<hr\/>رنگ ظاهری این محصول : به صورت رنگ های مختلف میباشد رنگ آن نمی‌رود <hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : به صورت عمده میباشد 400گرم خالص است <hr\/>مقدار موجودی آماده فروش برای این محصول : 1000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 عدد<hr\/>","myuser_id":1151045,"sub_category_id":455,"province_name":"سمنان","province_id":15,"city_name":" گرمسار","city_id":169,"sub_category_name":"سایر تجهیزات صنایع غذایی","unit":"عدد","is_elevated":0,"category_name":"تجهیزات صنایع غذایی","category_id":422,"is_old":false},"user_info":{"id":1151045,"user_name":"aqz_v2","first_name":"ناهید","last_name":"عربی خو","active_pakage_type":0,"created_at":"2024-11-15 16:38:10","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731676837997-333204067-TWUSZye528vk8mAqQZ7EuaTzG5RMLg5GeVMmF7dj.jpeg"}]}
+{
+    "main": {
+        "id": 207559,
+        "updated_at": "2024-11-15 17:16:58",
+        "product_name": "سفره یک بار مصرف کیسه زباله کیسه فریزر",
+        "stock": 1000,
+        "min_sale_price": 15000,
+        "min_sale_amount": 1000,
+        "description": "سفره یک بار مصرف 400گرمی بدون کربن با جنس خوب وبسته بندی کوروش<hr\/>برای اطلاع از قیمت روز سفره یک بار مصرف کیسه زباله کیسه فریزر  و خرید مستقیم پیام ارسال کنید.<hr\/>رنگ ظاهری این محصول : به صورت رنگ های مختلف میباشد رنگ آن نمی‌رود <hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : به صورت عمده میباشد 400گرم خالص است <hr\/>مقدار موجودی آماده فروش برای این محصول : 1000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 عدد<hr\/>",
+        "myuser_id": 1151045,
+        "sub_category_id": 455,
+        "province_name": "سمنان",
+        "province_id": 15,
+        "city_name": " گرمسار",
+        "city_id": 169,
+        "sub_category_name": "سایر تجهیزات صنایع غذایی",
+        "unit": "عدد",
+        "is_elevated": 0,
+        "category_name": "تجهیزات صنایع غذایی",
+        "category_id": 422,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1151045,
+        "user_name": "aqz_v2",
+        "first_name": "ناهید",
+        "last_name": "عربی خو",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-15 16:38:10",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731676837997-333204067-TWUSZye528vk8mAqQZ7EuaTzG5RMLg5GeVMmF7dj.jpeg"
+        }
+    ]
+}

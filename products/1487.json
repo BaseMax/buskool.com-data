@@ -1,1 +1,38 @@
-{"main":{"id":191988,"updated_at":"2024-11-16 14:53:53","product_name":"پنیر پیتزا موزارلا 500 گرمی شگالیو","stock":5000,"min_sale_price":90000,"min_sale_amount":100,"description":"بهترین کیفیت و قیمت ، موزارلا خالص ، با خامه حیوانی ، بسته بندی درجه یک پلی اتیلن و زیبا ، ثبات کیفیت ، دریافت شیر روزانه<hr\/>برای اطلاع از قیمت روز پنیر پیتزا موزارلا 500 گرمی شگالیو و خرید مستقیم پیام ارسال کنید.<hr\/>میزان ماندگاری و شرایط نگهداری این محصول : فریزر حداقل 5ماه<hr\/>مزیت این محصول نسبت به محصولات مشابه : بهترین کیفیت و قیمت<hr\/>مقدار موجودی آماده فروش برای این محصول : 500 کارتن<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 کارتن<hr\/>","myuser_id":720294,"sub_category_id":131,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"پنیر","unit":"کارتن","is_elevated":0,"category_name":"لبنیات","category_id":129,"is_old":false},"user_info":{"id":720294,"user_name":"2u16o1","first_name":"دانیال","last_name":"سروندانی","active_pakage_type":2,"created_at":"2023-11-11 18:25:08","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1723884324150-99646249-CJLhS8xTuAc8Fn20qk3iU02phBKsNC1lXDFirB5S.jpeg"}]}
+{
+    "main": {
+        "id": 191988,
+        "updated_at": "2024-11-16 14:53:53",
+        "product_name": "پنیر پیتزا موزارلا 500 گرمی شگالیو",
+        "stock": 5000,
+        "min_sale_price": 90000,
+        "min_sale_amount": 100,
+        "description": "بهترین کیفیت و قیمت ، موزارلا خالص ، با خامه حیوانی ، بسته بندی درجه یک پلی اتیلن و زیبا ، ثبات کیفیت ، دریافت شیر روزانه<hr\/>برای اطلاع از قیمت روز پنیر پیتزا موزارلا 500 گرمی شگالیو و خرید مستقیم پیام ارسال کنید.<hr\/>میزان ماندگاری و شرایط نگهداری این محصول : فریزر حداقل 5ماه<hr\/>مزیت این محصول نسبت به محصولات مشابه : بهترین کیفیت و قیمت<hr\/>مقدار موجودی آماده فروش برای این محصول : 500 کارتن<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 کارتن<hr\/>",
+        "myuser_id": 720294,
+        "sub_category_id": 131,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "پنیر",
+        "unit": "کارتن",
+        "is_elevated": 0,
+        "category_name": "لبنیات",
+        "category_id": 129,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 720294,
+        "user_name": "2u16o1",
+        "first_name": "دانیال",
+        "last_name": "سروندانی",
+        "active_pakage_type": 2,
+        "created_at": "2023-11-11 18:25:08",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1723884324150-99646249-CJLhS8xTuAc8Fn20qk3iU02phBKsNC1lXDFirB5S.jpeg"
+        }
+    ]
+}

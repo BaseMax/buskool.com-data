@@ -1,1 +1,38 @@
-{"main":{"id":171580,"updated_at":"2024-11-15 09:06:22","product_name":"انجیر گلابی","stock":8000,"min_sale_price":38000,"min_sale_amount":5,"description":"نهال انجیر گلابی، یکی از گونه‌های مرغوب انجیر می باشد که محصول آن تا 10 سانتی متر رشد می کند. رنگ ظاهری آن سبز و شکل کلی آن بسیار شبیه به گلابی است اما طعم آن همان طعم و شیرینی اصیل انجیر می باشد.\r\n\r\nبه دلیل این که درخت انجیر گلابی سه فصل از سال را گل می‌دهد و باردهی بسیار بالایی دارد، به یکی از محصولات سودآور و پر بازده زراعی تبدیل شده است.<hr\/>برای اطلاع از قیمت روز انجیر گلابی  و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 8500 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 5 عدد<hr\/>","myuser_id":738693,"sub_category_id":112,"province_name":"آذربایجان غربی","province_id":2,"city_name":" میاندوآب","city_id":32,"sub_category_name":"نهال","unit":"عدد","is_elevated":0,"category_name":"بذر و نهال","category_id":111,"is_old":false},"user_info":{"id":738693,"user_name":"4e13_fn36bj7","first_name":"مجتبی","last_name":"علیزاده","active_pakage_type":2,"created_at":"2023-11-27 21:37:52","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1710019880133-648065649-9wXbIdUAO3foUcbKd6mZvdyIDKZwVN6pkIOTKhXH.jpeg"}]}
+{
+    "main": {
+        "id": 171580,
+        "updated_at": "2024-11-15 09:06:22",
+        "product_name": "انجیر گلابی",
+        "stock": 8000,
+        "min_sale_price": 38000,
+        "min_sale_amount": 5,
+        "description": "نهال انجیر گلابی، یکی از گونه‌های مرغوب انجیر می باشد که محصول آن تا 10 سانتی متر رشد می کند. رنگ ظاهری آن سبز و شکل کلی آن بسیار شبیه به گلابی است اما طعم آن همان طعم و شیرینی اصیل انجیر می باشد.\r\n\r\nبه دلیل این که درخت انجیر گلابی سه فصل از سال را گل می‌دهد و باردهی بسیار بالایی دارد، به یکی از محصولات سودآور و پر بازده زراعی تبدیل شده است.<hr\/>برای اطلاع از قیمت روز انجیر گلابی  و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 8500 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 5 عدد<hr\/>",
+        "myuser_id": 738693,
+        "sub_category_id": 112,
+        "province_name": "آذربایجان غربی",
+        "province_id": 2,
+        "city_name": " میاندوآب",
+        "city_id": 32,
+        "sub_category_name": "نهال",
+        "unit": "عدد",
+        "is_elevated": 0,
+        "category_name": "بذر و نهال",
+        "category_id": 111,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 738693,
+        "user_name": "4e13_fn36bj7",
+        "first_name": "مجتبی",
+        "last_name": "علیزاده",
+        "active_pakage_type": 2,
+        "created_at": "2023-11-27 21:37:52",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1710019880133-648065649-9wXbIdUAO3foUcbKd6mZvdyIDKZwVN6pkIOTKhXH.jpeg"
+        }
+    ]
+}

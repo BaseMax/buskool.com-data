@@ -1,1 +1,38 @@
-{"main":{"id":185884,"updated_at":"2024-11-16 11:34:21","product_name":"دستمال حوله ای","stock":500,"min_sale_price":75000,"min_sale_amount":10,"description":"دستمال حوله ای کلین آپ \r\nقیمت قدیم \r\nخوش قیمت \r\nموجودی 2 رول ‌ و 4 رول \r\nقیمت جدید این محصول 93 هزار تومان شده است \r\nبسیار مناسب برای ارزان فروشی<hr\/>برای اطلاع از قیمت روز دستمال حوله ای  و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : کیفیت عالی <hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : نقدی و چک معتبر <hr\/>مقدار موجودی آماده فروش برای این محصول : 500 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 10 عدد<hr\/>","myuser_id":882519,"sub_category_id":899,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"لوازم حمام و سرویس بهداشتی","unit":"عدد","is_elevated":0,"category_name":"تجهیزات خانه و آشپزخانه","category_id":887,"is_old":false},"user_info":{"id":882519,"user_name":"jhj9y7eui","first_name":"حدیث","last_name":"سیاوشانی","active_pakage_type":0,"created_at":"2024-04-06 09:54:11","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1720076279414-970726785-ge1YWd7A63Rwohvv90asuxDBOwl8sAU9lLt36mea.jpeg"}]}
+{
+    "main": {
+        "id": 185884,
+        "updated_at": "2024-11-16 11:34:21",
+        "product_name": "دستمال حوله ای",
+        "stock": 500,
+        "min_sale_price": 75000,
+        "min_sale_amount": 10,
+        "description": "دستمال حوله ای کلین آپ \r\nقیمت قدیم \r\nخوش قیمت \r\nموجودی 2 رول ‌ و 4 رول \r\nقیمت جدید این محصول 93 هزار تومان شده است \r\nبسیار مناسب برای ارزان فروشی<hr\/>برای اطلاع از قیمت روز دستمال حوله ای  و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : کیفیت عالی <hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : نقدی و چک معتبر <hr\/>مقدار موجودی آماده فروش برای این محصول : 500 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 10 عدد<hr\/>",
+        "myuser_id": 882519,
+        "sub_category_id": 899,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "لوازم حمام و سرویس بهداشتی",
+        "unit": "عدد",
+        "is_elevated": 0,
+        "category_name": "تجهیزات خانه و آشپزخانه",
+        "category_id": 887,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 882519,
+        "user_name": "jhj9y7eui",
+        "first_name": "حدیث",
+        "last_name": "سیاوشانی",
+        "active_pakage_type": 0,
+        "created_at": "2024-04-06 09:54:11",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1720076279414-970726785-ge1YWd7A63Rwohvv90asuxDBOwl8sAU9lLt36mea.jpeg"
+        }
+    ]
+}

@@ -1,1 +1,38 @@
-{"main":{"id":207519,"updated_at":"2024-11-15 12:53:06","product_name":"سیر 7ساله با شیره","stock":300,"min_sale_price":260000,"min_sale_amount":10,"description":"سیر ترشی7ساله با شیره وکیفیت عالی<hr\/>برای اطلاع از قیمت روز سیر 7ساله با شیره و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : دبه<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : عمده<hr\/>مقدار موجودی آماده فروش برای این محصول : 300 کارتن<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 10 کارتن<hr\/>","myuser_id":1150744,"sub_category_id":115,"province_name":"اصفهان","province_id":4,"city_name":" اصفهان","city_id":45,"sub_category_name":"ترشی","unit":"کارتن","is_elevated":0,"category_name":"کنسانتره و کنسرو","category_id":81,"is_old":false},"user_info":{"id":1150744,"user_name":"z912vok","first_name":"عباس","last_name":"مرادی","active_pakage_type":0,"created_at":"2024-11-15 12:32:58","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731662609376-307979212-oriEYEv2MVufhqgFFstQ05UTsSugmUhvpzP42nve.jpeg"}]}
+{
+    "main": {
+        "id": 207519,
+        "updated_at": "2024-11-15 12:53:06",
+        "product_name": "سیر 7ساله با شیره",
+        "stock": 300,
+        "min_sale_price": 260000,
+        "min_sale_amount": 10,
+        "description": "سیر ترشی7ساله با شیره وکیفیت عالی<hr\/>برای اطلاع از قیمت روز سیر 7ساله با شیره و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : دبه<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : عمده<hr\/>مقدار موجودی آماده فروش برای این محصول : 300 کارتن<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 10 کارتن<hr\/>",
+        "myuser_id": 1150744,
+        "sub_category_id": 115,
+        "province_name": "اصفهان",
+        "province_id": 4,
+        "city_name": " اصفهان",
+        "city_id": 45,
+        "sub_category_name": "ترشی",
+        "unit": "کارتن",
+        "is_elevated": 0,
+        "category_name": "کنسانتره و کنسرو",
+        "category_id": 81,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1150744,
+        "user_name": "z912vok",
+        "first_name": "عباس",
+        "last_name": "مرادی",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-15 12:32:58",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731662609376-307979212-oriEYEv2MVufhqgFFstQ05UTsSugmUhvpzP42nve.jpeg"
+        }
+    ]
+}

@@ -1,1 +1,38 @@
-{"main":{"id":207681,"updated_at":"2024-11-16 10:24:16","product_name":"مگنتيت","stock":5000000,"min_sale_price":1250,"min_sale_amount":5000000,"description":"سنگ اهن مگنتيت \r\nFe:53\r\nFeO:12\r\nRecovery:55\r\nP:1\r\nميزان توليد ماهانه 5هزار تن \r\nمحل تحويل بار يزد-بافق \r\nتسويه نقدا \r\nبار به صورت پارت هاي 5000 تايي تحويل ميشود<hr\/>برای اطلاع از قیمت روز مگنتيت و خرید مستقیم پیام ارسال کنید.<hr\/>اندازه یا ابعاد محصول : پارتيكل (دانه بندي )15-0<hr\/>مقدار موجودی آماده فروش برای این محصول : 5000000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 5000000 کیلوگرم<hr\/>","myuser_id":1151383,"sub_category_id":251,"province_name":"یزد","province_id":31,"city_name":" بافق","city_id":430,"sub_category_name":"سنگ آهن","unit":"کیلوگرم","is_elevated":0,"category_name":"مواد معدنی","category_id":144,"is_old":false},"user_info":{"id":1151383,"user_name":"pzx51wtekl","first_name":"امير","last_name":"تشكري","active_pakage_type":0,"created_at":"2024-11-15 20:51:58","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731740192082-794040809-emhbkjKGyl1qEDvARte1KFcjXmHBo0SkLvcisVYg.jpeg"}]}
+{
+    "main": {
+        "id": 207681,
+        "updated_at": "2024-11-16 10:24:16",
+        "product_name": "مگنتيت",
+        "stock": 5000000,
+        "min_sale_price": 1250,
+        "min_sale_amount": 5000000,
+        "description": "سنگ اهن مگنتيت \r\nFe:53\r\nFeO:12\r\nRecovery:55\r\nP:1\r\nميزان توليد ماهانه 5هزار تن \r\nمحل تحويل بار يزد-بافق \r\nتسويه نقدا \r\nبار به صورت پارت هاي 5000 تايي تحويل ميشود<hr\/>برای اطلاع از قیمت روز مگنتيت و خرید مستقیم پیام ارسال کنید.<hr\/>اندازه یا ابعاد محصول : پارتيكل (دانه بندي )15-0<hr\/>مقدار موجودی آماده فروش برای این محصول : 5000000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 5000000 کیلوگرم<hr\/>",
+        "myuser_id": 1151383,
+        "sub_category_id": 251,
+        "province_name": "یزد",
+        "province_id": 31,
+        "city_name": " بافق",
+        "city_id": 430,
+        "sub_category_name": "سنگ آهن",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "مواد معدنی",
+        "category_id": 144,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1151383,
+        "user_name": "pzx51wtekl",
+        "first_name": "امير",
+        "last_name": "تشكري",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-15 20:51:58",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731740192082-794040809-emhbkjKGyl1qEDvARte1KFcjXmHBo0SkLvcisVYg.jpeg"
+        }
+    ]
+}

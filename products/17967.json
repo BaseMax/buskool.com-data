@@ -1,1 +1,38 @@
-{"main":{"id":199093,"updated_at":"2024-11-14 11:08:01","product_name":"خاک قرمز خاک سفید پرسلان","stock":100000,"min_sale_price":200000,"min_sale_amount":2000,"description":"فروش کاشی و سرامیک \r\nدر انواع مختلف خاک سفید خاک قرمز و پرسلان \r\nو در انواع کیفیت ها \r\nاز شیرینگی تا فله \r\nبرای مصارف داخلی و صادراتی \r\nدر انواع و ابعاد و طرح های مختلف\r\nقابل سفارش و ارایه است.<hr\/>برای اطلاع از قیمت روز خاک قرمز حاک سفید پرسلان و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 متر مربع<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 2000 متر مربع<hr\/>","myuser_id":318077,"sub_category_id":764,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"کاشی و سرامیک","unit":"متر مربع","is_elevated":0,"category_name":"مصالح ساختمانی","category_id":737,"is_old":false},"user_info":{"id":318077,"user_name":"d614","first_name":"آتوسا","last_name":"غبرائی","active_pakage_type":2,"created_at":"2022-09-19 10:58:17","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1728211245888-18716316-72JvOpUIV7FR1DI8c51bvMnjOaCRs1OU0QUo2Knu.jpeg"}]}
+{
+    "main": {
+        "id": 199093,
+        "updated_at": "2024-11-14 11:08:01",
+        "product_name": "خاک قرمز خاک سفید پرسلان",
+        "stock": 100000,
+        "min_sale_price": 200000,
+        "min_sale_amount": 2000,
+        "description": "فروش کاشی و سرامیک \r\nدر انواع مختلف خاک سفید خاک قرمز و پرسلان \r\nو در انواع کیفیت ها \r\nاز شیرینگی تا فله \r\nبرای مصارف داخلی و صادراتی \r\nدر انواع و ابعاد و طرح های مختلف\r\nقابل سفارش و ارایه است.<hr\/>برای اطلاع از قیمت روز خاک قرمز حاک سفید پرسلان و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 متر مربع<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 2000 متر مربع<hr\/>",
+        "myuser_id": 318077,
+        "sub_category_id": 764,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "کاشی و سرامیک",
+        "unit": "متر مربع",
+        "is_elevated": 0,
+        "category_name": "مصالح ساختمانی",
+        "category_id": 737,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 318077,
+        "user_name": "d614",
+        "first_name": "آتوسا",
+        "last_name": "غبرائی",
+        "active_pakage_type": 2,
+        "created_at": "2022-09-19 10:58:17",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1728211245888-18716316-72JvOpUIV7FR1DI8c51bvMnjOaCRs1OU0QUo2Knu.jpeg"
+        }
+    ]
+}

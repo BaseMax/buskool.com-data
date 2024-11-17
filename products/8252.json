@@ -1,1 +1,38 @@
-{"main":{"id":207714,"updated_at":"2024-11-16 12:31:02","product_name":"پودر نارگیل خشک","stock":960,"min_sale_price":5500000,"min_sale_amount":20,"description":"فروش عمده پودر نارگیل خشک (ALS)\r\n\r\nبسته بندی کیسه ای 25 کیلویی\r\n\r\nبرند ای ال اس سری لانکا\r\n\r\nبرای اطلاع از قیمت روز با دفتر فروش ما تماس بگیرید:\r\n\r\n\r\nشرکت شایان شیمی، واردکننده مواد اولیه \r\n\r\n\r\n\r\n<hr\/>برای اطلاع از قیمت روز پودر نارگیل خشک و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 960 کارتن<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 20 کارتن<hr\/>","myuser_id":1151999,"sub_category_id":57,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"میوه خشک","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":1151999,"user_name":"15714n3v","first_name":"کیمیا","last_name":"سیفی","active_pakage_type":2,"created_at":"2024-11-16 09:58:29","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731743785210-381440482-3Eh09QjKo66wY0PXC3h4N2Nl4sVbsBBpvsjHeFch.jpeg"}]}
+{
+    "main": {
+        "id": 207714,
+        "updated_at": "2024-11-16 12:31:02",
+        "product_name": "پودر نارگیل خشک",
+        "stock": 960,
+        "min_sale_price": 5500000,
+        "min_sale_amount": 20,
+        "description": "فروش عمده پودر نارگیل خشک (ALS)\r\n\r\nبسته بندی کیسه ای 25 کیلویی\r\n\r\nبرند ای ال اس سری لانکا\r\n\r\nبرای اطلاع از قیمت روز با دفتر فروش ما تماس بگیرید:\r\n\r\n\r\nشرکت شایان شیمی، واردکننده مواد اولیه \r\n\r\n\r\n\r\n<hr\/>برای اطلاع از قیمت روز پودر نارگیل خشک و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 960 کارتن<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 20 کارتن<hr\/>",
+        "myuser_id": 1151999,
+        "sub_category_id": 57,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "میوه خشک",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1151999,
+        "user_name": "15714n3v",
+        "first_name": "کیمیا",
+        "last_name": "سیفی",
+        "active_pakage_type": 2,
+        "created_at": "2024-11-16 09:58:29",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731743785210-381440482-3Eh09QjKo66wY0PXC3h4N2Nl4sVbsBBpvsjHeFch.jpeg"
+        }
+    ]
+}

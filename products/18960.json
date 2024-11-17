@@ -1,1 +1,38 @@
-{"main":{"id":207204,"updated_at":"2024-11-15 23:36:23","product_name":"جو دیم سفید","stock":45000,"min_sale_price":15000,"min_sale_amount":45000,"description":"سفید درست دیم مناسب بذر<hr\/>برای اطلاع از قیمت روز دیم محصول خودمون سفید و خرید مستقیم پیام ارسال کنید.<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : نقد<hr\/>مقدار موجودی آماده فروش برای این محصول : 45000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 45000 کیلوگرم<hr\/>","myuser_id":1148358,"sub_category_id":61,"province_name":"اردبیل","province_id":3,"city_name":" نیر","city_id":42,"sub_category_name":"جو","unit":"کیلوگرم","is_elevated":0,"category_name":"غلات","category_id":42,"is_old":false},"user_info":{"id":1148358,"user_name":"laz19_c14","first_name":"مهدی","last_name":"صادقپور","active_pakage_type":0,"created_at":"2024-11-13 15:26:13","is_verified":0},"profile_info":[],"photos":[{"file_path":null}]}
+{
+    "main": {
+        "id": 207204,
+        "updated_at": "2024-11-15 23:36:23",
+        "product_name": "جو دیم سفید",
+        "stock": 45000,
+        "min_sale_price": 15000,
+        "min_sale_amount": 45000,
+        "description": "سفید درست دیم مناسب بذر<hr\/>برای اطلاع از قیمت روز دیم محصول خودمون سفید و خرید مستقیم پیام ارسال کنید.<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : نقد<hr\/>مقدار موجودی آماده فروش برای این محصول : 45000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 45000 کیلوگرم<hr\/>",
+        "myuser_id": 1148358,
+        "sub_category_id": 61,
+        "province_name": "اردبیل",
+        "province_id": 3,
+        "city_name": " نیر",
+        "city_id": 42,
+        "sub_category_name": "جو",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "غلات",
+        "category_id": 42,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1148358,
+        "user_name": "laz19_c14",
+        "first_name": "مهدی",
+        "last_name": "صادقپور",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-13 15:26:13",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": null
+        }
+    ]
+}

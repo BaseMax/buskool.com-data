@@ -1,1 +1,38 @@
-{"main":{"id":207863,"updated_at":"2024-11-17 09:20:10","product_name":"لیوان کاغذی _ پیش دستی _ درپوش _ هولدر","stock":300,"min_sale_price":1000000,"min_sale_amount":1,"description":"(لیوان کاغذی _ درپوش _ پیش دستی _ هولدر)\r\nلاله پک تولید کننده انواع لیوان 220_90_120\r\nتولید انواع درپوش لیوان \r\nتولید انواع پیش دستی\r\nتولید انواع هولدر<hr\/>برای اطلاع از قیمت روز لیوان کاغذی _ پیش دستی _ درپوش _ هولدر و خرید مستقیم پیام ارسال کنید.<hr\/>مزیت این محصول نسبت به محصولات مشابه : ارتباط مستقیم به تولییدی \r\nکیفیت و تنوع دلخواه \r\nطرح اختصاصی <hr\/>مقدار موجودی آماده فروش برای این محصول : 300 کارتن<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1 کارتن<hr\/>","myuser_id":1153071,"sub_category_id":917,"province_name":"تهران","province_id":8,"city_name":"پردیس","city_id":450,"sub_category_name":"ظروف یکبار مصرف","unit":"کارتن","is_elevated":0,"category_name":"تجهیزات خانه و آشپزخانه","category_id":887,"is_old":false},"user_info":{"id":1153071,"user_name":"s14ob2t","first_name":"حسین","last_name":"دهقان","active_pakage_type":0,"created_at":"2024-11-16 21:54:43","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731782267643-756550837-zO3zyuvdTu1zRHF2WDCsTftP2RgPtDbEvtuA1D3N.jpeg"}]}
+{
+    "main": {
+        "id": 207863,
+        "updated_at": "2024-11-17 09:20:10",
+        "product_name": "لیوان کاغذی _ پیش دستی _ درپوش _ هولدر",
+        "stock": 300,
+        "min_sale_price": 1000000,
+        "min_sale_amount": 1,
+        "description": "(لیوان کاغذی _ درپوش _ پیش دستی _ هولدر)\r\nلاله پک تولید کننده انواع لیوان 220_90_120\r\nتولید انواع درپوش لیوان \r\nتولید انواع پیش دستی\r\nتولید انواع هولدر<hr\/>برای اطلاع از قیمت روز لیوان کاغذی _ پیش دستی _ درپوش _ هولدر و خرید مستقیم پیام ارسال کنید.<hr\/>مزیت این محصول نسبت به محصولات مشابه : ارتباط مستقیم به تولییدی \r\nکیفیت و تنوع دلخواه \r\nطرح اختصاصی <hr\/>مقدار موجودی آماده فروش برای این محصول : 300 کارتن<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1 کارتن<hr\/>",
+        "myuser_id": 1153071,
+        "sub_category_id": 917,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": "پردیس",
+        "city_id": 450,
+        "sub_category_name": "ظروف یکبار مصرف",
+        "unit": "کارتن",
+        "is_elevated": 0,
+        "category_name": "تجهیزات خانه و آشپزخانه",
+        "category_id": 887,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1153071,
+        "user_name": "s14ob2t",
+        "first_name": "حسین",
+        "last_name": "دهقان",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-16 21:54:43",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731782267643-756550837-zO3zyuvdTu1zRHF2WDCsTftP2RgPtDbEvtuA1D3N.jpeg"
+        }
+    ]
+}

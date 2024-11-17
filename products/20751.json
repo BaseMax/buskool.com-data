@@ -1,1 +1,38 @@
-{"main":{"id":207513,"updated_at":"2024-11-15 12:54:30","product_name":"انواع تراورتن","stock":100000,"min_sale_price":350000,"min_sale_amount":1000,"description":"<hr\/>برای اطلاع از قیمت روز انواع تراورتن و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : بالاترین کیفیت<hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 متر مربع<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 متر مربع<hr\/>","myuser_id":1125155,"sub_category_id":761,"province_name":"اصفهان","province_id":4,"city_name":" نجف آباد","city_id":63,"sub_category_name":"سنگ ساختمانی","unit":"متر مربع","is_elevated":0,"category_name":"مصالح ساختمانی","category_id":737,"is_old":false},"user_info":{"id":1125155,"user_name":"up79","first_name":"مجتبی","last_name":"عباسی","active_pakage_type":0,"created_at":"2024-10-28 23:01:39","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731660296625-56480847-pjlCA4vpJLwESVE5AHgj9hmLNduLy0CUNUfxw5lR.jpeg"}]}
+{
+    "main": {
+        "id": 207513,
+        "updated_at": "2024-11-15 12:54:30",
+        "product_name": "انواع تراورتن",
+        "stock": 100000,
+        "min_sale_price": 350000,
+        "min_sale_amount": 1000,
+        "description": "<hr\/>برای اطلاع از قیمت روز انواع تراورتن و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : بالاترین کیفیت<hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 متر مربع<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 متر مربع<hr\/>",
+        "myuser_id": 1125155,
+        "sub_category_id": 761,
+        "province_name": "اصفهان",
+        "province_id": 4,
+        "city_name": " نجف آباد",
+        "city_id": 63,
+        "sub_category_name": "سنگ ساختمانی",
+        "unit": "متر مربع",
+        "is_elevated": 0,
+        "category_name": "مصالح ساختمانی",
+        "category_id": 737,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1125155,
+        "user_name": "up79",
+        "first_name": "مجتبی",
+        "last_name": "عباسی",
+        "active_pakage_type": 0,
+        "created_at": "2024-10-28 23:01:39",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731660296625-56480847-pjlCA4vpJLwESVE5AHgj9hmLNduLy0CUNUfxw5lR.jpeg"
+        }
+    ]
+}

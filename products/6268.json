@@ -1,1 +1,38 @@
-{"main":{"id":171660,"updated_at":"2024-11-16 11:37:08","product_name":"حوله تن پوش","stock":380,"min_sale_price":650000,"min_sale_amount":50,"description":"حوله تن پوش نیم ست ،تکی ،دوقلو <hr\/>برای اطلاع از قیمت روز حوله تن پوش و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : بسته بندی مقوایی با سلفون<hr\/>مقدار موجودی آماده فروش برای این محصول : 380 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 50 عدد<hr\/>","myuser_id":857865,"sub_category_id":899,"province_name":"آذربایجان شرقی","province_id":1,"city_name":" تبریز","city_id":6,"sub_category_name":"لوازم حمام و سرویس بهداشتی","unit":"عدد","is_elevated":0,"category_name":"تجهیزات خانه و آشپزخانه","category_id":887,"is_old":false},"user_info":{"id":857865,"user_name":"c13et1","first_name":"سجاد","last_name":"ابرا","active_pakage_type":0,"created_at":"2024-03-10 14:02:46","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1710068812574-62534485-GsMTZhVdAiMFGSZCPLkcelSvFaqgH2Agfx5up9zM.jpeg"}]}
+{
+    "main": {
+        "id": 171660,
+        "updated_at": "2024-11-16 11:37:08",
+        "product_name": "حوله تن پوش",
+        "stock": 380,
+        "min_sale_price": 650000,
+        "min_sale_amount": 50,
+        "description": "حوله تن پوش نیم ست ،تکی ،دوقلو <hr\/>برای اطلاع از قیمت روز حوله تن پوش و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : بسته بندی مقوایی با سلفون<hr\/>مقدار موجودی آماده فروش برای این محصول : 380 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 50 عدد<hr\/>",
+        "myuser_id": 857865,
+        "sub_category_id": 899,
+        "province_name": "آذربایجان شرقی",
+        "province_id": 1,
+        "city_name": " تبریز",
+        "city_id": 6,
+        "sub_category_name": "لوازم حمام و سرویس بهداشتی",
+        "unit": "عدد",
+        "is_elevated": 0,
+        "category_name": "تجهیزات خانه و آشپزخانه",
+        "category_id": 887,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 857865,
+        "user_name": "c13et1",
+        "first_name": "سجاد",
+        "last_name": "ابرا",
+        "active_pakage_type": 0,
+        "created_at": "2024-03-10 14:02:46",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1710068812574-62534485-GsMTZhVdAiMFGSZCPLkcelSvFaqgH2Agfx5up9zM.jpeg"
+        }
+    ]
+}

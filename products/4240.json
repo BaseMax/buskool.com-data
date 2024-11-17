@@ -1,1 +1,38 @@
-{"main":{"id":204423,"updated_at":"2024-11-16 10:39:45","product_name":"فلفل دلمه سبز و رنگی","stock":300000,"min_sale_price":35000,"min_sale_amount":10000,"description":"فلفل دلمه سبز و رنگی در سورت و بسته بندی مقصد جهت صادرات و بازار داخل موجود می‌باشد در تناژ بالا<hr\/>برای اطلاع از قیمت روز فلفل دلمه سبز و رنگی  و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : کیفیت صادراتی فوق سوپر<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : نقدی<hr\/>مقدار موجودی آماده فروش برای این محصول : 200000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 10000 کیلوگرم<hr\/>","myuser_id":68727,"sub_category_id":26,"province_name":"خوزستان","province_id":13,"city_name":" دزفول","city_id":148,"sub_category_name":"فلفل دلمه ای","unit":"کیلوگرم","is_elevated":0,"category_name":"صیفی","category_id":2,"is_old":false},"user_info":{"id":68727,"user_name":"j166qgr","first_name":"روح الله","last_name":"کریمی","active_pakage_type":2,"created_at":"2021-10-24 13:47:44","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1730457971594-992231125-PkDZJMlAB1ftjpZfBRYKEIyRh63AWYZHzTjo4qhB.jpeg"}]}
+{
+    "main": {
+        "id": 204423,
+        "updated_at": "2024-11-16 10:39:45",
+        "product_name": "فلفل دلمه سبز و رنگی",
+        "stock": 300000,
+        "min_sale_price": 35000,
+        "min_sale_amount": 10000,
+        "description": "فلفل دلمه سبز و رنگی در سورت و بسته بندی مقصد جهت صادرات و بازار داخل موجود می‌باشد در تناژ بالا<hr\/>برای اطلاع از قیمت روز فلفل دلمه سبز و رنگی  و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : کیفیت صادراتی فوق سوپر<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : نقدی<hr\/>مقدار موجودی آماده فروش برای این محصول : 200000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 10000 کیلوگرم<hr\/>",
+        "myuser_id": 68727,
+        "sub_category_id": 26,
+        "province_name": "خوزستان",
+        "province_id": 13,
+        "city_name": " دزفول",
+        "city_id": 148,
+        "sub_category_name": "فلفل دلمه ای",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "صیفی",
+        "category_id": 2,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 68727,
+        "user_name": "j166qgr",
+        "first_name": "روح الله",
+        "last_name": "کریمی",
+        "active_pakage_type": 2,
+        "created_at": "2021-10-24 13:47:44",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1730457971594-992231125-PkDZJMlAB1ftjpZfBRYKEIyRh63AWYZHzTjo4qhB.jpeg"
+        }
+    ]
+}

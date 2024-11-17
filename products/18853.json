@@ -1,1 +1,38 @@
-{"main":{"id":207224,"updated_at":"2024-11-13 19:14:31","product_name":"تخمه کدو","stock":15000,"min_sale_price":195000,"min_sale_amount":15000,"description":"تخمه کدو درجه1 \r\nاستان فارس آباده منطقه کلوان<hr\/>برای اطلاع از قیمت روز تخمه کدو و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : گونی شیشه ای 30الی40کیلو <hr\/>مقدار موجودی آماده فروش برای این محصول : 15000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 15000 کیلوگرم<hr\/>","myuser_id":1134506,"sub_category_id":56,"province_name":"فارس","province_id":17,"city_name":" آباده","city_id":182,"sub_category_name":"تخمه آفتابگردان","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":1134506,"user_name":"acl12","first_name":"نیما","last_name":"یوسفی","active_pakage_type":0,"created_at":"2024-11-04 02:34:13","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731509055196-613998339-rk4IHNfevXnyRP2SItjcojGbxzFaiga1PM0OixdB.jpeg"}]}
+{
+    "main": {
+        "id": 207224,
+        "updated_at": "2024-11-13 19:14:31",
+        "product_name": "تخمه کدو",
+        "stock": 15000,
+        "min_sale_price": 195000,
+        "min_sale_amount": 15000,
+        "description": "تخمه کدو درجه1 \r\nاستان فارس آباده منطقه کلوان<hr\/>برای اطلاع از قیمت روز تخمه کدو و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : گونی شیشه ای 30الی40کیلو <hr\/>مقدار موجودی آماده فروش برای این محصول : 15000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 15000 کیلوگرم<hr\/>",
+        "myuser_id": 1134506,
+        "sub_category_id": 56,
+        "province_name": "فارس",
+        "province_id": 17,
+        "city_name": " آباده",
+        "city_id": 182,
+        "sub_category_name": "تخمه آفتابگردان",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1134506,
+        "user_name": "acl12",
+        "first_name": "نیما",
+        "last_name": "یوسفی",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-04 02:34:13",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731509055196-613998339-rk4IHNfevXnyRP2SItjcojGbxzFaiga1PM0OixdB.jpeg"
+        }
+    ]
+}

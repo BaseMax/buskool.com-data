@@ -1,1 +1,38 @@
-{"main":{"id":207774,"updated_at":"2024-11-16 15:44:38","product_name":"انار قرمز","stock":2000,"min_sale_price":30000,"min_sale_amount":100,"description":"فروش بصورت عمده و یکجا<hr\/>برای اطلاع از قیمت روز انار قرمز و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 2000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 کیلوگرم<hr\/>","myuser_id":940903,"sub_category_id":4,"province_name":"اصفهان","province_id":4,"city_name":" کاشان","city_id":58,"sub_category_name":"انار","unit":"کیلوگرم","is_elevated":0,"category_name":"میوه","category_id":1,"is_old":false},"user_info":{"id":940903,"user_name":"s1eepyzo","first_name":"شرکت","last_name":"بين المللي ايهام تجارت گرشا","active_pakage_type":2,"created_at":"2024-05-28 12:52:51","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731756801649-180939022-ugIgK0AqBl7v3VSzUrmMn0T1gFrmIYah31By55H8.jpeg"}]}
+{
+    "main": {
+        "id": 207774,
+        "updated_at": "2024-11-16 15:44:38",
+        "product_name": "انار قرمز",
+        "stock": 2000,
+        "min_sale_price": 30000,
+        "min_sale_amount": 100,
+        "description": "فروش بصورت عمده و یکجا<hr\/>برای اطلاع از قیمت روز انار قرمز و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 2000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 100 کیلوگرم<hr\/>",
+        "myuser_id": 940903,
+        "sub_category_id": 4,
+        "province_name": "اصفهان",
+        "province_id": 4,
+        "city_name": " کاشان",
+        "city_id": 58,
+        "sub_category_name": "انار",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "میوه",
+        "category_id": 1,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 940903,
+        "user_name": "s1eepyzo",
+        "first_name": "شرکت",
+        "last_name": "بين المللي ايهام تجارت گرشا",
+        "active_pakage_type": 2,
+        "created_at": "2024-05-28 12:52:51",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731756801649-180939022-ugIgK0AqBl7v3VSzUrmMn0T1gFrmIYah31By55H8.jpeg"
+        }
+    ]
+}

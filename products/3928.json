@@ -1,1 +1,38 @@
-{"main":{"id":207585,"updated_at":"2024-11-16 10:07:22","product_name":"لوبیا قرمز","stock":30000,"min_sale_price":92000,"min_sale_amount":5000,"description":"لوبیا قرمز کاشت خودمون هست بصورت فله ای درشت و درجه یک برای خرید زنگ بزنید<hr\/>برای اطلاع از قیمت روز قرمز و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : درجه یک و درشت \r\n<hr\/>مقدار موجودی آماده فروش برای این محصول : 30000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 5000 کیلوگرم<hr\/>","myuser_id":1151277,"sub_category_id":73,"province_name":"قزوین","province_id":18,"city_name":" قزوین","city_id":210,"sub_category_name":"لوبیا","unit":"کیلوگرم","is_elevated":0,"category_name":"حبوبات","category_id":71,"is_old":false},"user_info":{"id":1151277,"user_name":"613eyv20o","first_name":"رضا","last_name":"حسینی","active_pakage_type":0,"created_at":"2024-11-15 19:46:10","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731687970962-645359759-aMhQbLWvIy2UM674nGnzDWa1dDQMVUS4f3lLq5uL.jpeg"}]}
+{
+    "main": {
+        "id": 207585,
+        "updated_at": "2024-11-16 10:07:22",
+        "product_name": "لوبیا قرمز",
+        "stock": 30000,
+        "min_sale_price": 92000,
+        "min_sale_amount": 5000,
+        "description": "لوبیا قرمز کاشت خودمون هست بصورت فله ای درشت و درجه یک برای خرید زنگ بزنید<hr\/>برای اطلاع از قیمت روز قرمز و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : درجه یک و درشت \r\n<hr\/>مقدار موجودی آماده فروش برای این محصول : 30000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 5000 کیلوگرم<hr\/>",
+        "myuser_id": 1151277,
+        "sub_category_id": 73,
+        "province_name": "قزوین",
+        "province_id": 18,
+        "city_name": " قزوین",
+        "city_id": 210,
+        "sub_category_name": "لوبیا",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "حبوبات",
+        "category_id": 71,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1151277,
+        "user_name": "613eyv20o",
+        "first_name": "رضا",
+        "last_name": "حسینی",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-15 19:46:10",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731687970962-645359759-aMhQbLWvIy2UM674nGnzDWa1dDQMVUS4f3lLq5uL.jpeg"
+        }
+    ]
+}

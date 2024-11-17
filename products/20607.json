@@ -1,1 +1,38 @@
-{"main":{"id":198350,"updated_at":"2024-11-13 13:17:54","product_name":"سیمان پرتلند تیپ 2 کرمان","stock":2000,"min_sale_price":89000,"min_sale_amount":200,"description":"<hr\/>برای اطلاع از قیمت روز سیمان پرتلند تیپ 2 کرمان  و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 2000 کیسه<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 200 کیسه<hr\/>","myuser_id":816090,"sub_category_id":740,"province_name":"كرمان","province_id":21,"city_name":" کرمان","city_id":233,"sub_category_name":"سیمان","unit":"کیسه","is_elevated":0,"category_name":"مصالح ساختمانی","category_id":737,"is_old":false},"user_info":{"id":816090,"user_name":"18xf8qs","first_name":"مهدی","last_name":"فرهنگ","active_pakage_type":3,"created_at":"2024-02-03 14:11:24","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1727769655396-698176927-K6UIFmz37B2yvYmAgMU6rK6QPo6rhx03hpYdUh3p.jpeg"}]}
+{
+    "main": {
+        "id": 198350,
+        "updated_at": "2024-11-13 13:17:54",
+        "product_name": "سیمان پرتلند تیپ 2 کرمان",
+        "stock": 2000,
+        "min_sale_price": 89000,
+        "min_sale_amount": 200,
+        "description": "<hr\/>برای اطلاع از قیمت روز سیمان پرتلند تیپ 2 کرمان  و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 2000 کیسه<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 200 کیسه<hr\/>",
+        "myuser_id": 816090,
+        "sub_category_id": 740,
+        "province_name": "كرمان",
+        "province_id": 21,
+        "city_name": " کرمان",
+        "city_id": 233,
+        "sub_category_name": "سیمان",
+        "unit": "کیسه",
+        "is_elevated": 0,
+        "category_name": "مصالح ساختمانی",
+        "category_id": 737,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 816090,
+        "user_name": "18xf8qs",
+        "first_name": "مهدی",
+        "last_name": "فرهنگ",
+        "active_pakage_type": 3,
+        "created_at": "2024-02-03 14:11:24",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1727769655396-698176927-K6UIFmz37B2yvYmAgMU6rK6QPo6rhx03hpYdUh3p.jpeg"
+        }
+    ]
+}

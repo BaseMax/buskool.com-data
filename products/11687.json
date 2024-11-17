@@ -1,1 +1,38 @@
-{"main":{"id":207405,"updated_at":"2024-11-14 15:05:08","product_name":"تخم مرغ ساده","stock":5000,"min_sale_price":54000,"min_sale_amount":3000,"description":"محصولات با کیفیت براتون ارسال میشود<hr\/>برای اطلاع از قیمت روز تخم مرغ ساده و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : با کیفیت<hr\/>میزان تازه بودن و زمان تولید این محصول : تخم ها هر روز با کیفیت ارسال میشود<hr\/>مقدار موجودی آماده فروش برای این محصول : 5000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 3000 کیلوگرم<hr\/>","myuser_id":1149654,"sub_category_id":90,"province_name":"قزوین","province_id":18,"city_name":" قزوین","city_id":210,"sub_category_name":"تخم مرغ","unit":"کیلوگرم","is_elevated":0,"category_name":"مواد پروتئینی","category_id":79,"is_old":false},"user_info":{"id":1149654,"user_name":"0hiq","first_name":"امیرحسین","last_name":"پیری","active_pakage_type":0,"created_at":"2024-11-14 14:07:49","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731581018718-139724895-GX8F5HtQ3qJ01ombgO07Oh00q3v0Z99jUY13YW5c.jpeg"}]}
+{
+    "main": {
+        "id": 207405,
+        "updated_at": "2024-11-14 15:05:08",
+        "product_name": "تخم مرغ ساده",
+        "stock": 5000,
+        "min_sale_price": 54000,
+        "min_sale_amount": 3000,
+        "description": "محصولات با کیفیت براتون ارسال میشود<hr\/>برای اطلاع از قیمت روز تخم مرغ ساده و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : با کیفیت<hr\/>میزان تازه بودن و زمان تولید این محصول : تخم ها هر روز با کیفیت ارسال میشود<hr\/>مقدار موجودی آماده فروش برای این محصول : 5000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 3000 کیلوگرم<hr\/>",
+        "myuser_id": 1149654,
+        "sub_category_id": 90,
+        "province_name": "قزوین",
+        "province_id": 18,
+        "city_name": " قزوین",
+        "city_id": 210,
+        "sub_category_name": "تخم مرغ",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "مواد پروتئینی",
+        "category_id": 79,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1149654,
+        "user_name": "0hiq",
+        "first_name": "امیرحسین",
+        "last_name": "پیری",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-14 14:07:49",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731581018718-139724895-GX8F5HtQ3qJ01ombgO07Oh00q3v0Z99jUY13YW5c.jpeg"
+        }
+    ]
+}

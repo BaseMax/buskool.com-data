@@ -1,1 +1,38 @@
-{"main":{"id":207664,"updated_at":"2024-11-16 09:28:01","product_name":"باروتی بدون خاک","stock":5000,"min_sale_price":75000,"min_sale_amount":1000,"description":"چای باروتی بدون خاک و ضایعات اضافی هست\r\nتوی دم کردنش بوی خاک نمیده\r\nعکس چایی رو گذاشتم اگه نیاز به ویدیو یا نمونه هم ازش بخواین پیام بزارید\r\nسعی ما اینکه چایی،اونم چایی ایرانی رو رشد بدیم دوباره و دوباره،پس نیاز هم هست که مشاوره خوبی درمورد محصولمون داده بشه.<hr\/>برای اطلاع از قیمت روز باروتی بدون خاک و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : باروتی بی خاک پس هنگام دم کردن،چای بوی خاک نمیده<hr\/>مقدار موجودی آماده فروش برای این محصول : 5000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 کیلوگرم<hr\/>","myuser_id":1113322,"sub_category_id":83,"province_name":"گیلان","province_id":25,"city_name":" لنگرود","city_id":281,"sub_category_name":"چای","unit":"کیلوگرم","is_elevated":0,"category_name":"نوشیدنی","category_id":78,"is_old":false},"user_info":{"id":1113322,"user_name":"ec75zqfau2","first_name":"سیده مریم","last_name":"واعظ زاده","active_pakage_type":1,"created_at":"2024-10-20 16:29:08","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731735805908-725472119-1yGjk0obEy8grMcUoo8v8H71e6mPXxYNoRlGFXjc.jpeg"}]}
+{
+    "main": {
+        "id": 207664,
+        "updated_at": "2024-11-16 09:28:01",
+        "product_name": "باروتی بدون خاک",
+        "stock": 5000,
+        "min_sale_price": 75000,
+        "min_sale_amount": 1000,
+        "description": "چای باروتی بدون خاک و ضایعات اضافی هست\r\nتوی دم کردنش بوی خاک نمیده\r\nعکس چایی رو گذاشتم اگه نیاز به ویدیو یا نمونه هم ازش بخواین پیام بزارید\r\nسعی ما اینکه چایی،اونم چایی ایرانی رو رشد بدیم دوباره و دوباره،پس نیاز هم هست که مشاوره خوبی درمورد محصولمون داده بشه.<hr\/>برای اطلاع از قیمت روز باروتی بدون خاک و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : باروتی بی خاک پس هنگام دم کردن،چای بوی خاک نمیده<hr\/>مقدار موجودی آماده فروش برای این محصول : 5000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 کیلوگرم<hr\/>",
+        "myuser_id": 1113322,
+        "sub_category_id": 83,
+        "province_name": "گیلان",
+        "province_id": 25,
+        "city_name": " لنگرود",
+        "city_id": 281,
+        "sub_category_name": "چای",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "نوشیدنی",
+        "category_id": 78,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1113322,
+        "user_name": "ec75zqfau2",
+        "first_name": "سیده مریم",
+        "last_name": "واعظ زاده",
+        "active_pakage_type": 1,
+        "created_at": "2024-10-20 16:29:08",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731735805908-725472119-1yGjk0obEy8grMcUoo8v8H71e6mPXxYNoRlGFXjc.jpeg"
+        }
+    ]
+}

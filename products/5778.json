@@ -1,1 +1,38 @@
-{"main":{"id":207739,"updated_at":"2024-11-16 13:08:16","product_name":"پرتقال خونی سانگین","stock":25000,"min_sale_price":12000,"min_sale_amount":25000,"description":"پرتقال خونی سانگین  بدون افت و سالم \r\n تا یکماه دیگر به رنگ هلویی درامده \r\n محصول بروی درخت بوده و خریداری بایستی بروی درخت محصول را خریداری نماید .<hr\/>برای اطلاع از قیمت روز خونی سانگین  و خرید مستقیم پیام ارسال کنید.<hr\/>اندازه یا ابعاد محصول : متوسط به بالا<hr\/>مقدار موجودی آماده فروش برای این محصول : 25000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 25000 کیلوگرم<hr\/>","myuser_id":1152252,"sub_category_id":11,"province_name":"گلستان","province_id":24,"city_name":" بندر گز","city_id":258,"sub_category_name":"پرتقال","unit":"کیلوگرم","is_elevated":0,"category_name":"میوه","category_id":1,"is_old":false},"user_info":{"id":1152252,"user_name":"19lmqcdsd12k","first_name":"مرتضی","last_name":"کاویان","active_pakage_type":0,"created_at":"2024-11-16 12:46:05","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731749623953-981915466-PUhZ5lBIJGtZ3WJyBYMrzEV7kopfzW5HLB01SkfY.jpeg"}]}
+{
+    "main": {
+        "id": 207739,
+        "updated_at": "2024-11-16 13:08:16",
+        "product_name": "پرتقال خونی سانگین",
+        "stock": 25000,
+        "min_sale_price": 12000,
+        "min_sale_amount": 25000,
+        "description": "پرتقال خونی سانگین  بدون افت و سالم \r\n تا یکماه دیگر به رنگ هلویی درامده \r\n محصول بروی درخت بوده و خریداری بایستی بروی درخت محصول را خریداری نماید .<hr\/>برای اطلاع از قیمت روز خونی سانگین  و خرید مستقیم پیام ارسال کنید.<hr\/>اندازه یا ابعاد محصول : متوسط به بالا<hr\/>مقدار موجودی آماده فروش برای این محصول : 25000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 25000 کیلوگرم<hr\/>",
+        "myuser_id": 1152252,
+        "sub_category_id": 11,
+        "province_name": "گلستان",
+        "province_id": 24,
+        "city_name": " بندر گز",
+        "city_id": 258,
+        "sub_category_name": "پرتقال",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "میوه",
+        "category_id": 1,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1152252,
+        "user_name": "19lmqcdsd12k",
+        "first_name": "مرتضی",
+        "last_name": "کاویان",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-16 12:46:05",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731749623953-981915466-PUhZ5lBIJGtZ3WJyBYMrzEV7kopfzW5HLB01SkfY.jpeg"
+        }
+    ]
+}

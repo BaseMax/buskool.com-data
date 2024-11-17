@@ -1,1 +1,38 @@
-{"main":{"id":207251,"updated_at":"2024-11-14 09:34:37","product_name":"توت سفید خشک شیرین","stock":200,"min_sale_price":250000,"min_sale_amount":3,"description":"توت سفید خشک \r\nشیرین و امساله \r\nقابل سفارش بالای سه کیلو \r\nزیر قیمت بازار<hr\/>برای اطلاع از قیمت روز توت سفید خشک شیرین  و خرید مستقیم پیام ارسال کنید.<hr\/>تاییدیه های کیفی، بهداشتی و سلامت کالا موجود برای این محصول : دارای تاییدیه وزارت بهداشت <hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : فروش بصورت نقدی<hr\/>مقدار موجودی آماده فروش برای این محصول : 200 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 3 کیلوگرم<hr\/>","myuser_id":1079592,"sub_category_id":57,"province_name":"همدان","province_id":30,"city_name":" تویسرکان","city_id":422,"sub_category_name":"میوه خشک","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":1079592,"user_name":"dqksg96n","first_name":"پریسا","last_name":"جگروند","active_pakage_type":2,"created_at":"2024-09-27 02:14:07","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731517935847-707009454-xv4QuX2EwRomOH4c2Cm0dyQwEj5LXAvzGv4vmeEW.jpeg"}]}
+{
+    "main": {
+        "id": 207251,
+        "updated_at": "2024-11-14 09:34:37",
+        "product_name": "توت سفید خشک شیرین",
+        "stock": 200,
+        "min_sale_price": 250000,
+        "min_sale_amount": 3,
+        "description": "توت سفید خشک \r\nشیرین و امساله \r\nقابل سفارش بالای سه کیلو \r\nزیر قیمت بازار<hr\/>برای اطلاع از قیمت روز توت سفید خشک شیرین  و خرید مستقیم پیام ارسال کنید.<hr\/>تاییدیه های کیفی، بهداشتی و سلامت کالا موجود برای این محصول : دارای تاییدیه وزارت بهداشت <hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : فروش بصورت نقدی<hr\/>مقدار موجودی آماده فروش برای این محصول : 200 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 3 کیلوگرم<hr\/>",
+        "myuser_id": 1079592,
+        "sub_category_id": 57,
+        "province_name": "همدان",
+        "province_id": 30,
+        "city_name": " تویسرکان",
+        "city_id": 422,
+        "sub_category_name": "میوه خشک",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1079592,
+        "user_name": "dqksg96n",
+        "first_name": "پریسا",
+        "last_name": "جگروند",
+        "active_pakage_type": 2,
+        "created_at": "2024-09-27 02:14:07",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731517935847-707009454-xv4QuX2EwRomOH4c2Cm0dyQwEj5LXAvzGv4vmeEW.jpeg"
+        }
+    ]
+}

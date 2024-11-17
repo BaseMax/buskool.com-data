@@ -1,1 +1,38 @@
-{"main":{"id":207858,"updated_at":"2024-11-17 09:21:07","product_name":"مغز گردو دوپر","stock":350,"min_sale_price":640000,"min_sale_amount":350,"description":"کارتن پنج کیلوی<hr\/>برای اطلاع از قیمت روز مغز گردو دوپر و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 350 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 350 کیلوگرم<hr\/>","myuser_id":749182,"sub_category_id":54,"province_name":"كردستان","province_id":20,"city_name":" سنندج","city_id":217,"sub_category_name":"گردو","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":749182,"user_name":"0bredp","first_name":"حجت الله","last_name":"کاکایی","active_pakage_type":1,"created_at":"2023-12-06 19:21:15","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731780603750-786534629-gme3XYLvfkeCv2oUa5QNU1q9e6uoJEvJldYaqbvc.jpeg"}]}
+{
+    "main": {
+        "id": 207858,
+        "updated_at": "2024-11-17 09:21:07",
+        "product_name": "مغز گردو دوپر",
+        "stock": 350,
+        "min_sale_price": 640000,
+        "min_sale_amount": 350,
+        "description": "کارتن پنج کیلوی<hr\/>برای اطلاع از قیمت روز مغز گردو دوپر و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 350 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 350 کیلوگرم<hr\/>",
+        "myuser_id": 749182,
+        "sub_category_id": 54,
+        "province_name": "كردستان",
+        "province_id": 20,
+        "city_name": " سنندج",
+        "city_id": 217,
+        "sub_category_name": "گردو",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 749182,
+        "user_name": "0bredp",
+        "first_name": "حجت الله",
+        "last_name": "کاکایی",
+        "active_pakage_type": 1,
+        "created_at": "2023-12-06 19:21:15",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731780603750-786534629-gme3XYLvfkeCv2oUa5QNU1q9e6uoJEvJldYaqbvc.jpeg"
+        }
+    ]
+}

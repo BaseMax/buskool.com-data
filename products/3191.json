@@ -1,1 +1,38 @@
-{"main":{"id":176129,"updated_at":"2024-11-16 10:36:14","product_name":"پوست شلتوک","stock":30000,"min_sale_price":1100,"min_sale_amount":3000,"description":"پوست شلتوک مخصوص گلخانه جهت خاک ورزی و و کوره‌های ذوب آهن و کوره نسوز و جهت خاک باغ های میوه و خوراک دام و بستر مرغداری و سالن قارچ و کمپوست استفاده می‌شود<hr\/>برای اطلاع از قیمت روز پوست شلتوک  و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : پوست شلتوک فله تحویل کف انبار در شهر خرامه موارد مصرف جهت مرغداری جهت سالن قارچ جهت کوره ذوب آهن جهت ذغال <hr\/>مقدار موجودی آماده فروش برای این محصول : 30000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 3000 کیلوگرم<hr\/>","myuser_id":514463,"sub_category_id":110,"province_name":"فارس","province_id":17,"city_name":"خرامه","city_id":474,"sub_category_name":"خوراک دام","unit":"کیلوگرم","is_elevated":0,"category_name":"دامپروری","category_id":47,"is_old":false},"user_info":{"id":514463,"user_name":"fw1814gs","first_name":"مرتضی","last_name":"ایزدی","active_pakage_type":3,"created_at":"2023-04-20 06:39:41","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1713897314653-724453209-V5sYpt52kzOAMZDoqprDPkHy7MSRAqzFGxne27g1.jpeg"}]}
+{
+    "main": {
+        "id": 176129,
+        "updated_at": "2024-11-16 10:36:14",
+        "product_name": "پوست شلتوک",
+        "stock": 30000,
+        "min_sale_price": 1100,
+        "min_sale_amount": 3000,
+        "description": "پوست شلتوک مخصوص گلخانه جهت خاک ورزی و و کوره‌های ذوب آهن و کوره نسوز و جهت خاک باغ های میوه و خوراک دام و بستر مرغداری و سالن قارچ و کمپوست استفاده می‌شود<hr\/>برای اطلاع از قیمت روز پوست شلتوک  و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : پوست شلتوک فله تحویل کف انبار در شهر خرامه موارد مصرف جهت مرغداری جهت سالن قارچ جهت کوره ذوب آهن جهت ذغال <hr\/>مقدار موجودی آماده فروش برای این محصول : 30000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 3000 کیلوگرم<hr\/>",
+        "myuser_id": 514463,
+        "sub_category_id": 110,
+        "province_name": "فارس",
+        "province_id": 17,
+        "city_name": "خرامه",
+        "city_id": 474,
+        "sub_category_name": "خوراک دام",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "دامپروری",
+        "category_id": 47,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 514463,
+        "user_name": "fw1814gs",
+        "first_name": "مرتضی",
+        "last_name": "ایزدی",
+        "active_pakage_type": 3,
+        "created_at": "2023-04-20 06:39:41",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1713897314653-724453209-V5sYpt52kzOAMZDoqprDPkHy7MSRAqzFGxne27g1.jpeg"
+        }
+    ]
+}

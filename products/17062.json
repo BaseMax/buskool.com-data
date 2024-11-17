@@ -1,1 +1,38 @@
-{"main":{"id":207389,"updated_at":"2024-11-14 15:07:29","product_name":"دورس","stock":2000,"min_sale_price":400000,"min_sale_amount":20,"description":"وارداتی<hr\/>برای اطلاع از قیمت روز دورس و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : کیفیت درجه یک وارداتی<hr\/>مقدار موجودی آماده فروش برای این محصول : 2000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 20 عدد<hr\/>","myuser_id":1149558,"sub_category_id":932,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"لباس مردانه","unit":"عدد","is_elevated":0,"category_name":"پوشاک","category_id":927,"is_old":false},"user_info":{"id":1149558,"user_name":"13dhvc54pgru","first_name":"مهدی","last_name":"مهدیزاده","active_pakage_type":0,"created_at":"2024-11-14 12:51:57","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731576540959-281234103-bRJJn4LRWZzn5iK0fz0DKpOS4Yb3J1x2WBUX533z.jpeg"}]}
+{
+    "main": {
+        "id": 207389,
+        "updated_at": "2024-11-14 15:07:29",
+        "product_name": "دورس",
+        "stock": 2000,
+        "min_sale_price": 400000,
+        "min_sale_amount": 20,
+        "description": "وارداتی<hr\/>برای اطلاع از قیمت روز دورس و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : کیفیت درجه یک وارداتی<hr\/>مقدار موجودی آماده فروش برای این محصول : 2000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 20 عدد<hr\/>",
+        "myuser_id": 1149558,
+        "sub_category_id": 932,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "لباس مردانه",
+        "unit": "عدد",
+        "is_elevated": 0,
+        "category_name": "پوشاک",
+        "category_id": 927,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1149558,
+        "user_name": "13dhvc54pgru",
+        "first_name": "مهدی",
+        "last_name": "مهدیزاده",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-14 12:51:57",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731576540959-281234103-bRJJn4LRWZzn5iK0fz0DKpOS4Yb3J1x2WBUX533z.jpeg"
+        }
+    ]
+}

@@ -1,1 +1,38 @@
-{"main":{"id":193956,"updated_at":"2024-11-15 22:16:13","product_name":"مضافتی","stock":60000,"min_sale_price":65000,"min_sale_amount":5000,"description":"نمونه بار مضافتی در بسته بندی فله موجوده \r\nکل بار یکدست ‌واز  کیفیت مطلوبی برخورداره<hr\/>برای اطلاع از قیمت روز مضافتی  و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 60000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 5000 کیلوگرم<hr\/>","myuser_id":718888,"sub_category_id":6,"province_name":"كرمان","province_id":21,"city_name":" بم","city_id":223,"sub_category_name":"خرما","unit":"کیلوگرم","is_elevated":0,"category_name":"میوه","category_id":1,"is_old":false},"user_info":{"id":718888,"user_name":"b8m3","first_name":"محبوبه","last_name":"ثمره","active_pakage_type":2,"created_at":"2023-11-10 14:22:55","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1725173012625-851350145-1ZuHczHQaF0NYh0V5Q6GA5s2dxdzABMNvK5zWoOf.jpeg"}]}
+{
+    "main": {
+        "id": 193956,
+        "updated_at": "2024-11-15 22:16:13",
+        "product_name": "مضافتی",
+        "stock": 60000,
+        "min_sale_price": 65000,
+        "min_sale_amount": 5000,
+        "description": "نمونه بار مضافتی در بسته بندی فله موجوده \r\nکل بار یکدست ‌واز  کیفیت مطلوبی برخورداره<hr\/>برای اطلاع از قیمت روز مضافتی  و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 60000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 5000 کیلوگرم<hr\/>",
+        "myuser_id": 718888,
+        "sub_category_id": 6,
+        "province_name": "كرمان",
+        "province_id": 21,
+        "city_name": " بم",
+        "city_id": 223,
+        "sub_category_name": "خرما",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "میوه",
+        "category_id": 1,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 718888,
+        "user_name": "b8m3",
+        "first_name": "محبوبه",
+        "last_name": "ثمره",
+        "active_pakage_type": 2,
+        "created_at": "2023-11-10 14:22:55",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1725173012625-851350145-1ZuHczHQaF0NYh0V5Q6GA5s2dxdzABMNvK5zWoOf.jpeg"
+        }
+    ]
+}

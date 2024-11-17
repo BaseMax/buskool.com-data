@@ -1,1 +1,38 @@
-{"main":{"id":207432,"updated_at":"2024-11-14 17:41:47","product_name":"گلدان پلاستیکی","stock":50000,"min_sale_price":2100,"min_sale_amount":500,"description":"پخش عمده گلدان پلاستیکی \r\nبا کیفیت و مقاوم \r\nدارای زهکشی بالا \r\nبا ارسال رایگان به تمام نقاط ایران برای تیراز بالا<hr\/>برای اطلاع از قیمت روز گلدان پلاستیکی و خرید مستقیم پیام ارسال کنید.<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : فروش بصورت عمده <hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 500 عدد<hr\/>","myuser_id":1149611,"sub_category_id":380,"province_name":"البرز","province_id":5,"city_name":" کرج","city_id":66,"sub_category_name":"ابزار باغبانی","unit":"عدد","is_elevated":0,"category_name":"تجهیزات کشاورزی","category_id":332,"is_old":false},"user_info":{"id":1149611,"user_name":"phm12gi13zl2","first_name":"امید","last_name":"اردلان","active_pakage_type":0,"created_at":"2024-11-14 13:34:14","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731592047677-801302674-cfSfTCqnXPiCOS3S7HFYH0PMrpVbNuL8GdbYBVQS.jpeg"}]}
+{
+    "main": {
+        "id": 207432,
+        "updated_at": "2024-11-14 17:41:47",
+        "product_name": "گلدان پلاستیکی",
+        "stock": 50000,
+        "min_sale_price": 2100,
+        "min_sale_amount": 500,
+        "description": "پخش عمده گلدان پلاستیکی \r\nبا کیفیت و مقاوم \r\nدارای زهکشی بالا \r\nبا ارسال رایگان به تمام نقاط ایران برای تیراز بالا<hr\/>برای اطلاع از قیمت روز گلدان پلاستیکی و خرید مستقیم پیام ارسال کنید.<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : فروش بصورت عمده <hr\/>مقدار موجودی آماده فروش برای این محصول : 50000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 500 عدد<hr\/>",
+        "myuser_id": 1149611,
+        "sub_category_id": 380,
+        "province_name": "البرز",
+        "province_id": 5,
+        "city_name": " کرج",
+        "city_id": 66,
+        "sub_category_name": "ابزار باغبانی",
+        "unit": "عدد",
+        "is_elevated": 0,
+        "category_name": "تجهیزات کشاورزی",
+        "category_id": 332,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1149611,
+        "user_name": "phm12gi13zl2",
+        "first_name": "امید",
+        "last_name": "اردلان",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-14 13:34:14",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731592047677-801302674-cfSfTCqnXPiCOS3S7HFYH0PMrpVbNuL8GdbYBVQS.jpeg"
+        }
+    ]
+}

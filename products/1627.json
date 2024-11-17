@@ -1,1 +1,38 @@
-{"main":{"id":207822,"updated_at":"2024-11-16 18:32:59","product_name":"کافی میت","stock":100,"min_sale_price":125000,"min_sale_amount":5,"description":"کافی میت \r\nآماده ی ارسال به تمام نقاط<hr\/>برای اطلاع از قیمت روز کافی میت  و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : 5 کیلویی<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : عالی<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : نقد<hr\/>مقدار موجودی آماده فروش برای این محصول : 100 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 5 کیلوگرم<hr\/>","myuser_id":1148727,"sub_category_id":84,"province_name":"البرز","province_id":5,"city_name":" کرج","city_id":66,"sub_category_name":"قهوه","unit":"کیلوگرم","is_elevated":0,"category_name":"نوشیدنی","category_id":78,"is_old":false},"user_info":{"id":1148727,"user_name":"fkbjcwn2","first_name":"رویا","last_name":"بهرامی","active_pakage_type":1,"created_at":"2024-11-13 19:57:53","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731769505584-67265851-o4jW8ZlyK882XPSn0ArGNghf9iuhKvggCEY5xKNl.jpeg"}]}
+{
+    "main": {
+        "id": 207822,
+        "updated_at": "2024-11-16 18:32:59",
+        "product_name": "کافی میت",
+        "stock": 100,
+        "min_sale_price": 125000,
+        "min_sale_amount": 5,
+        "description": "کافی میت \r\nآماده ی ارسال به تمام نقاط<hr\/>برای اطلاع از قیمت روز کافی میت  و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : 5 کیلویی<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : عالی<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : نقد<hr\/>مقدار موجودی آماده فروش برای این محصول : 100 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 5 کیلوگرم<hr\/>",
+        "myuser_id": 1148727,
+        "sub_category_id": 84,
+        "province_name": "البرز",
+        "province_id": 5,
+        "city_name": " کرج",
+        "city_id": 66,
+        "sub_category_name": "قهوه",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "نوشیدنی",
+        "category_id": 78,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1148727,
+        "user_name": "fkbjcwn2",
+        "first_name": "رویا",
+        "last_name": "بهرامی",
+        "active_pakage_type": 1,
+        "created_at": "2024-11-13 19:57:53",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731769505584-67265851-o4jW8ZlyK882XPSn0ArGNghf9iuhKvggCEY5xKNl.jpeg"
+        }
+    ]
+}

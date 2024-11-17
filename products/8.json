@@ -1,1 +1,38 @@
-{"main":{"id":187495,"updated_at":"2024-11-17 09:40:49","product_name":"آرد نول","stock":25000,"min_sale_price":19000,"min_sale_amount":1000,"description":"انواع آرد \r\nآرد نول گلوتن بالا \r\nآرد نول زبر\r\nآرد ستاره 18\r\nآرد دامی \r\nسبوس \r\nدر کیسه های 40 کیلویی\r\nبارگیری از کارخانه<hr\/>برای اطلاع از قیمت روز آرد نول  و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : کیسه 40کیلو<hr\/>مقدار موجودی آماده فروش برای این محصول : 500000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 کیلوگرم<hr\/>","myuser_id":995528,"sub_category_id":126,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"آرد","unit":"کیلوگرم","is_elevated":0,"category_name":"چاشنی و افزودنی","category_id":82,"is_old":false},"user_info":{"id":995528,"user_name":"8x9uw","first_name":"مجید","last_name":"شریعتی","active_pakage_type":1,"created_at":"2024-07-18 08:25:21","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1721282322944-942849154-5OmHGGrc4Eta64T8eEvBR53KeOixCPbLGuYUShsz.jpeg"}]}
+{
+    "main": {
+        "id": 187495,
+        "updated_at": "2024-11-17 09:40:49",
+        "product_name": "آرد نول",
+        "stock": 25000,
+        "min_sale_price": 19000,
+        "min_sale_amount": 1000,
+        "description": "انواع آرد \r\nآرد نول گلوتن بالا \r\nآرد نول زبر\r\nآرد ستاره 18\r\nآرد دامی \r\nسبوس \r\nدر کیسه های 40 کیلویی\r\nبارگیری از کارخانه<hr\/>برای اطلاع از قیمت روز آرد نول  و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : کیسه 40کیلو<hr\/>مقدار موجودی آماده فروش برای این محصول : 500000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1000 کیلوگرم<hr\/>",
+        "myuser_id": 995528,
+        "sub_category_id": 126,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "آرد",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "چاشنی و افزودنی",
+        "category_id": 82,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 995528,
+        "user_name": "8x9uw",
+        "first_name": "مجید",
+        "last_name": "شریعتی",
+        "active_pakage_type": 1,
+        "created_at": "2024-07-18 08:25:21",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1721282322944-942849154-5OmHGGrc4Eta64T8eEvBR53KeOixCPbLGuYUShsz.jpeg"
+        }
+    ]
+}

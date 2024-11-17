@@ -1,1 +1,38 @@
-{"main":{"id":207501,"updated_at":"2024-11-15 11:09:51","product_name":"شلوار لی مردانه","stock":100000,"min_sale_price":290000,"min_sale_amount":10,"description":"جنس لیوایز پارچه ارتا و کلاسیک پارچه. ارتا\r\nاسکینی پنبه پر \r\nپیج اینیستاگرام مارو دنبال کنید تانمونه بیشتری ببینید.  ramin_ravaji<hr\/>برای اطلاع از قیمت روز شلوار لی مردانه و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : 10<hr\/>رنگ ظاهری این محصول : تنوع رنگ بالا<hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 10 عدد<hr\/>","myuser_id":1147311,"sub_category_id":932,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"لباس مردانه","unit":"عدد","is_elevated":0,"category_name":"پوشاک","category_id":927,"is_old":false},"user_info":{"id":1147311,"user_name":"07g6hj2kd","first_name":"متین","last_name":"رواجی","active_pakage_type":0,"created_at":"2024-11-12 19:59:34","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731654756523-322891496-xP6bsSjk4xGsNeumaS2Q6L8PMNMUAHD24AoyY4LF.jpeg"}]}
+{
+    "main": {
+        "id": 207501,
+        "updated_at": "2024-11-15 11:09:51",
+        "product_name": "شلوار لی مردانه",
+        "stock": 100000,
+        "min_sale_price": 290000,
+        "min_sale_amount": 10,
+        "description": "جنس لیوایز پارچه ارتا و کلاسیک پارچه. ارتا\r\nاسکینی پنبه پر \r\nپیج اینیستاگرام مارو دنبال کنید تانمونه بیشتری ببینید.  ramin_ravaji<hr\/>برای اطلاع از قیمت روز شلوار لی مردانه و خرید مستقیم پیام ارسال کنید.<hr\/>نوع بسته بندی و وزن ارائه شده توسط فروشنده برای این محصول : 10<hr\/>رنگ ظاهری این محصول : تنوع رنگ بالا<hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 10 عدد<hr\/>",
+        "myuser_id": 1147311,
+        "sub_category_id": 932,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "لباس مردانه",
+        "unit": "عدد",
+        "is_elevated": 0,
+        "category_name": "پوشاک",
+        "category_id": 927,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1147311,
+        "user_name": "07g6hj2kd",
+        "first_name": "متین",
+        "last_name": "رواجی",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-12 19:59:34",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731654756523-322891496-xP6bsSjk4xGsNeumaS2Q6L8PMNMUAHD24AoyY4LF.jpeg"
+        }
+    ]
+}

@@ -1,1 +1,38 @@
-{"main":{"id":207614,"updated_at":"2024-11-16 09:54:54","product_name":"هالوژن 7وات","stock":10000,"min_sale_price":19000,"min_sale_amount":300,"description":"هالوژن (چشمی)7 وات\r\nرنگ :آفتابی،مهتابی و نچرال\r\nجنس بدنه :ABS\r\nرنگ بدنه  سفید\r\nتعداد در  کارتن:160عدد<hr\/>برای اطلاع از قیمت روز هالوژن 7وات و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : جنس بدنه ABS <hr\/>مقدار موجودی آماده فروش برای این محصول : 10000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 300 عدد<hr\/>","myuser_id":661813,"sub_category_id":824,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"لامپ","unit":"عدد","is_elevated":0,"category_name":"تجهیزات روشنایی","category_id":815,"is_old":false},"user_info":{"id":661813,"user_name":"ktcp6esplqw2","first_name":"حسن","last_name":"فصیحی","active_pakage_type":2,"created_at":"2023-09-15 20:09:37","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731697631144-485327139-EGOioUoLEuHPpfvLcVGlkR04MC716k7iDZ8I76dt.jpeg"}]}
+{
+    "main": {
+        "id": 207614,
+        "updated_at": "2024-11-16 09:54:54",
+        "product_name": "هالوژن 7وات",
+        "stock": 10000,
+        "min_sale_price": 19000,
+        "min_sale_amount": 300,
+        "description": "هالوژن (چشمی)7 وات\r\nرنگ :آفتابی،مهتابی و نچرال\r\nجنس بدنه :ABS\r\nرنگ بدنه  سفید\r\nتعداد در  کارتن:160عدد<hr\/>برای اطلاع از قیمت روز هالوژن 7وات و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : جنس بدنه ABS <hr\/>مقدار موجودی آماده فروش برای این محصول : 10000 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 300 عدد<hr\/>",
+        "myuser_id": 661813,
+        "sub_category_id": 824,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "لامپ",
+        "unit": "عدد",
+        "is_elevated": 0,
+        "category_name": "تجهیزات روشنایی",
+        "category_id": 815,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 661813,
+        "user_name": "ktcp6esplqw2",
+        "first_name": "حسن",
+        "last_name": "فصیحی",
+        "active_pakage_type": 2,
+        "created_at": "2023-09-15 20:09:37",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731697631144-485327139-EGOioUoLEuHPpfvLcVGlkR04MC716k7iDZ8I76dt.jpeg"
+        }
+    ]
+}

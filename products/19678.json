@@ -1,1 +1,38 @@
-{"main":{"id":207189,"updated_at":"2024-11-13 15:05:26","product_name":"مغز سبز احمد اقایی","stock":500,"min_sale_price":850000,"min_sale_amount":65,"description":"مغز سبز پسته احمد آقایی امسال فروش فوری قیمت 950 خورده 850 میفروشم<hr\/>برای اطلاع از قیمت روز مغز سبز احمد اقایی و خرید مستقیم پیام ارسال کنید.<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : نقدی<hr\/>مقدار موجودی آماده فروش برای این محصول : 500 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 65 کیلوگرم<hr\/>","myuser_id":1147784,"sub_category_id":44,"province_name":"كرمان","province_id":21,"city_name":" رفسنجان","city_id":226,"sub_category_name":"پسته","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":1147784,"user_name":"3zl1","first_name":"نجمه","last_name":"حسن زاده","active_pakage_type":0,"created_at":"2024-11-13 03:57:26","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731496752994-775475423-IyzhdC8DJSCpwLEnXRpiqU2ff1xNSGukOD8tDJgl.jpeg"}]}
+{
+    "main": {
+        "id": 207189,
+        "updated_at": "2024-11-13 15:05:26",
+        "product_name": "مغز سبز احمد اقایی",
+        "stock": 500,
+        "min_sale_price": 850000,
+        "min_sale_amount": 65,
+        "description": "مغز سبز پسته احمد آقایی امسال فروش فوری قیمت 950 خورده 850 میفروشم<hr\/>برای اطلاع از قیمت روز مغز سبز احمد اقایی و خرید مستقیم پیام ارسال کنید.<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : نقدی<hr\/>مقدار موجودی آماده فروش برای این محصول : 500 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 65 کیلوگرم<hr\/>",
+        "myuser_id": 1147784,
+        "sub_category_id": 44,
+        "province_name": "كرمان",
+        "province_id": 21,
+        "city_name": " رفسنجان",
+        "city_id": 226,
+        "sub_category_name": "پسته",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1147784,
+        "user_name": "3zl1",
+        "first_name": "نجمه",
+        "last_name": "حسن زاده",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-13 03:57:26",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731496752994-775475423-IyzhdC8DJSCpwLEnXRpiqU2ff1xNSGukOD8tDJgl.jpeg"
+        }
+    ]
+}

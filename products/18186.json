@@ -1,1 +1,38 @@
-{"main":{"id":203263,"updated_at":"2024-11-15 23:57:09","product_name":"انواع شیرخشک اسکیم پرچرب وآب پنیر","stock":500000,"min_sale_price":114000,"min_sale_amount":500,"description":"کیسه های 25کیلویی باانواع برندهای مختلف وکیفیت مطلوب \r\nقابل استفاده در انواع محصولات غذایی \r\nمدت زمان ماندگاری 24ماه\r\nدرجای خشک وخنک نگهداری شود<hr\/>برای اطلاع از قیمت روز انواع شیرخشک اسکیم پرچرب و... و خرید مستقیم پیام ارسال کنید.<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : بصورت نقدی <hr\/>مقدار موجودی آماده فروش برای این محصول : 500000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 500 کیلوگرم<hr\/>","myuser_id":1122057,"sub_category_id":1055,"province_name":"اصفهان","province_id":4,"city_name":" اصفهان","city_id":45,"sub_category_name":"شیر خشک","unit":"کیلوگرم","is_elevated":0,"category_name":"چاشنی و افزودنی","category_id":82,"is_old":false},"user_info":{"id":1122057,"user_name":"17u14l","first_name":"علی","last_name":"روستائی","active_pakage_type":0,"created_at":"2024-10-27 00:33:42","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1729977586797-299658659-1nX7pceBtQ5p6ofFEHeC7L4hHkRPXRQlk2wNeNjG.jpeg"}]}
+{
+    "main": {
+        "id": 203263,
+        "updated_at": "2024-11-15 23:57:09",
+        "product_name": "انواع شیرخشک اسکیم پرچرب وآب پنیر",
+        "stock": 500000,
+        "min_sale_price": 114000,
+        "min_sale_amount": 500,
+        "description": "کیسه های 25کیلویی باانواع برندهای مختلف وکیفیت مطلوب \r\nقابل استفاده در انواع محصولات غذایی \r\nمدت زمان ماندگاری 24ماه\r\nدرجای خشک وخنک نگهداری شود<hr\/>برای اطلاع از قیمت روز انواع شیرخشک اسکیم پرچرب و... و خرید مستقیم پیام ارسال کنید.<hr\/>شرایط پرداخت پول در معامله طبق نظر فروشنده برای فروش این محصول : بصورت نقدی <hr\/>مقدار موجودی آماده فروش برای این محصول : 500000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 500 کیلوگرم<hr\/>",
+        "myuser_id": 1122057,
+        "sub_category_id": 1055,
+        "province_name": "اصفهان",
+        "province_id": 4,
+        "city_name": " اصفهان",
+        "city_id": 45,
+        "sub_category_name": "شیر خشک",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "چاشنی و افزودنی",
+        "category_id": 82,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1122057,
+        "user_name": "17u14l",
+        "first_name": "علی",
+        "last_name": "روستائی",
+        "active_pakage_type": 0,
+        "created_at": "2024-10-27 00:33:42",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1729977586797-299658659-1nX7pceBtQ5p6ofFEHeC7L4hHkRPXRQlk2wNeNjG.jpeg"
+        }
+    ]
+}

@@ -1,1 +1,38 @@
-{"main":{"id":197196,"updated_at":"2024-11-16 08:39:21","product_name":"گالن تصفیه سویا 10 لیتری","stock":100000,"min_sale_price":460000,"min_sale_amount":500,"description":"کارخانه روغن باران طلایی\r\nتولید کننده انواع روغن های خوراکی در احجام پت و گالن 20 لیتری و 10 لیتری با بهترین کیفیت تولید و مناسب ترین قیمت در استان گلستان شهرک صنعتی علی آباد کتول<hr\/>برای اطلاع از قیمت روز گالن تصفیه سویا 10 لیتری و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : عالی<hr\/>میزان تازه بودن و زمان تولید این محصول : تازه و بارگیری بروز <hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 500 کیلوگرم<hr\/>","myuser_id":121254,"sub_category_id":98,"province_name":"گلستان","province_id":24,"city_name":" گرگان","city_id":264,"sub_category_name":"روغن خوراکی","unit":"کیلوگرم","is_elevated":0,"category_name":"چاشنی و افزودنی","category_id":82,"is_old":false},"user_info":{"id":121254,"user_name":"vp1wh","first_name":"فاطمه","last_name":"قربانی","active_pakage_type":2,"created_at":"2022-04-30 10:17:40","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1727169626371-528046911-9f6qKW9nU6lhgCw4R1IAZTwkxEqqWp5vSi2YzDj4.jpeg"}]}
+{
+    "main": {
+        "id": 197196,
+        "updated_at": "2024-11-16 08:39:21",
+        "product_name": "گالن تصفیه سویا 10 لیتری",
+        "stock": 100000,
+        "min_sale_price": 460000,
+        "min_sale_amount": 500,
+        "description": "کارخانه روغن باران طلایی\r\nتولید کننده انواع روغن های خوراکی در احجام پت و گالن 20 لیتری و 10 لیتری با بهترین کیفیت تولید و مناسب ترین قیمت در استان گلستان شهرک صنعتی علی آباد کتول<hr\/>برای اطلاع از قیمت روز گالن تصفیه سویا 10 لیتری و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : عالی<hr\/>میزان تازه بودن و زمان تولید این محصول : تازه و بارگیری بروز <hr\/>مقدار موجودی آماده فروش برای این محصول : 100000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 500 کیلوگرم<hr\/>",
+        "myuser_id": 121254,
+        "sub_category_id": 98,
+        "province_name": "گلستان",
+        "province_id": 24,
+        "city_name": " گرگان",
+        "city_id": 264,
+        "sub_category_name": "روغن خوراکی",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "چاشنی و افزودنی",
+        "category_id": 82,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 121254,
+        "user_name": "vp1wh",
+        "first_name": "فاطمه",
+        "last_name": "قربانی",
+        "active_pakage_type": 2,
+        "created_at": "2022-04-30 10:17:40",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1727169626371-528046911-9f6qKW9nU6lhgCw4R1IAZTwkxEqqWp5vSi2YzDj4.jpeg"
+        }
+    ]
+}

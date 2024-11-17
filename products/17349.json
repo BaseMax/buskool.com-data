@@ -1,1 +1,38 @@
-{"main":{"id":197933,"updated_at":"2024-11-13 22:18:17","product_name":"کشمش پلویی ریز دانه مخصوص قنادی","stock":10000,"min_sale_price":100000,"min_sale_amount":2000,"description":"کشمش پلویی درجه یک ریز دانه مخصوص قنادی<hr\/>برای اطلاع از قیمت روز کشمش پلویی ریز دانه مخصوص قنادی و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : درجه A<hr\/>مقدار موجودی آماده فروش برای این محصول : 10000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 2000 کیلوگرم<hr\/>","myuser_id":169976,"sub_category_id":53,"province_name":"همدان","province_id":30,"city_name":" ملایر","city_id":425,"sub_category_name":"کشمش","unit":"کیلوگرم","is_elevated":0,"category_name":"خشکبار","category_id":45,"is_old":false},"user_info":{"id":169976,"user_name":"1tlh61","first_name":"مهدی","last_name":"باقری","active_pakage_type":3,"created_at":"2022-07-06 11:52:23","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1727588528888-567180703-aLfNcN6MExMw2sO5LB6lBxiSfTdHhQ6HbzDg3wyS.jpeg"}]}
+{
+    "main": {
+        "id": 197933,
+        "updated_at": "2024-11-13 22:18:17",
+        "product_name": "کشمش پلویی ریز دانه مخصوص قنادی",
+        "stock": 10000,
+        "min_sale_price": 100000,
+        "min_sale_amount": 2000,
+        "description": "کشمش پلویی درجه یک ریز دانه مخصوص قنادی<hr\/>برای اطلاع از قیمت روز کشمش پلویی ریز دانه مخصوص قنادی و خرید مستقیم پیام ارسال کنید.<hr\/>میزان مرغوبیت و کیفیت ظاهری محصول ارائه شده : درجه A<hr\/>مقدار موجودی آماده فروش برای این محصول : 10000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 2000 کیلوگرم<hr\/>",
+        "myuser_id": 169976,
+        "sub_category_id": 53,
+        "province_name": "همدان",
+        "province_id": 30,
+        "city_name": " ملایر",
+        "city_id": 425,
+        "sub_category_name": "کشمش",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "خشکبار",
+        "category_id": 45,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 169976,
+        "user_name": "1tlh61",
+        "first_name": "مهدی",
+        "last_name": "باقری",
+        "active_pakage_type": 3,
+        "created_at": "2022-07-06 11:52:23",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1727588528888-567180703-aLfNcN6MExMw2sO5LB6lBxiSfTdHhQ6HbzDg3wyS.jpeg"
+        }
+    ]
+}

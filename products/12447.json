@@ -1,1 +1,38 @@
-{"main":{"id":207913,"updated_at":"2024-11-17 09:13:29","product_name":"اینورتر سه فاز 5.5 کیلووات اینوت","stock":600,"min_sale_price":17540000,"min_sale_amount":1,"description":"نوع کاربرد اینورتر:  کاربری های سبک و نیمه سنگین\r\nفرکانس خروجی:  400~0.01 هرتز\r\nولتاژ ورودی: 380 ولت - برق سه فاز\r\nتوان ورودی\r\n7.5HP - 5.5KW\r\nمد کنترلی\r\nOpen loop Vector Control<hr\/>برای اطلاع از قیمت روز اینورتر سه فاز 5.5 کیلووات اینوت  و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 600 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1 عدد<hr\/>","myuser_id":1053777,"sub_category_id":668,"province_name":"تهران","province_id":8,"city_name":" تهران","city_id":87,"sub_category_name":"سایر تجهیزات صنعتی","unit":"عدد","is_elevated":0,"category_name":"تجهیزات صنعتی","category_id":614,"is_old":false},"user_info":{"id":1053777,"user_name":"20ykfw","first_name":"شرکت","last_name":"کالا صنعتی","active_pakage_type":2,"created_at":"2024-09-05 09:05:22","is_verified":1},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731822493220-518694606-WaKWxCrnHNbBRScbFEQwP8xqq8warx17rVgAiLHx.jpeg"}]}
+{
+    "main": {
+        "id": 207913,
+        "updated_at": "2024-11-17 09:13:29",
+        "product_name": "اینورتر سه فاز 5.5 کیلووات اینوت",
+        "stock": 600,
+        "min_sale_price": 17540000,
+        "min_sale_amount": 1,
+        "description": "نوع کاربرد اینورتر:  کاربری های سبک و نیمه سنگین\r\nفرکانس خروجی:  400~0.01 هرتز\r\nولتاژ ورودی: 380 ولت - برق سه فاز\r\nتوان ورودی\r\n7.5HP - 5.5KW\r\nمد کنترلی\r\nOpen loop Vector Control<hr\/>برای اطلاع از قیمت روز اینورتر سه فاز 5.5 کیلووات اینوت  و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 600 عدد<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 1 عدد<hr\/>",
+        "myuser_id": 1053777,
+        "sub_category_id": 668,
+        "province_name": "تهران",
+        "province_id": 8,
+        "city_name": " تهران",
+        "city_id": 87,
+        "sub_category_name": "سایر تجهیزات صنعتی",
+        "unit": "عدد",
+        "is_elevated": 0,
+        "category_name": "تجهیزات صنعتی",
+        "category_id": 614,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1053777,
+        "user_name": "20ykfw",
+        "first_name": "شرکت",
+        "last_name": "کالا صنعتی",
+        "active_pakage_type": 2,
+        "created_at": "2024-09-05 09:05:22",
+        "is_verified": 1
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731822493220-518694606-WaKWxCrnHNbBRScbFEQwP8xqq8warx17rVgAiLHx.jpeg"
+        }
+    ]
+}

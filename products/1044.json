@@ -1,1 +1,38 @@
-{"main":{"id":207761,"updated_at":"2024-11-16 14:44:48","product_name":"فروسیلیس","stock":300000,"min_sale_price":81900,"min_sale_amount":50000,"description":"فروسیلیس مرغوب سایز 10-60 با SI 72 و AL  کمتر از 2 درصد<hr\/>برای اطلاع از قیمت روز فروسیلیس و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 300000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 50000 کیلوگرم<hr\/>","myuser_id":1152348,"sub_category_id":268,"province_name":"اصفهان","province_id":4,"city_name":" اصفهان","city_id":45,"sub_category_name":"مواد مغناطیسی","unit":"کیلوگرم","is_elevated":0,"category_name":"مواد معدنی","category_id":144,"is_old":false},"user_info":{"id":1152348,"user_name":"0k37fv","first_name":"علیرضا","last_name":"لطفی","active_pakage_type":0,"created_at":"2024-11-16 13:46:47","is_verified":0},"profile_info":[],"photos":[{"file_path":"https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731753773383-610832060-dooPu5xWdD1gV6E0cKlorBtMwd5FgYj6BoAGrkb8.jpeg"}]}
+{
+    "main": {
+        "id": 207761,
+        "updated_at": "2024-11-16 14:44:48",
+        "product_name": "فروسیلیس",
+        "stock": 300000,
+        "min_sale_price": 81900,
+        "min_sale_amount": 50000,
+        "description": "فروسیلیس مرغوب سایز 10-60 با SI 72 و AL  کمتر از 2 درصد<hr\/>برای اطلاع از قیمت روز فروسیلیس و خرید مستقیم پیام ارسال کنید.<hr\/>مقدار موجودی آماده فروش برای این محصول : 300000 کیلوگرم<hr\/>حداقل مقدار فروش این محصول توسط فروشنده در یک معامله : 50000 کیلوگرم<hr\/>",
+        "myuser_id": 1152348,
+        "sub_category_id": 268,
+        "province_name": "اصفهان",
+        "province_id": 4,
+        "city_name": " اصفهان",
+        "city_id": 45,
+        "sub_category_name": "مواد مغناطیسی",
+        "unit": "کیلوگرم",
+        "is_elevated": 0,
+        "category_name": "مواد معدنی",
+        "category_id": 144,
+        "is_old": false
+    },
+    "user_info": {
+        "id": 1152348,
+        "user_name": "0k37fv",
+        "first_name": "علیرضا",
+        "last_name": "لطفی",
+        "active_pakage_type": 0,
+        "created_at": "2024-11-16 13:46:47",
+        "is_verified": 0
+    },
+    "profile_info": [],
+    "photos": [
+        {
+            "file_path": "https:\/\/product-thumbnails.s3.ir-thr-at1.arvanstorage.com\/web-1731753773383-610832060-dooPu5xWdD1gV6E0cKlorBtMwd5FgYj6BoAGrkb8.jpeg"
+        }
+    ]
+}
