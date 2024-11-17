@@ -1,6 +1,6 @@
 # Buskool Data
 
-This repository contains the collected product data from the [Buskool website](http://www.buskool.com/) (باسکول). The data is stored in +50 JSON files, each containing detailed information about products available on the website.
+This repository contains the collected product data from the [Buskool website](http://www.buskool.com/) (باسکول). The data is stored in +20k JSON files, each containing detailed information about products available on the website.
 
 ## Structure
 - Each JSON file represents a subset of the product catalog.
