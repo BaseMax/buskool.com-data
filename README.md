@@ -28,6 +28,13 @@ This repository contains the collected product data from the [Buskool website](h
       print(data)
   ```
 
+  ```python
+  import json
+  
+  with open('products/1.json', 'r', encoding='utf-8) as file:
+      data = json.load(file)
+      print(data)
+  ```
 ## Data Source
 
 The data in this repository was collected using the Buskool Crawler. It is intended for educational, research, and development purposes only.
